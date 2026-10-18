@@ -1,0 +1,316 @@
+{
+  "version": 1,
+  "nom": "Magasin de démonstration (fictif)",
+  "batiment": {
+    "longueur": 15,
+    "largeur": 10,
+    "hauteur": 4,
+    "epaisseurMur": 0.2
+  },
+  "portes": [
+    {
+      "id": "P1",
+      "libelle": "Porte quai",
+      "mur": "sud",
+      "centre": -0.5,
+      "largeur": 3,
+      "hauteur": 3.2
+    }
+  ],
+  "zones": [
+    {
+      "id": "A",
+      "nom": "Zone A — Relayage / contacteurs",
+      "couleur": "#3b82f6"
+    },
+    {
+      "id": "B",
+      "nom": "Zone B — Protections BT",
+      "couleur": "#22c55e"
+    },
+    {
+      "id": "C",
+      "nom": "Zone C — Électronique / calculateurs",
+      "couleur": "#a855f7"
+    },
+    {
+      "id": "D",
+      "nom": "Zone D — Connectique / borniers",
+      "couleur": "#06b6d4"
+    },
+    {
+      "id": "E",
+      "nom": "Zone E — Automatismes / capteurs",
+      "couleur": "#f97316"
+    },
+    {
+      "id": "F",
+      "nom": "Zone F — Volumineux / câbles",
+      "couleur": "#ef4444"
+    }
+  ],
+  "aires": [
+    {
+      "id": "REC",
+      "nom": "Réception",
+      "type": "reception",
+      "x": -5.2,
+      "z": 3.25,
+      "largeur": 4,
+      "profondeur": 2.9,
+      "couleur": "#22c55e"
+    },
+    {
+      "id": "PREP",
+      "nom": "Préparation",
+      "type": "preparation",
+      "x": -0.5,
+      "z": 3.25,
+      "largeur": 4.2,
+      "profondeur": 2.9,
+      "couleur": "#3b82f6"
+    },
+    {
+      "id": "EXP",
+      "nom": "Sortie / expédition",
+      "type": "sortie",
+      "x": 4.7,
+      "z": 3.25,
+      "largeur": 5,
+      "profondeur": 2.9,
+      "couleur": "#f5b301"
+    },
+    {
+      "id": "VOL",
+      "nom": "Volumineux au sol",
+      "type": "volumineux",
+      "x": 5.6,
+      "z": -2,
+      "largeur": 3.2,
+      "profondeur": 5.4,
+      "couleur": "#ef4444"
+    },
+    {
+      "id": "AL1",
+      "nom": "Allée 1",
+      "type": "allee",
+      "x": -5.55,
+      "z": -2,
+      "largeur": 1.9,
+      "profondeur": 5.5,
+      "couleur": "#f5b301"
+    },
+    {
+      "id": "AL2",
+      "nom": "Allée 2",
+      "type": "allee",
+      "x": -2.05,
+      "z": -2,
+      "largeur": 1.9,
+      "profondeur": 5.5,
+      "couleur": "#f5b301"
+    },
+    {
+      "id": "AL3",
+      "nom": "Allée 3",
+      "type": "allee",
+      "x": 1.45,
+      "z": -2,
+      "largeur": 1.9,
+      "profondeur": 5.5,
+      "couleur": "#f5b301"
+    },
+    {
+      "id": "ALT",
+      "nom": "Allée transversale",
+      "type": "allee",
+      "x": 0,
+      "z": 1.25,
+      "largeur": 14.6,
+      "profondeur": 0.9,
+      "couleur": "#f5b301"
+    }
+  ],
+  "rayonnages": [
+    {
+      "id": "A01",
+      "zone": "A",
+      "x": -6.9,
+      "z": -3.4,
+      "rotation": 90,
+      "longueur": 2.7,
+      "profondeur": 0.8,
+      "hauteur": 3.2,
+      "niveaux": 5,
+      "hauteurPremierNiveau": 0.12,
+      "hauteurNiveau": 0.64,
+      "emplacementsParNiveau": 4,
+      "capaciteEmplacement": 100
+    },
+    {
+      "id": "A02",
+      "zone": "A",
+      "x": -6.9,
+      "z": -0.6,
+      "rotation": 90,
+      "longueur": 2.7,
+      "profondeur": 0.8,
+      "hauteur": 3.2,
+      "niveaux": 5,
+      "hauteurPremierNiveau": 0.12,
+      "hauteurNiveau": 0.64,
+      "emplacementsParNiveau": 4,
+      "capaciteEmplacement": 100
+    },
+    {
+      "id": "B01",
+      "zone": "B",
+      "x": -4.2,
+      "z": -3.4,
+      "rotation": -90,
+      "longueur": 2.7,
+      "profondeur": 0.8,
+      "hauteur": 3.2,
+      "niveaux": 5,
+      "hauteurPremierNiveau": 0.12,
+      "hauteurNiveau": 0.64,
+      "emplacementsParNiveau": 4,
+      "capaciteEmplacement": 100
+    },
+    {
+      "id": "B02",
+      "zone": "B",
+      "x": -4.2,
+      "z": -0.6,
+      "rotation": -90,
+      "longueur": 2.7,
+      "profondeur": 0.8,
+      "hauteur": 3.2,
+      "niveaux": 5,
+      "hauteurPremierNiveau": 0.12,
+      "hauteurNiveau": 0.64,
+      "emplacementsParNiveau": 4,
+      "capaciteEmplacement": 100
+    },
+    {
+      "id": "C01",
+      "zone": "C",
+      "x": -3.4,
+      "z": -3.4,
+      "rotation": 90,
+      "longueur": 2.7,
+      "profondeur": 0.8,
+      "hauteur": 3.2,
+      "niveaux": 5,
+      "hauteurPremierNiveau": 0.12,
+      "hauteurNiveau": 0.64,
+      "emplacementsParNiveau": 4,
+      "capaciteEmplacement": 100
+    },
+    {
+      "id": "C02",
+      "zone": "C",
+      "x": -3.4,
+      "z": -0.6,
+      "rotation": 90,
+      "longueur": 2.7,
+      "profondeur": 0.8,
+      "hauteur": 3.2,
+      "niveaux": 5,
+      "hauteurPremierNiveau": 0.12,
+      "hauteurNiveau": 0.64,
+      "emplacementsParNiveau": 4,
+      "capaciteEmplacement": 100
+    },
+    {
+      "id": "D01",
+      "zone": "D",
+      "x": -0.7,
+      "z": -3.4,
+      "rotation": -90,
+      "longueur": 2.7,
+      "profondeur": 0.8,
+      "hauteur": 3.2,
+      "niveaux": 5,
+      "hauteurPremierNiveau": 0.12,
+      "hauteurNiveau": 0.64,
+      "emplacementsParNiveau": 4,
+      "capaciteEmplacement": 100
+    },
+    {
+      "id": "D02",
+      "zone": "D",
+      "x": -0.7,
+      "z": -0.6,
+      "rotation": -90,
+      "longueur": 2.7,
+      "profondeur": 0.8,
+      "hauteur": 3.2,
+      "niveaux": 5,
+      "hauteurPremierNiveau": 0.12,
+      "hauteurNiveau": 0.64,
+      "emplacementsParNiveau": 4,
+      "capaciteEmplacement": 100
+    },
+    {
+      "id": "E01",
+      "zone": "E",
+      "x": 0.1,
+      "z": -3.4,
+      "rotation": 90,
+      "longueur": 2.7,
+      "profondeur": 0.8,
+      "hauteur": 3.2,
+      "niveaux": 5,
+      "hauteurPremierNiveau": 0.12,
+      "hauteurNiveau": 0.64,
+      "emplacementsParNiveau": 4,
+      "capaciteEmplacement": 100
+    },
+    {
+      "id": "E02",
+      "zone": "E",
+      "x": 0.1,
+      "z": -0.6,
+      "rotation": 90,
+      "longueur": 2.7,
+      "profondeur": 0.8,
+      "hauteur": 3.2,
+      "niveaux": 5,
+      "hauteurPremierNiveau": 0.12,
+      "hauteurNiveau": 0.64,
+      "emplacementsParNiveau": 4,
+      "capaciteEmplacement": 100
+    },
+    {
+      "id": "F01",
+      "zone": "F",
+      "x": 2.9,
+      "z": -3.4,
+      "rotation": -90,
+      "longueur": 2.7,
+      "profondeur": 1,
+      "hauteur": 3.2,
+      "niveaux": 5,
+      "hauteurPremierNiveau": 0.12,
+      "hauteurNiveau": 0.64,
+      "emplacementsParNiveau": 4,
+      "capaciteEmplacement": 30
+    },
+    {
+      "id": "F02",
+      "zone": "F",
+      "x": 2.9,
+      "z": -0.6,
+      "rotation": -90,
+      "longueur": 2.7,
+      "profondeur": 1,
+      "hauteur": 3.2,
+      "niveaux": 5,
+      "hauteurPremierNiveau": 0.12,
+      "hauteurNiveau": 0.64,
+      "emplacementsParNiveau": 4,
+      "capaciteEmplacement": 30
+    }
+  ]
+}

@@ -1,0 +1,7067 @@
+{
+ "schemaVersion": 1,
+ "articles": [
+  {
+   "ArticleID": "ART-0001",
+   "Reference": "RL-8192A",
+   "Designation": "Relais auxiliaire 24 Vcc 4RT",
+   "Categorie": "Relais",
+   "Constructeur": "Relexa",
+   "Description": "Relais auxiliaire 24 Vcc 4RT — article fictif de démonstration.",
+   "StockMinimum": 8,
+   "StockMaximum": 40,
+   "Unite": "pce",
+   "Statut": "actif"
+  },
+  {
+   "ArticleID": "ART-0002",
+   "Reference": "CT-4223B",
+   "Designation": "Contacteur tripolaire 18 A",
+   "Categorie": "Contacteurs",
+   "Constructeur": "Voltaris",
+   "Description": "Contacteur tripolaire 18 A — article fictif de démonstration.",
+   "StockMinimum": 5,
+   "StockMaximum": 25,
+   "Unite": "pce",
+   "Statut": "actif"
+  },
+  {
+   "ArticleID": "ART-0003",
+   "Reference": "DJ-5710C",
+   "Designation": "Disjoncteur 2P C10",
+   "Categorie": "Disjoncteurs BT",
+   "Constructeur": "Elektrom",
+   "Description": "Disjoncteur 2P C10 — article fictif de démonstration.",
+   "StockMinimum": 7,
+   "Unite": "pce",
+   "Statut": "actif"
+  },
+  {
+   "ArticleID": "ART-0004",
+   "Reference": "FU-2733D",
+   "Designation": "Fusible gG 10×38 16 A",
+   "Categorie": "Fusibles",
+   "Constructeur": "Fusix",
+   "Description": "Fusible gG 10×38 16 A — article fictif de démonstration.",
+   "StockMinimum": 12,
+   "StockMaximum": 72,
+   "Unite": "pce",
+   "Statut": "actif"
+  },
+  {
+   "ArticleID": "ART-0005",
+   "Reference": "CE-4797E",
+   "Designation": "Carte d'entrées TOR 16 voies",
+   "Categorie": "Cartes électroniques",
+   "Constructeur": "Calcitec",
+   "Description": "Carte d'entrées TOR 16 voies — article fictif de démonstration.",
+   "StockMinimum": 1,
+   "StockMaximum": 4,
+   "Unite": "pce",
+   "Statut": "actif"
+  },
+  {
+   "ArticleID": "ART-0006",
+   "Reference": "AL-3778F",
+   "Designation": "Alimentation 24 Vcc 5 A rail DIN",
+   "Categorie": "Alimentations",
+   "Constructeur": "Alimtec",
+   "Description": "Alimentation 24 Vcc 5 A rail DIN — article fictif de démonstration.",
+   "StockMinimum": 2,
+   "StockMaximum": 12,
+   "Unite": "pce",
+   "Statut": "actif"
+  },
+  {
+   "ArticleID": "ART-0007",
+   "Reference": "CA-4414G",
+   "Designation": "Calculateur de protection numérique",
+   "Categorie": "Calculateurs",
+   "Constructeur": "Calcitec",
+   "Description": "Calculateur de protection numérique — article fictif de démonstration.",
+   "StockMinimum": 1,
+   "Unite": "pce",
+   "Statut": "actif"
+  },
+  {
+   "ArticleID": "ART-0008",
+   "Reference": "BO-2807H",
+   "Designation": "Borne à vis 4 mm²",
+   "Categorie": "Borniers",
+   "Constructeur": "Borneo",
+   "Description": "Borne à vis 4 mm² — article fictif de démonstration.",
+   "StockMinimum": 30,
+   "Unite": "pce",
+   "Statut": "actif"
+  },
+  {
+   "ArticleID": "ART-0009",
+   "Reference": "CN-7088I",
+   "Designation": "Connecteur industriel 16 broches",
+   "Categorie": "Connecteurs",
+   "Constructeur": "Pinsys",
+   "Description": "Connecteur industriel 16 broches — article fictif de démonstration.",
+   "StockMinimum": 10,
+   "StockMaximum": 60,
+   "Unite": "pce",
+   "Statut": "actif"
+  },
+  {
+   "ArticleID": "ART-0010",
+   "Reference": "CP-8066J",
+   "Designation": "Capteur de température PT100",
+   "Categorie": "Capteurs",
+   "Constructeur": "Datamesure",
+   "Description": "Capteur de température PT100 — article fictif de démonstration.",
+   "StockMinimum": 2,
+   "StockMaximum": 12,
+   "Unite": "pce",
+   "Statut": "actif"
+  },
+  {
+   "ArticleID": "ART-0011",
+   "Reference": "MC-6788K",
+   "Designation": "Module Modbus TCP",
+   "Categorie": "Modules de communication",
+   "Constructeur": "Norcom",
+   "Description": "Module Modbus TCP — article fictif de démonstration.",
+   "StockMinimum": 1,
+   "StockMaximum": 7,
+   "Unite": "pce",
+   "Statut": "actif"
+  },
+  {
+   "ArticleID": "ART-0012",
+   "Reference": "AU-1376L",
+   "Designation": "Automate compact 24 E/S",
+   "Categorie": "Automates",
+   "Constructeur": "Calcitec",
+   "Description": "Automate compact 24 E/S — article fictif de démonstration.",
+   "StockMinimum": 2,
+   "Unite": "pce",
+   "Statut": "actif"
+  },
+  {
+   "ArticleID": "ART-0013",
+   "Reference": "CB-7404M",
+   "Designation": "Câble U1000 R2V 3G2,5",
+   "Categorie": "Câbles",
+   "Constructeur": "Cablor",
+   "Description": "Câble U1000 R2V 3G2,5 — article fictif de démonstration.",
+   "StockMinimum": 7,
+   "Unite": "m",
+   "Statut": "actif"
+  },
+  {
+   "ArticleID": "ART-0014",
+   "Reference": "AC-2114N",
+   "Designation": "Repères de câble (sachet)",
+   "Categorie": "Accessoires",
+   "Constructeur": "Fixa",
+   "Description": "Repères de câble (sachet) — article fictif de démonstration.",
+   "StockMinimum": 25,
+   "StockMaximum": 100,
+   "Unite": "pce",
+   "Statut": "actif"
+  },
+  {
+   "ArticleID": "ART-0015",
+   "Reference": "OU-9323O",
+   "Designation": "Pince à sertir embouts",
+   "Categorie": "Outillage",
+   "Constructeur": "Outilex",
+   "Description": "Pince à sertir embouts — article fictif de démonstration.",
+   "StockMinimum": 2,
+   "StockMaximum": 12,
+   "Unite": "pce",
+   "Statut": "actif"
+  },
+  {
+   "ArticleID": "ART-0016",
+   "Reference": "RL-6575P",
+   "Designation": "Relais temporisé 0,1 s–10 min",
+   "Categorie": "Relais",
+   "Constructeur": "Norcom",
+   "Description": "Relais temporisé 0,1 s–10 min — article fictif de démonstration.",
+   "StockMinimum": 10,
+   "StockMaximum": 80,
+   "Unite": "pce",
+   "Statut": "actif"
+  },
+  {
+   "ArticleID": "ART-0017",
+   "Reference": "CT-3856Q",
+   "Designation": "Contacteur 40 A bobine 230 Va",
+   "Categorie": "Contacteurs",
+   "Constructeur": "Norcom",
+   "Description": "Contacteur 40 A bobine 230 Va — article fictif de démonstration.",
+   "StockMinimum": 2,
+   "StockMaximum": 12,
+   "Unite": "pce",
+   "Statut": "actif"
+  },
+  {
+   "ArticleID": "ART-0018",
+   "Reference": "DJ-1624R",
+   "Designation": "Disjoncteur 4P C32",
+   "Categorie": "Disjoncteurs BT",
+   "Constructeur": "Protecta",
+   "Description": "Disjoncteur 4P C32 — article fictif de démonstration.",
+   "StockMinimum": 6,
+   "StockMaximum": 36,
+   "Unite": "pce",
+   "Statut": "actif"
+  },
+  {
+   "ArticleID": "ART-0019",
+   "Reference": "FU-3416S",
+   "Designation": "Fusible aM 14×51 25 A",
+   "Categorie": "Fusibles",
+   "Constructeur": "Fusix",
+   "Description": "Fusible aM 14×51 25 A — article fictif de démonstration.",
+   "StockMinimum": 29,
+   "StockMaximum": 145,
+   "Unite": "pce",
+   "Statut": "actif"
+  },
+  {
+   "ArticleID": "ART-0020",
+   "Reference": "CE-2880T",
+   "Designation": "Carte de sorties relais 8 voies",
+   "Categorie": "Cartes électroniques",
+   "Constructeur": "Calcitec",
+   "Description": "Carte de sorties relais 8 voies — article fictif de démonstration.",
+   "StockMinimum": 2,
+   "Unite": "pce",
+   "Statut": "actif"
+  },
+  {
+   "ArticleID": "ART-0021",
+   "Reference": "AL-5991U",
+   "Designation": "Alimentation 48 Vcc 10 A",
+   "Categorie": "Alimentations",
+   "Constructeur": "Alimtec",
+   "Description": "Alimentation 48 Vcc 10 A — article fictif de démonstration.",
+   "StockMinimum": 1,
+   "Unite": "pce",
+   "Statut": "actif"
+  },
+  {
+   "ArticleID": "ART-0022",
+   "Reference": "CA-4287V",
+   "Designation": "Calculateur de tranche",
+   "Categorie": "Calculateurs",
+   "Constructeur": "Calcitec",
+   "Description": "Calculateur de tranche — article fictif de démonstration.",
+   "StockMinimum": 1,
+   "Unite": "pce",
+   "Statut": "actif"
+  },
+  {
+   "ArticleID": "ART-0023",
+   "Reference": "BO-5283W",
+   "Designation": "Borne sectionnable 6 mm²",
+   "Categorie": "Borniers",
+   "Constructeur": "Connecta",
+   "Description": "Borne sectionnable 6 mm² — article fictif de démonstration.",
+   "StockMinimum": 37,
+   "StockMaximum": 259,
+   "Unite": "pce",
+   "Statut": "actif"
+  },
+  {
+   "ArticleID": "ART-0024",
+   "Reference": "CN-9880X",
+   "Designation": "Embase M12 5 broches",
+   "Categorie": "Connecteurs",
+   "Constructeur": "Pinsys",
+   "Description": "Embase M12 5 broches — article fictif de démonstration.",
+   "StockMinimum": 7,
+   "StockMaximum": 56,
+   "Unite": "pce",
+   "Statut": "actif"
+  },
+  {
+   "ArticleID": "ART-0025",
+   "Reference": "CP-6717Y",
+   "Designation": "Détecteur inductif M18",
+   "Categorie": "Capteurs",
+   "Constructeur": "Sensora",
+   "Description": "Détecteur inductif M18 — article fictif de démonstration.",
+   "StockMinimum": 5,
+   "Unite": "pce",
+   "Statut": "actif"
+  },
+  {
+   "ArticleID": "ART-0026",
+   "Reference": "MC-4869Z",
+   "Designation": "Passerelle IEC 61850",
+   "Categorie": "Modules de communication",
+   "Constructeur": "Netindus",
+   "Description": "Passerelle IEC 61850 — article fictif de démonstration.",
+   "StockMinimum": 2,
+   "Unite": "pce",
+   "Statut": "actif"
+  },
+  {
+   "ArticleID": "ART-0027",
+   "Reference": "AU-6302A",
+   "Designation": "Châssis automate 8 emplacements",
+   "Categorie": "Automates",
+   "Constructeur": "Calcitec",
+   "Description": "Châssis automate 8 emplacements — article fictif de démonstration.",
+   "StockMinimum": 2,
+   "Unite": "pce",
+   "Statut": "actif"
+  },
+  {
+   "ArticleID": "ART-0028",
+   "Reference": "CB-1363B",
+   "Designation": "Câble blindé 4 paires",
+   "Categorie": "Câbles",
+   "Constructeur": "Filinter",
+   "Description": "Câble blindé 4 paires — article fictif de démonstration.",
+   "StockMinimum": 6,
+   "StockMaximum": 36,
+   "Unite": "m",
+   "Statut": "actif"
+  },
+  {
+   "ArticleID": "ART-0029",
+   "Reference": "AC-4744C",
+   "Designation": "Embouts de câblage 1,5 mm²",
+   "Categorie": "Accessoires",
+   "Constructeur": "Borneo",
+   "Description": "Embouts de câblage 1,5 mm² — article fictif de démonstration.",
+   "StockMinimum": 16,
+   "Unite": "pce",
+   "Statut": "actif"
+  },
+  {
+   "ArticleID": "ART-0030",
+   "Reference": "OU-5843D",
+   "Designation": "Valise de test relais",
+   "Categorie": "Outillage",
+   "Constructeur": "Fixa",
+   "Description": "Valise de test relais — article fictif de démonstration.",
+   "StockMinimum": 2,
+   "StockMaximum": 10,
+   "Unite": "pce",
+   "Statut": "actif"
+  },
+  {
+   "ArticleID": "ART-0031",
+   "Reference": "RL-2925E",
+   "Designation": "Relais de surveillance tension",
+   "Categorie": "Relais",
+   "Constructeur": "Voltaris",
+   "Description": "Relais de surveillance tension — article fictif de démonstration.",
+   "StockMinimum": 5,
+   "Unite": "pce",
+   "Statut": "actif"
+  },
+  {
+   "ArticleID": "ART-0032",
+   "Reference": "CT-5392F",
+   "Designation": "Contacteur auxiliaire 2F+2O",
+   "Categorie": "Contacteurs",
+   "Constructeur": "Norcom",
+   "Description": "Contacteur auxiliaire 2F+2O — article fictif de démonstration.",
+   "StockMinimum": 6,
+   "StockMaximum": 42,
+   "Unite": "pce",
+   "Statut": "actif"
+  },
+  {
+   "ArticleID": "ART-0033",
+   "Reference": "DJ-6884G",
+   "Designation": "Disjoncteur moteur 6–10 A",
+   "Categorie": "Disjoncteurs BT",
+   "Constructeur": "Disjo",
+   "Description": "Disjoncteur moteur 6–10 A — article fictif de démonstration.",
+   "StockMinimum": 4,
+   "Unite": "pce",
+   "Statut": "actif"
+  },
+  {
+   "ArticleID": "ART-0034",
+   "Reference": "FU-8961H",
+   "Designation": "Fusible NH00 100 A",
+   "Categorie": "Fusibles",
+   "Constructeur": "Protecta",
+   "Description": "Fusible NH00 100 A — article fictif de démonstration.",
+   "StockMinimum": 17,
+   "StockMaximum": 68,
+   "Unite": "pce",
+   "Statut": "actif"
+  },
+  {
+   "ArticleID": "ART-0035",
+   "Reference": "CE-4955I",
+   "Designation": "Carte CPU de rechange",
+   "Categorie": "Cartes électroniques",
+   "Constructeur": "Norcom",
+   "Description": "Carte CPU de rechange — article fictif de démonstration.",
+   "StockMinimum": 1,
+   "StockMaximum": 8,
+   "Unite": "pce",
+   "Statut": "actif"
+  },
+  {
+   "ArticleID": "ART-0036",
+   "Reference": "AL-1536J",
+   "Designation": "Convertisseur 110/24 Vcc",
+   "Categorie": "Alimentations",
+   "Constructeur": "Voltaris",
+   "Description": "Convertisseur 110/24 Vcc — article fictif de démonstration.",
+   "StockMinimum": 4,
+   "StockMaximum": 20,
+   "Unite": "pce",
+   "Statut": "actif"
+  },
+  {
+   "ArticleID": "ART-0037",
+   "Reference": "CA-2086K",
+   "Designation": "Unité de contrôle-commande baie",
+   "Categorie": "Calculateurs",
+   "Constructeur": "Datamesure",
+   "Description": "Unité de contrôle-commande baie — article fictif de démonstration.",
+   "StockMinimum": 1,
+   "Unite": "pce",
+   "Statut": "actif"
+  },
+  {
+   "ArticleID": "ART-0038",
+   "Reference": "BO-2633L",
+   "Designation": "Borne de terre 10 mm²",
+   "Categorie": "Borniers",
+   "Constructeur": "Borneo",
+   "Description": "Borne de terre 10 mm² — article fictif de démonstration.",
+   "StockMinimum": 40,
+   "Unite": "pce",
+   "Statut": "actif"
+  },
+  {
+   "ArticleID": "ART-0039",
+   "Reference": "CN-7416M",
+   "Designation": "Connecteur RJ45 blindé",
+   "Categorie": "Connecteurs",
+   "Constructeur": "Pinsys",
+   "Description": "Connecteur RJ45 blindé — article fictif de démonstration.",
+   "StockMinimum": 15,
+   "StockMaximum": 60,
+   "Unite": "pce",
+   "Statut": "actif"
+  },
+  {
+   "ArticleID": "ART-0040",
+   "Reference": "CP-7186N",
+   "Designation": "Transmetteur de pression 0–10 bar",
+   "Categorie": "Capteurs",
+   "Constructeur": "Datamesure",
+   "Description": "Transmetteur de pression 0–10 bar — article fictif de démonstration.",
+   "StockMinimum": 2,
+   "Unite": "pce",
+   "Statut": "actif"
+  },
+  {
+   "ArticleID": "ART-0041",
+   "Reference": "MC-5161O",
+   "Designation": "Switch industriel 8 ports",
+   "Categorie": "Modules de communication",
+   "Constructeur": "Norcom",
+   "Description": "Switch industriel 8 ports — article fictif de démonstration.",
+   "StockMinimum": 2,
+   "StockMaximum": 16,
+   "Unite": "pce",
+   "Statut": "actif"
+  },
+  {
+   "ArticleID": "ART-0042",
+   "Reference": "AU-5406P",
+   "Designation": "Module CPU automate",
+   "Categorie": "Automates",
+   "Constructeur": "Automa",
+   "Description": "Module CPU automate — article fictif de démonstration.",
+   "StockMinimum": 1,
+   "StockMaximum": 6,
+   "Unite": "pce",
+   "Statut": "actif"
+  },
+  {
+   "ArticleID": "ART-0043",
+   "Reference": "CB-1613Q",
+   "Designation": "Câble fibre optique 12 brins",
+   "Categorie": "Câbles",
+   "Constructeur": "Cablor",
+   "Description": "Câble fibre optique 12 brins — article fictif de démonstration.",
+   "StockMinimum": 7,
+   "StockMaximum": 56,
+   "Unite": "m",
+   "Statut": "actif"
+  },
+  {
+   "ArticleID": "ART-0044",
+   "Reference": "AC-7450R",
+   "Designation": "Goulotte 60×60 (barre)",
+   "Categorie": "Accessoires",
+   "Constructeur": "Fixa",
+   "Description": "Goulotte 60×60 (barre) — article fictif de démonstration.",
+   "StockMinimum": 22,
+   "Unite": "pce",
+   "Statut": "actif"
+  },
+  {
+   "ArticleID": "ART-0045",
+   "Reference": "OU-2940S",
+   "Designation": "Multimètre industriel",
+   "Categorie": "Outillage",
+   "Constructeur": "Outilex",
+   "Description": "Multimètre industriel — article fictif de démonstration.",
+   "StockMinimum": 2,
+   "Unite": "pce",
+   "Statut": "actif"
+  },
+  {
+   "ArticleID": "ART-0046",
+   "Reference": "RL-3022T",
+   "Designation": "Relais bistable 110 Vcc",
+   "Categorie": "Relais",
+   "Constructeur": "Relexa",
+   "Description": "Relais bistable 110 Vcc — article fictif de démonstration.",
+   "StockMinimum": 8,
+   "StockMaximum": 40,
+   "Unite": "pce",
+   "Statut": "actif"
+  },
+  {
+   "ArticleID": "ART-0047",
+   "Reference": "CT-7320U",
+   "Designation": "Contacteur inverseur 25 A",
+   "Categorie": "Contacteurs",
+   "Constructeur": "Norcom",
+   "Description": "Contacteur inverseur 25 A — article fictif de démonstration.",
+   "StockMinimum": 4,
+   "Unite": "pce",
+   "Statut": "actif"
+  },
+  {
+   "ArticleID": "ART-0048",
+   "Reference": "DJ-8109V",
+   "Designation": "Disjoncteur différentiel 30 mA 2P 25 A",
+   "Categorie": "Disjoncteurs BT",
+   "Constructeur": "Elektrom",
+   "Description": "Disjoncteur différentiel 30 mA 2P 25 A — article fictif de démonstration.",
+   "StockMinimum": 7,
+   "StockMaximum": 28,
+   "Unite": "pce",
+   "Statut": "actif"
+  },
+  {
+   "ArticleID": "ART-0049",
+   "Reference": "FU-9526W",
+   "Designation": "Fusible ultra-rapide 32 A",
+   "Categorie": "Fusibles",
+   "Constructeur": "Fusix",
+   "Description": "Fusible ultra-rapide 32 A — article fictif de démonstration.",
+   "StockMinimum": 13,
+   "StockMaximum": 65,
+   "Unite": "pce",
+   "Statut": "actif"
+  },
+  {
+   "ArticleID": "ART-0050",
+   "Reference": "CE-8002X",
+   "Designation": "Carte acquisition analogique 8 voies",
+   "Categorie": "Cartes électroniques",
+   "Constructeur": "Calcitec",
+   "Description": "Carte acquisition analogique 8 voies — article fictif de démonstration.",
+   "StockMinimum": 2,
+   "Unite": "pce",
+   "Statut": "actif"
+  },
+  {
+   "ArticleID": "ART-0051",
+   "Reference": "AL-7732Y",
+   "Designation": "Alimentation redondante 24 Vcc 20 A",
+   "Categorie": "Alimentations",
+   "Constructeur": "Alimtec",
+   "Description": "Alimentation redondante 24 Vcc 20 A — article fictif de démonstration.",
+   "StockMinimum": 3,
+   "StockMaximum": 24,
+   "Unite": "pce",
+   "Statut": "actif"
+  },
+  {
+   "ArticleID": "ART-0052",
+   "Reference": "CA-3190Z",
+   "Designation": "Calculateur de comptage",
+   "Categorie": "Calculateurs",
+   "Constructeur": "Calcitec",
+   "Description": "Calculateur de comptage — article fictif de démonstration.",
+   "StockMinimum": 2,
+   "StockMaximum": 8,
+   "Unite": "pce",
+   "Statut": "actif"
+  },
+  {
+   "ArticleID": "ART-0053",
+   "Reference": "BO-6378A",
+   "Designation": "Borne double étage 2,5 mm²",
+   "Categorie": "Borniers",
+   "Constructeur": "Borneo",
+   "Description": "Borne double étage 2,5 mm² — article fictif de démonstration.",
+   "StockMinimum": 25,
+   "StockMaximum": 100,
+   "Unite": "pce",
+   "Statut": "actif"
+  },
+  {
+   "ArticleID": "ART-0054",
+   "Reference": "CN-9043B",
+   "Designation": "Fiche 3P+T 32 A",
+   "Categorie": "Connecteurs",
+   "Constructeur": "Pinsys",
+   "Description": "Fiche 3P+T 32 A — article fictif de démonstration.",
+   "StockMinimum": 5,
+   "StockMaximum": 25,
+   "Unite": "pce",
+   "Statut": "actif"
+  },
+  {
+   "ArticleID": "ART-0055",
+   "Reference": "CP-9042C",
+   "Designation": "Capteur de courant 0–200 A",
+   "Categorie": "Capteurs",
+   "Constructeur": "Sensora",
+   "Description": "Capteur de courant 0–200 A — article fictif de démonstration.",
+   "StockMinimum": 4,
+   "StockMaximum": 20,
+   "Unite": "pce",
+   "Statut": "actif"
+  },
+  {
+   "ArticleID": "ART-0056",
+   "Reference": "MC-2756D",
+   "Designation": "Module Profinet",
+   "Categorie": "Modules de communication",
+   "Constructeur": "Norcom",
+   "Description": "Module Profinet — article fictif de démonstration.",
+   "StockMinimum": 2,
+   "Unite": "pce",
+   "Statut": "actif"
+  },
+  {
+   "ArticleID": "ART-0057",
+   "Reference": "AU-7224E",
+   "Designation": "Coupleur E/S déportées",
+   "Categorie": "Automates",
+   "Constructeur": "Automa",
+   "Description": "Coupleur E/S déportées — article fictif de démonstration.",
+   "StockMinimum": 2,
+   "Unite": "pce",
+   "Statut": "actif"
+  },
+  {
+   "ArticleID": "ART-0058",
+   "Reference": "CB-9234F",
+   "Designation": "Câble souple H07RN-F 4G6",
+   "Categorie": "Câbles",
+   "Constructeur": "Cablor",
+   "Description": "Câble souple H07RN-F 4G6 — article fictif de démonstration.",
+   "StockMinimum": 13,
+   "StockMaximum": 78,
+   "Unite": "m",
+   "Statut": "actif"
+  },
+  {
+   "ArticleID": "ART-0059",
+   "Reference": "AC-2428G",
+   "Designation": "Rail DIN 35 mm (barre)",
+   "Categorie": "Accessoires",
+   "Constructeur": "Fixa",
+   "Description": "Rail DIN 35 mm (barre) — article fictif de démonstration.",
+   "StockMinimum": 11,
+   "StockMaximum": 77,
+   "Unite": "pce",
+   "Statut": "actif"
+  },
+  {
+   "ArticleID": "ART-0060",
+   "Reference": "OU-2966H",
+   "Designation": "Dénudeur automatique",
+   "Categorie": "Outillage",
+   "Constructeur": "Fixa",
+   "Description": "Dénudeur automatique — article fictif de démonstration.",
+   "StockMinimum": 2,
+   "StockMaximum": 16,
+   "Unite": "pce",
+   "Statut": "actif"
+  },
+  {
+   "ArticleID": "ART-0061",
+   "Reference": "RL-6273I",
+   "Designation": "Relais statique 25 A",
+   "Categorie": "Relais",
+   "Constructeur": "Relexa",
+   "Description": "Relais statique 25 A — article fictif de démonstration.",
+   "StockMinimum": 10,
+   "Unite": "pce",
+   "Statut": "actif"
+  },
+  {
+   "ArticleID": "ART-0062",
+   "Reference": "CT-1564J",
+   "Designation": "Contacteur tripolaire 18 A",
+   "Categorie": "Contacteurs",
+   "Constructeur": "Elektrom",
+   "Description": "Contacteur tripolaire 18 A — article fictif de démonstration.",
+   "StockMinimum": 3,
+   "StockMaximum": 18,
+   "Unite": "pce",
+   "Statut": "actif"
+  },
+  {
+   "ArticleID": "ART-0063",
+   "Reference": "DJ-3378K",
+   "Designation": "Disjoncteur boîtier moulé 160 A",
+   "Categorie": "Disjoncteurs BT",
+   "Constructeur": "Disjo",
+   "Description": "Disjoncteur boîtier moulé 160 A — article fictif de démonstration.",
+   "StockMinimum": 3,
+   "Unite": "pce",
+   "Statut": "actif"
+  },
+  {
+   "ArticleID": "ART-0064",
+   "Reference": "FU-5243L",
+   "Designation": "Cartouche fusible 5×20 2 A",
+   "Categorie": "Fusibles",
+   "Constructeur": "Protecta",
+   "Description": "Cartouche fusible 5×20 2 A — article fictif de démonstration.",
+   "StockMinimum": 23,
+   "StockMaximum": 184,
+   "Unite": "pce",
+   "Statut": "actif"
+  },
+  {
+   "ArticleID": "ART-0065",
+   "Reference": "CE-1829M",
+   "Designation": "Carte d'interface fibre",
+   "Categorie": "Cartes électroniques",
+   "Constructeur": "Datamesure",
+   "Description": "Carte d'interface fibre — article fictif de démonstration.",
+   "StockMinimum": 2,
+   "Unite": "pce",
+   "Statut": "actif"
+  },
+  {
+   "ArticleID": "ART-0066",
+   "Reference": "AL-3444N",
+   "Designation": "Alimentation 24 Vcc 5 A rail DIN",
+   "Categorie": "Alimentations",
+   "Constructeur": "Voltaris",
+   "Description": "Alimentation 24 Vcc 5 A rail DIN — article fictif de démonstration.",
+   "StockMinimum": 2,
+   "StockMaximum": 8,
+   "Unite": "pce",
+   "Statut": "actif"
+  },
+  {
+   "ArticleID": "ART-0067",
+   "Reference": "CA-2939O",
+   "Designation": "Calculateur de protection numérique",
+   "Categorie": "Calculateurs",
+   "Constructeur": "Calcitec",
+   "Description": "Calculateur de protection numérique — article fictif de démonstration.",
+   "StockMinimum": 2,
+   "Unite": "pce",
+   "Statut": "actif"
+  },
+  {
+   "ArticleID": "ART-0068",
+   "Reference": "BO-2549P",
+   "Designation": "Bornier de test 6 pôles",
+   "Categorie": "Borniers",
+   "Constructeur": "Connecta",
+   "Description": "Bornier de test 6 pôles — article fictif de démonstration.",
+   "StockMinimum": 27,
+   "StockMaximum": 216,
+   "Unite": "pce",
+   "Statut": "actif"
+  },
+  {
+   "ArticleID": "ART-0069",
+   "Reference": "CN-7665Q",
+   "Designation": "Connecteur Sub-D 25 points",
+   "Categorie": "Connecteurs",
+   "Constructeur": "Pinsys",
+   "Description": "Connecteur Sub-D 25 points — article fictif de démonstration.",
+   "StockMinimum": 6,
+   "StockMaximum": 24,
+   "Unite": "pce",
+   "Statut": "actif"
+  },
+  {
+   "ArticleID": "ART-0070",
+   "Reference": "CP-2088R",
+   "Designation": "Fin de course à galet",
+   "Categorie": "Capteurs",
+   "Constructeur": "Datamesure",
+   "Description": "Fin de course à galet — article fictif de démonstration.",
+   "StockMinimum": 5,
+   "StockMaximum": 20,
+   "Unite": "pce",
+   "Statut": "actif"
+  },
+  {
+   "ArticleID": "ART-0071",
+   "Reference": "MC-8329S",
+   "Designation": "Convertisseur série/fibre",
+   "Categorie": "Modules de communication",
+   "Constructeur": "Norcom",
+   "Description": "Convertisseur série/fibre — article fictif de démonstration.",
+   "StockMinimum": 1,
+   "StockMaximum": 8,
+   "Unite": "pce",
+   "Statut": "actif"
+  },
+  {
+   "ArticleID": "ART-0072",
+   "Reference": "AU-4022T",
+   "Designation": "Automate compact 24 E/S",
+   "Categorie": "Automates",
+   "Constructeur": "Calcitec",
+   "Description": "Automate compact 24 E/S — article fictif de démonstration.",
+   "StockMinimum": 1,
+   "StockMaximum": 6,
+   "Unite": "pce",
+   "Statut": "actif"
+  },
+  {
+   "ArticleID": "ART-0073",
+   "Reference": "CB-2504U",
+   "Designation": "Câble de commande 12×1,5",
+   "Categorie": "Câbles",
+   "Constructeur": "Filinter",
+   "Description": "Câble de commande 12×1,5 — article fictif de démonstration.",
+   "StockMinimum": 8,
+   "Unite": "m",
+   "Statut": "actif"
+  },
+  {
+   "ArticleID": "ART-0074",
+   "Reference": "AC-2676V",
+   "Designation": "Presse-étoupe M20",
+   "Categorie": "Accessoires",
+   "Constructeur": "Fixa",
+   "Description": "Presse-étoupe M20 — article fictif de démonstration.",
+   "StockMinimum": 13,
+   "StockMaximum": 65,
+   "Unite": "pce",
+   "Statut": "actif"
+  },
+  {
+   "ArticleID": "ART-0075",
+   "Reference": "OU-6908W",
+   "Designation": "Caméra thermique portable",
+   "Categorie": "Outillage",
+   "Constructeur": "Fixa",
+   "Description": "Caméra thermique portable — article fictif de démonstration.",
+   "StockMinimum": 1,
+   "Unite": "pce",
+   "Statut": "actif"
+  },
+  {
+   "ArticleID": "ART-0076",
+   "Reference": "RL-5671X",
+   "Designation": "Relais auxiliaire 24 Vcc 4RT",
+   "Categorie": "Relais",
+   "Constructeur": "Relexa",
+   "Description": "Relais auxiliaire 24 Vcc 4RT — article fictif de démonstration.",
+   "StockMinimum": 8,
+   "Unite": "pce",
+   "Statut": "actif"
+  },
+  {
+   "ArticleID": "ART-0077",
+   "Reference": "CT-6683Y",
+   "Designation": "Contacteur 40 A bobine 230 Va",
+   "Categorie": "Contacteurs",
+   "Constructeur": "Voltaris",
+   "Description": "Contacteur 40 A bobine 230 Va — article fictif de démonstration.",
+   "StockMinimum": 6,
+   "StockMaximum": 36,
+   "Unite": "pce",
+   "Statut": "actif"
+  },
+  {
+   "ArticleID": "ART-0078",
+   "Reference": "DJ-2216Z",
+   "Designation": "Disjoncteur 2P C10",
+   "Categorie": "Disjoncteurs BT",
+   "Constructeur": "Disjo",
+   "Description": "Disjoncteur 2P C10 — article fictif de démonstration.",
+   "StockMinimum": 5,
+   "Unite": "pce",
+   "Statut": "actif"
+  },
+  {
+   "ArticleID": "ART-0079",
+   "Reference": "FU-1523A",
+   "Designation": "Fusible gG 10×38 16 A",
+   "Categorie": "Fusibles",
+   "Constructeur": "Protecta",
+   "Description": "Fusible gG 10×38 16 A — article fictif de démonstration.",
+   "StockMinimum": 24,
+   "Unite": "pce",
+   "Statut": "actif"
+  },
+  {
+   "ArticleID": "ART-0080",
+   "Reference": "CE-6820B",
+   "Designation": "Carte d'entrées TOR 16 voies",
+   "Categorie": "Cartes électroniques",
+   "Constructeur": "Datamesure",
+   "Description": "Carte d'entrées TOR 16 voies — article fictif de démonstration.",
+   "StockMinimum": 2,
+   "StockMaximum": 8,
+   "Unite": "pce",
+   "Statut": "actif"
+  },
+  {
+   "ArticleID": "ART-0081",
+   "Reference": "AL-1725C",
+   "Designation": "Alimentation 48 Vcc 10 A",
+   "Categorie": "Alimentations",
+   "Constructeur": "Voltaris",
+   "Description": "Alimentation 48 Vcc 10 A — article fictif de démonstration.",
+   "StockMinimum": 2,
+   "StockMaximum": 8,
+   "Unite": "pce",
+   "Statut": "actif"
+  },
+  {
+   "ArticleID": "ART-0082",
+   "Reference": "CA-9592D",
+   "Designation": "Calculateur de tranche",
+   "Categorie": "Calculateurs",
+   "Constructeur": "Datamesure",
+   "Description": "Calculateur de tranche — article fictif de démonstration.",
+   "StockMinimum": 1,
+   "Unite": "pce",
+   "Statut": "actif"
+  },
+  {
+   "ArticleID": "ART-0083",
+   "Reference": "BO-7687E",
+   "Designation": "Borne à vis 4 mm²",
+   "Categorie": "Borniers",
+   "Constructeur": "Connecta",
+   "Description": "Borne à vis 4 mm² — article fictif de démonstration.",
+   "StockMinimum": 23,
+   "Unite": "pce",
+   "Statut": "actif"
+  },
+  {
+   "ArticleID": "ART-0084",
+   "Reference": "CN-9216F",
+   "Designation": "Connecteur industriel 16 broches",
+   "Categorie": "Connecteurs",
+   "Constructeur": "Pinsys",
+   "Description": "Connecteur industriel 16 broches — article fictif de démonstration.",
+   "StockMinimum": 11,
+   "StockMaximum": 44,
+   "Unite": "pce",
+   "Statut": "actif"
+  },
+  {
+   "ArticleID": "ART-0085",
+   "Reference": "CP-6925G",
+   "Designation": "Capteur de température PT100",
+   "Categorie": "Capteurs",
+   "Constructeur": "Datamesure",
+   "Description": "Capteur de température PT100 — article fictif de démonstration.",
+   "StockMinimum": 2,
+   "Unite": "pce",
+   "Statut": "actif"
+  },
+  {
+   "ArticleID": "ART-0086",
+   "Reference": "MC-9386H",
+   "Designation": "Module Modbus TCP",
+   "Categorie": "Modules de communication",
+   "Constructeur": "Netindus",
+   "Description": "Module Modbus TCP — article fictif de démonstration.",
+   "StockMinimum": 1,
+   "Unite": "pce",
+   "Statut": "actif"
+  },
+  {
+   "ArticleID": "ART-0087",
+   "Reference": "AU-5354I",
+   "Designation": "Châssis automate 8 emplacements",
+   "Categorie": "Automates",
+   "Constructeur": "Calcitec",
+   "Description": "Châssis automate 8 emplacements — article fictif de démonstration.",
+   "StockMinimum": 2,
+   "Unite": "pce",
+   "Statut": "actif"
+  },
+  {
+   "ArticleID": "ART-0088",
+   "Reference": "CB-4296J",
+   "Designation": "Câble U1000 R2V 3G2,5",
+   "Categorie": "Câbles",
+   "Constructeur": "Filinter",
+   "Description": "Câble U1000 R2V 3G2,5 — article fictif de démonstration.",
+   "StockMinimum": 12,
+   "StockMaximum": 96,
+   "Unite": "m",
+   "Statut": "actif"
+  },
+  {
+   "ArticleID": "ART-0089",
+   "Reference": "AC-3576K",
+   "Designation": "Repères de câble (sachet)",
+   "Categorie": "Accessoires",
+   "Constructeur": "Fixa",
+   "Description": "Repères de câble (sachet) — article fictif de démonstration.",
+   "StockMinimum": 18,
+   "StockMaximum": 126,
+   "Unite": "pce",
+   "Statut": "actif"
+  },
+  {
+   "ArticleID": "ART-0090",
+   "Reference": "OU-7255L",
+   "Designation": "Pince à sertir embouts",
+   "Categorie": "Outillage",
+   "Constructeur": "Outilex",
+   "Description": "Pince à sertir embouts — article fictif de démonstration.",
+   "StockMinimum": 1,
+   "Unite": "pce",
+   "Statut": "actif"
+  },
+  {
+   "ArticleID": "ART-0091",
+   "Reference": "RL-6954M",
+   "Designation": "Relais temporisé 0,1 s–10 min",
+   "Categorie": "Relais",
+   "Constructeur": "Norcom",
+   "Description": "Relais temporisé 0,1 s–10 min — article fictif de démonstration.",
+   "StockMinimum": 5,
+   "StockMaximum": 35,
+   "Unite": "pce",
+   "Statut": "actif"
+  },
+  {
+   "ArticleID": "ART-0092",
+   "Reference": "CT-6062N",
+   "Designation": "Contacteur auxiliaire 2F+2O",
+   "Categorie": "Contacteurs",
+   "Constructeur": "Voltaris",
+   "Description": "Contacteur auxiliaire 2F+2O — article fictif de démonstration.",
+   "StockMinimum": 6,
+   "Unite": "pce",
+   "Statut": "actif"
+  },
+  {
+   "ArticleID": "ART-0093",
+   "Reference": "DJ-5210O",
+   "Designation": "Disjoncteur 4P C32",
+   "Categorie": "Disjoncteurs BT",
+   "Constructeur": "Elektrom",
+   "Description": "Disjoncteur 4P C32 — article fictif de démonstration.",
+   "StockMinimum": 3,
+   "StockMaximum": 18,
+   "Unite": "pce",
+   "Statut": "actif"
+  },
+  {
+   "ArticleID": "ART-0094",
+   "Reference": "FU-7417P",
+   "Designation": "Fusible aM 14×51 25 A",
+   "Categorie": "Fusibles",
+   "Constructeur": "Protecta",
+   "Description": "Fusible aM 14×51 25 A — article fictif de démonstration.",
+   "StockMinimum": 11,
+   "Unite": "pce",
+   "Statut": "actif"
+  },
+  {
+   "ArticleID": "ART-0095",
+   "Reference": "CE-4867Q",
+   "Designation": "Carte de sorties relais 8 voies",
+   "Categorie": "Cartes électroniques",
+   "Constructeur": "Calcitec",
+   "Description": "Carte de sorties relais 8 voies — article fictif de démonstration.",
+   "StockMinimum": 2,
+   "StockMaximum": 16,
+   "Unite": "pce",
+   "Statut": "actif"
+  },
+  {
+   "ArticleID": "ART-0096",
+   "Reference": "AL-6368R",
+   "Designation": "Convertisseur 110/24 Vcc",
+   "Categorie": "Alimentations",
+   "Constructeur": "Voltaris",
+   "Description": "Convertisseur 110/24 Vcc — article fictif de démonstration.",
+   "StockMinimum": 4,
+   "StockMaximum": 16,
+   "Unite": "pce",
+   "Statut": "actif"
+  },
+  {
+   "ArticleID": "ART-0097",
+   "Reference": "CA-2778S",
+   "Designation": "Unité de contrôle-commande baie",
+   "Categorie": "Calculateurs",
+   "Constructeur": "Calcitec",
+   "Description": "Unité de contrôle-commande baie — article fictif de démonstration.",
+   "StockMinimum": 1,
+   "StockMaximum": 6,
+   "Unite": "pce",
+   "Statut": "actif"
+  },
+  {
+   "ArticleID": "ART-0098",
+   "Reference": "BO-6740T",
+   "Designation": "Borne sectionnable 6 mm²",
+   "Categorie": "Borniers",
+   "Constructeur": "Borneo",
+   "Description": "Borne sectionnable 6 mm² — article fictif de démonstration.",
+   "StockMinimum": 21,
+   "Unite": "pce",
+   "Statut": "actif"
+  },
+  {
+   "ArticleID": "ART-0099",
+   "Reference": "CN-5360U",
+   "Designation": "Embase M12 5 broches",
+   "Categorie": "Connecteurs",
+   "Constructeur": "Pinsys",
+   "Description": "Embase M12 5 broches — article fictif de démonstration.",
+   "StockMinimum": 18,
+   "StockMaximum": 72,
+   "Unite": "pce",
+   "Statut": "actif"
+  },
+  {
+   "ArticleID": "ART-0100",
+   "Reference": "CP-4377V",
+   "Designation": "Détecteur inductif M18",
+   "Categorie": "Capteurs",
+   "Constructeur": "Sensora",
+   "Description": "Détecteur inductif M18 — article fictif de démonstration.",
+   "StockMinimum": 4,
+   "StockMaximum": 24,
+   "Unite": "pce",
+   "Statut": "actif"
+  },
+  {
+   "ArticleID": "ART-0101",
+   "Reference": "MC-9168W",
+   "Designation": "Passerelle IEC 61850",
+   "Categorie": "Modules de communication",
+   "Constructeur": "Netindus",
+   "Description": "Passerelle IEC 61850 — article fictif de démonstration.",
+   "StockMinimum": 2,
+   "StockMaximum": 12,
+   "Unite": "pce",
+   "Statut": "actif"
+  },
+  {
+   "ArticleID": "ART-0102",
+   "Reference": "AU-3909X",
+   "Designation": "Module CPU automate",
+   "Categorie": "Automates",
+   "Constructeur": "Automa",
+   "Description": "Module CPU automate — article fictif de démonstration.",
+   "StockMinimum": 1,
+   "StockMaximum": 6,
+   "Unite": "pce",
+   "Statut": "actif"
+  },
+  {
+   "ArticleID": "ART-0103",
+   "Reference": "CB-5583Y",
+   "Designation": "Câble blindé 4 paires",
+   "Categorie": "Câbles",
+   "Constructeur": "Cablor",
+   "Description": "Câble blindé 4 paires — article fictif de démonstration.",
+   "StockMinimum": 9,
+   "StockMaximum": 45,
+   "Unite": "m",
+   "Statut": "actif"
+  },
+  {
+   "ArticleID": "ART-0104",
+   "Reference": "AC-6636Z",
+   "Designation": "Embouts de câblage 1,5 mm²",
+   "Categorie": "Accessoires",
+   "Constructeur": "Fixa",
+   "Description": "Embouts de câblage 1,5 mm² — article fictif de démonstration.",
+   "StockMinimum": 16,
+   "StockMaximum": 112,
+   "Unite": "pce",
+   "Statut": "actif"
+  },
+  {
+   "ArticleID": "ART-0105",
+   "Reference": "OU-5932A",
+   "Designation": "Valise de test relais",
+   "Categorie": "Outillage",
+   "Constructeur": "Fixa",
+   "Description": "Valise de test relais — article fictif de démonstration.",
+   "StockMinimum": 1,
+   "Unite": "pce",
+   "Statut": "actif"
+  },
+  {
+   "ArticleID": "ART-0106",
+   "Reference": "RL-2216B",
+   "Designation": "Relais de surveillance tension",
+   "Categorie": "Relais",
+   "Constructeur": "Relexa",
+   "Description": "Relais de surveillance tension — article fictif de démonstration.",
+   "StockMinimum": 5,
+   "Unite": "pce",
+   "Statut": "actif"
+  },
+  {
+   "ArticleID": "ART-0107",
+   "Reference": "CT-5700C",
+   "Designation": "Contacteur inverseur 25 A",
+   "Categorie": "Contacteurs",
+   "Constructeur": "Elektrom",
+   "Description": "Contacteur inverseur 25 A — article fictif de démonstration.",
+   "StockMinimum": 2,
+   "StockMaximum": 16,
+   "Unite": "pce",
+   "Statut": "actif"
+  },
+  {
+   "ArticleID": "ART-0108",
+   "Reference": "DJ-6635D",
+   "Designation": "Disjoncteur moteur 6–10 A",
+   "Categorie": "Disjoncteurs BT",
+   "Constructeur": "Disjo",
+   "Description": "Disjoncteur moteur 6–10 A — article fictif de démonstration.",
+   "StockMinimum": 8,
+   "StockMaximum": 56,
+   "Unite": "pce",
+   "Statut": "actif"
+  },
+  {
+   "ArticleID": "ART-0109",
+   "Reference": "FU-7526E",
+   "Designation": "Fusible NH00 100 A",
+   "Categorie": "Fusibles",
+   "Constructeur": "Fusix",
+   "Description": "Fusible NH00 100 A — article fictif de démonstration.",
+   "StockMinimum": 18,
+   "Unite": "pce",
+   "Statut": "actif"
+  },
+  {
+   "ArticleID": "ART-0110",
+   "Reference": "CE-8148F",
+   "Designation": "Carte CPU de rechange",
+   "Categorie": "Cartes électroniques",
+   "Constructeur": "Datamesure",
+   "Description": "Carte CPU de rechange — article fictif de démonstration.",
+   "StockMinimum": 2,
+   "StockMaximum": 12,
+   "Unite": "pce",
+   "Statut": "actif"
+  },
+  {
+   "ArticleID": "ART-0111",
+   "Reference": "AL-1096G",
+   "Designation": "Alimentation redondante 24 Vcc 20 A",
+   "Categorie": "Alimentations",
+   "Constructeur": "Voltaris",
+   "Description": "Alimentation redondante 24 Vcc 20 A — article fictif de démonstration.",
+   "StockMinimum": 1,
+   "StockMaximum": 5,
+   "Unite": "pce",
+   "Statut": "actif"
+  },
+  {
+   "ArticleID": "ART-0112",
+   "Reference": "CA-9167H",
+   "Designation": "Calculateur de comptage",
+   "Categorie": "Calculateurs",
+   "Constructeur": "Calcitec",
+   "Description": "Calculateur de comptage — article fictif de démonstration.",
+   "StockMinimum": 1,
+   "StockMaximum": 4,
+   "Unite": "pce",
+   "Statut": "actif"
+  },
+  {
+   "ArticleID": "ART-0113",
+   "Reference": "BO-7576I",
+   "Designation": "Borne de terre 10 mm²",
+   "Categorie": "Borniers",
+   "Constructeur": "Connecta",
+   "Description": "Borne de terre 10 mm² — article fictif de démonstration.",
+   "StockMinimum": 24,
+   "StockMaximum": 168,
+   "Unite": "pce",
+   "Statut": "actif"
+  },
+  {
+   "ArticleID": "ART-0114",
+   "Reference": "CN-9898J",
+   "Designation": "Connecteur RJ45 blindé",
+   "Categorie": "Connecteurs",
+   "Constructeur": "Connecta",
+   "Description": "Connecteur RJ45 blindé — article fictif de démonstration.",
+   "StockMinimum": 17,
+   "StockMaximum": 102,
+   "Unite": "pce",
+   "Statut": "actif"
+  },
+  {
+   "ArticleID": "ART-0115",
+   "Reference": "CP-4599K",
+   "Designation": "Transmetteur de pression 0–10 bar",
+   "Categorie": "Capteurs",
+   "Constructeur": "Sensora",
+   "Description": "Transmetteur de pression 0–10 bar — article fictif de démonstration.",
+   "StockMinimum": 3,
+   "StockMaximum": 21,
+   "Unite": "pce",
+   "Statut": "actif"
+  },
+  {
+   "ArticleID": "ART-0116",
+   "Reference": "MC-9382L",
+   "Designation": "Switch industriel 8 ports",
+   "Categorie": "Modules de communication",
+   "Constructeur": "Norcom",
+   "Description": "Switch industriel 8 ports — article fictif de démonstration.",
+   "StockMinimum": 1,
+   "Unite": "pce",
+   "Statut": "actif"
+  },
+  {
+   "ArticleID": "ART-0117",
+   "Reference": "AU-9884M",
+   "Designation": "Coupleur E/S déportées",
+   "Categorie": "Automates",
+   "Constructeur": "Automa",
+   "Description": "Coupleur E/S déportées — article fictif de démonstration.",
+   "StockMinimum": 1,
+   "StockMaximum": 7,
+   "Unite": "pce",
+   "Statut": "actif"
+  },
+  {
+   "ArticleID": "ART-0118",
+   "Reference": "CB-9690N",
+   "Designation": "Câble fibre optique 12 brins",
+   "Categorie": "Câbles",
+   "Constructeur": "Cablor",
+   "Description": "Câble fibre optique 12 brins — article fictif de démonstration.",
+   "StockMinimum": 12,
+   "StockMaximum": 48,
+   "Unite": "m",
+   "Statut": "actif"
+  },
+  {
+   "ArticleID": "ART-0119",
+   "Reference": "AC-6218O",
+   "Designation": "Goulotte 60×60 (barre)",
+   "Categorie": "Accessoires",
+   "Constructeur": "Borneo",
+   "Description": "Goulotte 60×60 (barre) — article fictif de démonstration.",
+   "StockMinimum": 12,
+   "StockMaximum": 72,
+   "Unite": "pce",
+   "Statut": "actif"
+  },
+  {
+   "ArticleID": "ART-0120",
+   "Reference": "OU-8822P",
+   "Designation": "Multimètre industriel",
+   "Categorie": "Outillage",
+   "Constructeur": "Fixa",
+   "Description": "Multimètre industriel — article fictif de démonstration.",
+   "StockMinimum": 1,
+   "StockMaximum": 8,
+   "Unite": "pce",
+   "Statut": "actif"
+  }
+ ],
+ "emplacements": [
+  {
+   "EmplacementID": "A-A01-N01-E01",
+   "Zone": "A",
+   "Rayonnage": "A01",
+   "Niveau": "N01",
+   "Position": "E01",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "A-A01-N01-E02",
+   "Zone": "A",
+   "Rayonnage": "A01",
+   "Niveau": "N01",
+   "Position": "E02",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "A-A01-N01-E03",
+   "Zone": "A",
+   "Rayonnage": "A01",
+   "Niveau": "N01",
+   "Position": "E03",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "A-A01-N01-E04",
+   "Zone": "A",
+   "Rayonnage": "A01",
+   "Niveau": "N01",
+   "Position": "E04",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "A-A01-N02-E01",
+   "Zone": "A",
+   "Rayonnage": "A01",
+   "Niveau": "N02",
+   "Position": "E01",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "A-A01-N02-E02",
+   "Zone": "A",
+   "Rayonnage": "A01",
+   "Niveau": "N02",
+   "Position": "E02",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "A-A01-N02-E03",
+   "Zone": "A",
+   "Rayonnage": "A01",
+   "Niveau": "N02",
+   "Position": "E03",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "A-A01-N02-E04",
+   "Zone": "A",
+   "Rayonnage": "A01",
+   "Niveau": "N02",
+   "Position": "E04",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "A-A01-N03-E01",
+   "Zone": "A",
+   "Rayonnage": "A01",
+   "Niveau": "N03",
+   "Position": "E01",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "A-A01-N03-E02",
+   "Zone": "A",
+   "Rayonnage": "A01",
+   "Niveau": "N03",
+   "Position": "E02",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "A-A01-N03-E03",
+   "Zone": "A",
+   "Rayonnage": "A01",
+   "Niveau": "N03",
+   "Position": "E03",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "A-A01-N03-E04",
+   "Zone": "A",
+   "Rayonnage": "A01",
+   "Niveau": "N03",
+   "Position": "E04",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "A-A01-N04-E01",
+   "Zone": "A",
+   "Rayonnage": "A01",
+   "Niveau": "N04",
+   "Position": "E01",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "A-A01-N04-E02",
+   "Zone": "A",
+   "Rayonnage": "A01",
+   "Niveau": "N04",
+   "Position": "E02",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "A-A01-N04-E03",
+   "Zone": "A",
+   "Rayonnage": "A01",
+   "Niveau": "N04",
+   "Position": "E03",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "A-A01-N04-E04",
+   "Zone": "A",
+   "Rayonnage": "A01",
+   "Niveau": "N04",
+   "Position": "E04",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "A-A01-N05-E01",
+   "Zone": "A",
+   "Rayonnage": "A01",
+   "Niveau": "N05",
+   "Position": "E01",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "A-A01-N05-E02",
+   "Zone": "A",
+   "Rayonnage": "A01",
+   "Niveau": "N05",
+   "Position": "E02",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "A-A01-N05-E03",
+   "Zone": "A",
+   "Rayonnage": "A01",
+   "Niveau": "N05",
+   "Position": "E03",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "A-A01-N05-E04",
+   "Zone": "A",
+   "Rayonnage": "A01",
+   "Niveau": "N05",
+   "Position": "E04",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "A-A02-N01-E01",
+   "Zone": "A",
+   "Rayonnage": "A02",
+   "Niveau": "N01",
+   "Position": "E01",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "A-A02-N01-E02",
+   "Zone": "A",
+   "Rayonnage": "A02",
+   "Niveau": "N01",
+   "Position": "E02",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "A-A02-N01-E03",
+   "Zone": "A",
+   "Rayonnage": "A02",
+   "Niveau": "N01",
+   "Position": "E03",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "A-A02-N01-E04",
+   "Zone": "A",
+   "Rayonnage": "A02",
+   "Niveau": "N01",
+   "Position": "E04",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "A-A02-N02-E01",
+   "Zone": "A",
+   "Rayonnage": "A02",
+   "Niveau": "N02",
+   "Position": "E01",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "A-A02-N02-E02",
+   "Zone": "A",
+   "Rayonnage": "A02",
+   "Niveau": "N02",
+   "Position": "E02",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "A-A02-N02-E03",
+   "Zone": "A",
+   "Rayonnage": "A02",
+   "Niveau": "N02",
+   "Position": "E03",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "A-A02-N02-E04",
+   "Zone": "A",
+   "Rayonnage": "A02",
+   "Niveau": "N02",
+   "Position": "E04",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "A-A02-N03-E01",
+   "Zone": "A",
+   "Rayonnage": "A02",
+   "Niveau": "N03",
+   "Position": "E01",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "A-A02-N03-E02",
+   "Zone": "A",
+   "Rayonnage": "A02",
+   "Niveau": "N03",
+   "Position": "E02",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "A-A02-N03-E03",
+   "Zone": "A",
+   "Rayonnage": "A02",
+   "Niveau": "N03",
+   "Position": "E03",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "A-A02-N03-E04",
+   "Zone": "A",
+   "Rayonnage": "A02",
+   "Niveau": "N03",
+   "Position": "E04",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "A-A02-N04-E01",
+   "Zone": "A",
+   "Rayonnage": "A02",
+   "Niveau": "N04",
+   "Position": "E01",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "A-A02-N04-E02",
+   "Zone": "A",
+   "Rayonnage": "A02",
+   "Niveau": "N04",
+   "Position": "E02",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "A-A02-N04-E03",
+   "Zone": "A",
+   "Rayonnage": "A02",
+   "Niveau": "N04",
+   "Position": "E03",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "A-A02-N04-E04",
+   "Zone": "A",
+   "Rayonnage": "A02",
+   "Niveau": "N04",
+   "Position": "E04",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "A-A02-N05-E01",
+   "Zone": "A",
+   "Rayonnage": "A02",
+   "Niveau": "N05",
+   "Position": "E01",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "A-A02-N05-E02",
+   "Zone": "A",
+   "Rayonnage": "A02",
+   "Niveau": "N05",
+   "Position": "E02",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "A-A02-N05-E03",
+   "Zone": "A",
+   "Rayonnage": "A02",
+   "Niveau": "N05",
+   "Position": "E03",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "A-A02-N05-E04",
+   "Zone": "A",
+   "Rayonnage": "A02",
+   "Niveau": "N05",
+   "Position": "E04",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "B-B01-N01-E01",
+   "Zone": "B",
+   "Rayonnage": "B01",
+   "Niveau": "N01",
+   "Position": "E01",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "B-B01-N01-E02",
+   "Zone": "B",
+   "Rayonnage": "B01",
+   "Niveau": "N01",
+   "Position": "E02",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "B-B01-N01-E03",
+   "Zone": "B",
+   "Rayonnage": "B01",
+   "Niveau": "N01",
+   "Position": "E03",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "B-B01-N01-E04",
+   "Zone": "B",
+   "Rayonnage": "B01",
+   "Niveau": "N01",
+   "Position": "E04",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "B-B01-N02-E01",
+   "Zone": "B",
+   "Rayonnage": "B01",
+   "Niveau": "N02",
+   "Position": "E01",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "B-B01-N02-E02",
+   "Zone": "B",
+   "Rayonnage": "B01",
+   "Niveau": "N02",
+   "Position": "E02",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "B-B01-N02-E03",
+   "Zone": "B",
+   "Rayonnage": "B01",
+   "Niveau": "N02",
+   "Position": "E03",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "B-B01-N02-E04",
+   "Zone": "B",
+   "Rayonnage": "B01",
+   "Niveau": "N02",
+   "Position": "E04",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "B-B01-N03-E01",
+   "Zone": "B",
+   "Rayonnage": "B01",
+   "Niveau": "N03",
+   "Position": "E01",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "B-B01-N03-E02",
+   "Zone": "B",
+   "Rayonnage": "B01",
+   "Niveau": "N03",
+   "Position": "E02",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "B-B01-N03-E03",
+   "Zone": "B",
+   "Rayonnage": "B01",
+   "Niveau": "N03",
+   "Position": "E03",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "B-B01-N03-E04",
+   "Zone": "B",
+   "Rayonnage": "B01",
+   "Niveau": "N03",
+   "Position": "E04",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "B-B01-N04-E01",
+   "Zone": "B",
+   "Rayonnage": "B01",
+   "Niveau": "N04",
+   "Position": "E01",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "B-B01-N04-E02",
+   "Zone": "B",
+   "Rayonnage": "B01",
+   "Niveau": "N04",
+   "Position": "E02",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "B-B01-N04-E03",
+   "Zone": "B",
+   "Rayonnage": "B01",
+   "Niveau": "N04",
+   "Position": "E03",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "B-B01-N04-E04",
+   "Zone": "B",
+   "Rayonnage": "B01",
+   "Niveau": "N04",
+   "Position": "E04",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "B-B01-N05-E01",
+   "Zone": "B",
+   "Rayonnage": "B01",
+   "Niveau": "N05",
+   "Position": "E01",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "B-B01-N05-E02",
+   "Zone": "B",
+   "Rayonnage": "B01",
+   "Niveau": "N05",
+   "Position": "E02",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "B-B01-N05-E03",
+   "Zone": "B",
+   "Rayonnage": "B01",
+   "Niveau": "N05",
+   "Position": "E03",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "B-B01-N05-E04",
+   "Zone": "B",
+   "Rayonnage": "B01",
+   "Niveau": "N05",
+   "Position": "E04",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "B-B02-N01-E01",
+   "Zone": "B",
+   "Rayonnage": "B02",
+   "Niveau": "N01",
+   "Position": "E01",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "B-B02-N01-E02",
+   "Zone": "B",
+   "Rayonnage": "B02",
+   "Niveau": "N01",
+   "Position": "E02",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "B-B02-N01-E03",
+   "Zone": "B",
+   "Rayonnage": "B02",
+   "Niveau": "N01",
+   "Position": "E03",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "B-B02-N01-E04",
+   "Zone": "B",
+   "Rayonnage": "B02",
+   "Niveau": "N01",
+   "Position": "E04",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "B-B02-N02-E01",
+   "Zone": "B",
+   "Rayonnage": "B02",
+   "Niveau": "N02",
+   "Position": "E01",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "B-B02-N02-E02",
+   "Zone": "B",
+   "Rayonnage": "B02",
+   "Niveau": "N02",
+   "Position": "E02",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "B-B02-N02-E03",
+   "Zone": "B",
+   "Rayonnage": "B02",
+   "Niveau": "N02",
+   "Position": "E03",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "B-B02-N02-E04",
+   "Zone": "B",
+   "Rayonnage": "B02",
+   "Niveau": "N02",
+   "Position": "E04",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "B-B02-N03-E01",
+   "Zone": "B",
+   "Rayonnage": "B02",
+   "Niveau": "N03",
+   "Position": "E01",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "B-B02-N03-E02",
+   "Zone": "B",
+   "Rayonnage": "B02",
+   "Niveau": "N03",
+   "Position": "E02",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "B-B02-N03-E03",
+   "Zone": "B",
+   "Rayonnage": "B02",
+   "Niveau": "N03",
+   "Position": "E03",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "B-B02-N03-E04",
+   "Zone": "B",
+   "Rayonnage": "B02",
+   "Niveau": "N03",
+   "Position": "E04",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "B-B02-N04-E01",
+   "Zone": "B",
+   "Rayonnage": "B02",
+   "Niveau": "N04",
+   "Position": "E01",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "B-B02-N04-E02",
+   "Zone": "B",
+   "Rayonnage": "B02",
+   "Niveau": "N04",
+   "Position": "E02",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "B-B02-N04-E03",
+   "Zone": "B",
+   "Rayonnage": "B02",
+   "Niveau": "N04",
+   "Position": "E03",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "B-B02-N04-E04",
+   "Zone": "B",
+   "Rayonnage": "B02",
+   "Niveau": "N04",
+   "Position": "E04",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "B-B02-N05-E01",
+   "Zone": "B",
+   "Rayonnage": "B02",
+   "Niveau": "N05",
+   "Position": "E01",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "B-B02-N05-E02",
+   "Zone": "B",
+   "Rayonnage": "B02",
+   "Niveau": "N05",
+   "Position": "E02",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "B-B02-N05-E03",
+   "Zone": "B",
+   "Rayonnage": "B02",
+   "Niveau": "N05",
+   "Position": "E03",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "B-B02-N05-E04",
+   "Zone": "B",
+   "Rayonnage": "B02",
+   "Niveau": "N05",
+   "Position": "E04",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "C-C01-N01-E01",
+   "Zone": "C",
+   "Rayonnage": "C01",
+   "Niveau": "N01",
+   "Position": "E01",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "C-C01-N01-E02",
+   "Zone": "C",
+   "Rayonnage": "C01",
+   "Niveau": "N01",
+   "Position": "E02",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "C-C01-N01-E03",
+   "Zone": "C",
+   "Rayonnage": "C01",
+   "Niveau": "N01",
+   "Position": "E03",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "C-C01-N01-E04",
+   "Zone": "C",
+   "Rayonnage": "C01",
+   "Niveau": "N01",
+   "Position": "E04",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "C-C01-N02-E01",
+   "Zone": "C",
+   "Rayonnage": "C01",
+   "Niveau": "N02",
+   "Position": "E01",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "C-C01-N02-E02",
+   "Zone": "C",
+   "Rayonnage": "C01",
+   "Niveau": "N02",
+   "Position": "E02",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "C-C01-N02-E03",
+   "Zone": "C",
+   "Rayonnage": "C01",
+   "Niveau": "N02",
+   "Position": "E03",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "C-C01-N02-E04",
+   "Zone": "C",
+   "Rayonnage": "C01",
+   "Niveau": "N02",
+   "Position": "E04",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "C-C01-N03-E01",
+   "Zone": "C",
+   "Rayonnage": "C01",
+   "Niveau": "N03",
+   "Position": "E01",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "C-C01-N03-E02",
+   "Zone": "C",
+   "Rayonnage": "C01",
+   "Niveau": "N03",
+   "Position": "E02",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "C-C01-N03-E03",
+   "Zone": "C",
+   "Rayonnage": "C01",
+   "Niveau": "N03",
+   "Position": "E03",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "C-C01-N03-E04",
+   "Zone": "C",
+   "Rayonnage": "C01",
+   "Niveau": "N03",
+   "Position": "E04",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "C-C01-N04-E01",
+   "Zone": "C",
+   "Rayonnage": "C01",
+   "Niveau": "N04",
+   "Position": "E01",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "C-C01-N04-E02",
+   "Zone": "C",
+   "Rayonnage": "C01",
+   "Niveau": "N04",
+   "Position": "E02",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "C-C01-N04-E03",
+   "Zone": "C",
+   "Rayonnage": "C01",
+   "Niveau": "N04",
+   "Position": "E03",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "C-C01-N04-E04",
+   "Zone": "C",
+   "Rayonnage": "C01",
+   "Niveau": "N04",
+   "Position": "E04",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "C-C01-N05-E01",
+   "Zone": "C",
+   "Rayonnage": "C01",
+   "Niveau": "N05",
+   "Position": "E01",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "C-C01-N05-E02",
+   "Zone": "C",
+   "Rayonnage": "C01",
+   "Niveau": "N05",
+   "Position": "E02",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "C-C01-N05-E03",
+   "Zone": "C",
+   "Rayonnage": "C01",
+   "Niveau": "N05",
+   "Position": "E03",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "C-C01-N05-E04",
+   "Zone": "C",
+   "Rayonnage": "C01",
+   "Niveau": "N05",
+   "Position": "E04",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "C-C02-N01-E01",
+   "Zone": "C",
+   "Rayonnage": "C02",
+   "Niveau": "N01",
+   "Position": "E01",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "C-C02-N01-E02",
+   "Zone": "C",
+   "Rayonnage": "C02",
+   "Niveau": "N01",
+   "Position": "E02",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "C-C02-N01-E03",
+   "Zone": "C",
+   "Rayonnage": "C02",
+   "Niveau": "N01",
+   "Position": "E03",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "C-C02-N01-E04",
+   "Zone": "C",
+   "Rayonnage": "C02",
+   "Niveau": "N01",
+   "Position": "E04",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "C-C02-N02-E01",
+   "Zone": "C",
+   "Rayonnage": "C02",
+   "Niveau": "N02",
+   "Position": "E01",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "C-C02-N02-E02",
+   "Zone": "C",
+   "Rayonnage": "C02",
+   "Niveau": "N02",
+   "Position": "E02",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "C-C02-N02-E03",
+   "Zone": "C",
+   "Rayonnage": "C02",
+   "Niveau": "N02",
+   "Position": "E03",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "C-C02-N02-E04",
+   "Zone": "C",
+   "Rayonnage": "C02",
+   "Niveau": "N02",
+   "Position": "E04",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "C-C02-N03-E01",
+   "Zone": "C",
+   "Rayonnage": "C02",
+   "Niveau": "N03",
+   "Position": "E01",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "C-C02-N03-E02",
+   "Zone": "C",
+   "Rayonnage": "C02",
+   "Niveau": "N03",
+   "Position": "E02",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "C-C02-N03-E03",
+   "Zone": "C",
+   "Rayonnage": "C02",
+   "Niveau": "N03",
+   "Position": "E03",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "C-C02-N03-E04",
+   "Zone": "C",
+   "Rayonnage": "C02",
+   "Niveau": "N03",
+   "Position": "E04",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "C-C02-N04-E01",
+   "Zone": "C",
+   "Rayonnage": "C02",
+   "Niveau": "N04",
+   "Position": "E01",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "C-C02-N04-E02",
+   "Zone": "C",
+   "Rayonnage": "C02",
+   "Niveau": "N04",
+   "Position": "E02",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "C-C02-N04-E03",
+   "Zone": "C",
+   "Rayonnage": "C02",
+   "Niveau": "N04",
+   "Position": "E03",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "C-C02-N04-E04",
+   "Zone": "C",
+   "Rayonnage": "C02",
+   "Niveau": "N04",
+   "Position": "E04",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "C-C02-N05-E01",
+   "Zone": "C",
+   "Rayonnage": "C02",
+   "Niveau": "N05",
+   "Position": "E01",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "C-C02-N05-E02",
+   "Zone": "C",
+   "Rayonnage": "C02",
+   "Niveau": "N05",
+   "Position": "E02",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "C-C02-N05-E03",
+   "Zone": "C",
+   "Rayonnage": "C02",
+   "Niveau": "N05",
+   "Position": "E03",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "C-C02-N05-E04",
+   "Zone": "C",
+   "Rayonnage": "C02",
+   "Niveau": "N05",
+   "Position": "E04",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "D-D01-N01-E01",
+   "Zone": "D",
+   "Rayonnage": "D01",
+   "Niveau": "N01",
+   "Position": "E01",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "D-D01-N01-E02",
+   "Zone": "D",
+   "Rayonnage": "D01",
+   "Niveau": "N01",
+   "Position": "E02",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "D-D01-N01-E03",
+   "Zone": "D",
+   "Rayonnage": "D01",
+   "Niveau": "N01",
+   "Position": "E03",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "D-D01-N01-E04",
+   "Zone": "D",
+   "Rayonnage": "D01",
+   "Niveau": "N01",
+   "Position": "E04",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "D-D01-N02-E01",
+   "Zone": "D",
+   "Rayonnage": "D01",
+   "Niveau": "N02",
+   "Position": "E01",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "D-D01-N02-E02",
+   "Zone": "D",
+   "Rayonnage": "D01",
+   "Niveau": "N02",
+   "Position": "E02",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "D-D01-N02-E03",
+   "Zone": "D",
+   "Rayonnage": "D01",
+   "Niveau": "N02",
+   "Position": "E03",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "D-D01-N02-E04",
+   "Zone": "D",
+   "Rayonnage": "D01",
+   "Niveau": "N02",
+   "Position": "E04",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "D-D01-N03-E01",
+   "Zone": "D",
+   "Rayonnage": "D01",
+   "Niveau": "N03",
+   "Position": "E01",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "D-D01-N03-E02",
+   "Zone": "D",
+   "Rayonnage": "D01",
+   "Niveau": "N03",
+   "Position": "E02",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "D-D01-N03-E03",
+   "Zone": "D",
+   "Rayonnage": "D01",
+   "Niveau": "N03",
+   "Position": "E03",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "D-D01-N03-E04",
+   "Zone": "D",
+   "Rayonnage": "D01",
+   "Niveau": "N03",
+   "Position": "E04",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "D-D01-N04-E01",
+   "Zone": "D",
+   "Rayonnage": "D01",
+   "Niveau": "N04",
+   "Position": "E01",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "D-D01-N04-E02",
+   "Zone": "D",
+   "Rayonnage": "D01",
+   "Niveau": "N04",
+   "Position": "E02",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "D-D01-N04-E03",
+   "Zone": "D",
+   "Rayonnage": "D01",
+   "Niveau": "N04",
+   "Position": "E03",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "D-D01-N04-E04",
+   "Zone": "D",
+   "Rayonnage": "D01",
+   "Niveau": "N04",
+   "Position": "E04",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "D-D01-N05-E01",
+   "Zone": "D",
+   "Rayonnage": "D01",
+   "Niveau": "N05",
+   "Position": "E01",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "D-D01-N05-E02",
+   "Zone": "D",
+   "Rayonnage": "D01",
+   "Niveau": "N05",
+   "Position": "E02",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "D-D01-N05-E03",
+   "Zone": "D",
+   "Rayonnage": "D01",
+   "Niveau": "N05",
+   "Position": "E03",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "D-D01-N05-E04",
+   "Zone": "D",
+   "Rayonnage": "D01",
+   "Niveau": "N05",
+   "Position": "E04",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "D-D02-N01-E01",
+   "Zone": "D",
+   "Rayonnage": "D02",
+   "Niveau": "N01",
+   "Position": "E01",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "D-D02-N01-E02",
+   "Zone": "D",
+   "Rayonnage": "D02",
+   "Niveau": "N01",
+   "Position": "E02",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "D-D02-N01-E03",
+   "Zone": "D",
+   "Rayonnage": "D02",
+   "Niveau": "N01",
+   "Position": "E03",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "D-D02-N01-E04",
+   "Zone": "D",
+   "Rayonnage": "D02",
+   "Niveau": "N01",
+   "Position": "E04",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "D-D02-N02-E01",
+   "Zone": "D",
+   "Rayonnage": "D02",
+   "Niveau": "N02",
+   "Position": "E01",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "D-D02-N02-E02",
+   "Zone": "D",
+   "Rayonnage": "D02",
+   "Niveau": "N02",
+   "Position": "E02",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "D-D02-N02-E03",
+   "Zone": "D",
+   "Rayonnage": "D02",
+   "Niveau": "N02",
+   "Position": "E03",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "D-D02-N02-E04",
+   "Zone": "D",
+   "Rayonnage": "D02",
+   "Niveau": "N02",
+   "Position": "E04",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "D-D02-N03-E01",
+   "Zone": "D",
+   "Rayonnage": "D02",
+   "Niveau": "N03",
+   "Position": "E01",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "D-D02-N03-E02",
+   "Zone": "D",
+   "Rayonnage": "D02",
+   "Niveau": "N03",
+   "Position": "E02",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "D-D02-N03-E03",
+   "Zone": "D",
+   "Rayonnage": "D02",
+   "Niveau": "N03",
+   "Position": "E03",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "D-D02-N03-E04",
+   "Zone": "D",
+   "Rayonnage": "D02",
+   "Niveau": "N03",
+   "Position": "E04",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "D-D02-N04-E01",
+   "Zone": "D",
+   "Rayonnage": "D02",
+   "Niveau": "N04",
+   "Position": "E01",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "D-D02-N04-E02",
+   "Zone": "D",
+   "Rayonnage": "D02",
+   "Niveau": "N04",
+   "Position": "E02",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "D-D02-N04-E03",
+   "Zone": "D",
+   "Rayonnage": "D02",
+   "Niveau": "N04",
+   "Position": "E03",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "D-D02-N04-E04",
+   "Zone": "D",
+   "Rayonnage": "D02",
+   "Niveau": "N04",
+   "Position": "E04",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "D-D02-N05-E01",
+   "Zone": "D",
+   "Rayonnage": "D02",
+   "Niveau": "N05",
+   "Position": "E01",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "D-D02-N05-E02",
+   "Zone": "D",
+   "Rayonnage": "D02",
+   "Niveau": "N05",
+   "Position": "E02",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "D-D02-N05-E03",
+   "Zone": "D",
+   "Rayonnage": "D02",
+   "Niveau": "N05",
+   "Position": "E03",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "D-D02-N05-E04",
+   "Zone": "D",
+   "Rayonnage": "D02",
+   "Niveau": "N05",
+   "Position": "E04",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "E-E01-N01-E01",
+   "Zone": "E",
+   "Rayonnage": "E01",
+   "Niveau": "N01",
+   "Position": "E01",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "E-E01-N01-E02",
+   "Zone": "E",
+   "Rayonnage": "E01",
+   "Niveau": "N01",
+   "Position": "E02",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "E-E01-N01-E03",
+   "Zone": "E",
+   "Rayonnage": "E01",
+   "Niveau": "N01",
+   "Position": "E03",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "E-E01-N01-E04",
+   "Zone": "E",
+   "Rayonnage": "E01",
+   "Niveau": "N01",
+   "Position": "E04",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "E-E01-N02-E01",
+   "Zone": "E",
+   "Rayonnage": "E01",
+   "Niveau": "N02",
+   "Position": "E01",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "E-E01-N02-E02",
+   "Zone": "E",
+   "Rayonnage": "E01",
+   "Niveau": "N02",
+   "Position": "E02",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "E-E01-N02-E03",
+   "Zone": "E",
+   "Rayonnage": "E01",
+   "Niveau": "N02",
+   "Position": "E03",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "E-E01-N02-E04",
+   "Zone": "E",
+   "Rayonnage": "E01",
+   "Niveau": "N02",
+   "Position": "E04",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "E-E01-N03-E01",
+   "Zone": "E",
+   "Rayonnage": "E01",
+   "Niveau": "N03",
+   "Position": "E01",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "E-E01-N03-E02",
+   "Zone": "E",
+   "Rayonnage": "E01",
+   "Niveau": "N03",
+   "Position": "E02",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "E-E01-N03-E03",
+   "Zone": "E",
+   "Rayonnage": "E01",
+   "Niveau": "N03",
+   "Position": "E03",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "E-E01-N03-E04",
+   "Zone": "E",
+   "Rayonnage": "E01",
+   "Niveau": "N03",
+   "Position": "E04",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "E-E01-N04-E01",
+   "Zone": "E",
+   "Rayonnage": "E01",
+   "Niveau": "N04",
+   "Position": "E01",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "E-E01-N04-E02",
+   "Zone": "E",
+   "Rayonnage": "E01",
+   "Niveau": "N04",
+   "Position": "E02",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "E-E01-N04-E03",
+   "Zone": "E",
+   "Rayonnage": "E01",
+   "Niveau": "N04",
+   "Position": "E03",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "E-E01-N04-E04",
+   "Zone": "E",
+   "Rayonnage": "E01",
+   "Niveau": "N04",
+   "Position": "E04",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "E-E01-N05-E01",
+   "Zone": "E",
+   "Rayonnage": "E01",
+   "Niveau": "N05",
+   "Position": "E01",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "E-E01-N05-E02",
+   "Zone": "E",
+   "Rayonnage": "E01",
+   "Niveau": "N05",
+   "Position": "E02",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "E-E01-N05-E03",
+   "Zone": "E",
+   "Rayonnage": "E01",
+   "Niveau": "N05",
+   "Position": "E03",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "E-E01-N05-E04",
+   "Zone": "E",
+   "Rayonnage": "E01",
+   "Niveau": "N05",
+   "Position": "E04",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "E-E02-N01-E01",
+   "Zone": "E",
+   "Rayonnage": "E02",
+   "Niveau": "N01",
+   "Position": "E01",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "E-E02-N01-E02",
+   "Zone": "E",
+   "Rayonnage": "E02",
+   "Niveau": "N01",
+   "Position": "E02",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "E-E02-N01-E03",
+   "Zone": "E",
+   "Rayonnage": "E02",
+   "Niveau": "N01",
+   "Position": "E03",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "E-E02-N01-E04",
+   "Zone": "E",
+   "Rayonnage": "E02",
+   "Niveau": "N01",
+   "Position": "E04",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "E-E02-N02-E01",
+   "Zone": "E",
+   "Rayonnage": "E02",
+   "Niveau": "N02",
+   "Position": "E01",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "E-E02-N02-E02",
+   "Zone": "E",
+   "Rayonnage": "E02",
+   "Niveau": "N02",
+   "Position": "E02",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "E-E02-N02-E03",
+   "Zone": "E",
+   "Rayonnage": "E02",
+   "Niveau": "N02",
+   "Position": "E03",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "E-E02-N02-E04",
+   "Zone": "E",
+   "Rayonnage": "E02",
+   "Niveau": "N02",
+   "Position": "E04",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "E-E02-N03-E01",
+   "Zone": "E",
+   "Rayonnage": "E02",
+   "Niveau": "N03",
+   "Position": "E01",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "E-E02-N03-E02",
+   "Zone": "E",
+   "Rayonnage": "E02",
+   "Niveau": "N03",
+   "Position": "E02",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "E-E02-N03-E03",
+   "Zone": "E",
+   "Rayonnage": "E02",
+   "Niveau": "N03",
+   "Position": "E03",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "E-E02-N03-E04",
+   "Zone": "E",
+   "Rayonnage": "E02",
+   "Niveau": "N03",
+   "Position": "E04",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "E-E02-N04-E01",
+   "Zone": "E",
+   "Rayonnage": "E02",
+   "Niveau": "N04",
+   "Position": "E01",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "E-E02-N04-E02",
+   "Zone": "E",
+   "Rayonnage": "E02",
+   "Niveau": "N04",
+   "Position": "E02",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "E-E02-N04-E03",
+   "Zone": "E",
+   "Rayonnage": "E02",
+   "Niveau": "N04",
+   "Position": "E03",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "E-E02-N04-E04",
+   "Zone": "E",
+   "Rayonnage": "E02",
+   "Niveau": "N04",
+   "Position": "E04",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "E-E02-N05-E01",
+   "Zone": "E",
+   "Rayonnage": "E02",
+   "Niveau": "N05",
+   "Position": "E01",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "E-E02-N05-E02",
+   "Zone": "E",
+   "Rayonnage": "E02",
+   "Niveau": "N05",
+   "Position": "E02",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "E-E02-N05-E03",
+   "Zone": "E",
+   "Rayonnage": "E02",
+   "Niveau": "N05",
+   "Position": "E03",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "E-E02-N05-E04",
+   "Zone": "E",
+   "Rayonnage": "E02",
+   "Niveau": "N05",
+   "Position": "E04",
+   "Capacite": 100
+  },
+  {
+   "EmplacementID": "F-F01-N01-E01",
+   "Zone": "F",
+   "Rayonnage": "F01",
+   "Niveau": "N01",
+   "Position": "E01",
+   "Capacite": 30
+  },
+  {
+   "EmplacementID": "F-F01-N01-E02",
+   "Zone": "F",
+   "Rayonnage": "F01",
+   "Niveau": "N01",
+   "Position": "E02",
+   "Capacite": 30
+  },
+  {
+   "EmplacementID": "F-F01-N01-E03",
+   "Zone": "F",
+   "Rayonnage": "F01",
+   "Niveau": "N01",
+   "Position": "E03",
+   "Capacite": 30
+  },
+  {
+   "EmplacementID": "F-F01-N01-E04",
+   "Zone": "F",
+   "Rayonnage": "F01",
+   "Niveau": "N01",
+   "Position": "E04",
+   "Capacite": 30
+  },
+  {
+   "EmplacementID": "F-F01-N02-E01",
+   "Zone": "F",
+   "Rayonnage": "F01",
+   "Niveau": "N02",
+   "Position": "E01",
+   "Capacite": 30
+  },
+  {
+   "EmplacementID": "F-F01-N02-E02",
+   "Zone": "F",
+   "Rayonnage": "F01",
+   "Niveau": "N02",
+   "Position": "E02",
+   "Capacite": 30
+  },
+  {
+   "EmplacementID": "F-F01-N02-E03",
+   "Zone": "F",
+   "Rayonnage": "F01",
+   "Niveau": "N02",
+   "Position": "E03",
+   "Capacite": 30
+  },
+  {
+   "EmplacementID": "F-F01-N02-E04",
+   "Zone": "F",
+   "Rayonnage": "F01",
+   "Niveau": "N02",
+   "Position": "E04",
+   "Capacite": 30
+  },
+  {
+   "EmplacementID": "F-F01-N03-E01",
+   "Zone": "F",
+   "Rayonnage": "F01",
+   "Niveau": "N03",
+   "Position": "E01",
+   "Capacite": 30
+  },
+  {
+   "EmplacementID": "F-F01-N03-E02",
+   "Zone": "F",
+   "Rayonnage": "F01",
+   "Niveau": "N03",
+   "Position": "E02",
+   "Capacite": 30
+  },
+  {
+   "EmplacementID": "F-F01-N03-E03",
+   "Zone": "F",
+   "Rayonnage": "F01",
+   "Niveau": "N03",
+   "Position": "E03",
+   "Capacite": 30
+  },
+  {
+   "EmplacementID": "F-F01-N03-E04",
+   "Zone": "F",
+   "Rayonnage": "F01",
+   "Niveau": "N03",
+   "Position": "E04",
+   "Capacite": 30
+  },
+  {
+   "EmplacementID": "F-F01-N04-E01",
+   "Zone": "F",
+   "Rayonnage": "F01",
+   "Niveau": "N04",
+   "Position": "E01",
+   "Capacite": 30
+  },
+  {
+   "EmplacementID": "F-F01-N04-E02",
+   "Zone": "F",
+   "Rayonnage": "F01",
+   "Niveau": "N04",
+   "Position": "E02",
+   "Capacite": 30
+  },
+  {
+   "EmplacementID": "F-F01-N04-E03",
+   "Zone": "F",
+   "Rayonnage": "F01",
+   "Niveau": "N04",
+   "Position": "E03",
+   "Capacite": 30
+  },
+  {
+   "EmplacementID": "F-F01-N04-E04",
+   "Zone": "F",
+   "Rayonnage": "F01",
+   "Niveau": "N04",
+   "Position": "E04",
+   "Capacite": 30
+  },
+  {
+   "EmplacementID": "F-F01-N05-E01",
+   "Zone": "F",
+   "Rayonnage": "F01",
+   "Niveau": "N05",
+   "Position": "E01",
+   "Capacite": 30
+  },
+  {
+   "EmplacementID": "F-F01-N05-E02",
+   "Zone": "F",
+   "Rayonnage": "F01",
+   "Niveau": "N05",
+   "Position": "E02",
+   "Capacite": 30
+  },
+  {
+   "EmplacementID": "F-F01-N05-E03",
+   "Zone": "F",
+   "Rayonnage": "F01",
+   "Niveau": "N05",
+   "Position": "E03",
+   "Capacite": 30
+  },
+  {
+   "EmplacementID": "F-F01-N05-E04",
+   "Zone": "F",
+   "Rayonnage": "F01",
+   "Niveau": "N05",
+   "Position": "E04",
+   "Capacite": 30
+  },
+  {
+   "EmplacementID": "F-F02-N01-E01",
+   "Zone": "F",
+   "Rayonnage": "F02",
+   "Niveau": "N01",
+   "Position": "E01",
+   "Capacite": 30
+  },
+  {
+   "EmplacementID": "F-F02-N01-E02",
+   "Zone": "F",
+   "Rayonnage": "F02",
+   "Niveau": "N01",
+   "Position": "E02",
+   "Capacite": 30
+  },
+  {
+   "EmplacementID": "F-F02-N01-E03",
+   "Zone": "F",
+   "Rayonnage": "F02",
+   "Niveau": "N01",
+   "Position": "E03",
+   "Capacite": 30
+  },
+  {
+   "EmplacementID": "F-F02-N01-E04",
+   "Zone": "F",
+   "Rayonnage": "F02",
+   "Niveau": "N01",
+   "Position": "E04",
+   "Capacite": 30
+  },
+  {
+   "EmplacementID": "F-F02-N02-E01",
+   "Zone": "F",
+   "Rayonnage": "F02",
+   "Niveau": "N02",
+   "Position": "E01",
+   "Capacite": 30
+  },
+  {
+   "EmplacementID": "F-F02-N02-E02",
+   "Zone": "F",
+   "Rayonnage": "F02",
+   "Niveau": "N02",
+   "Position": "E02",
+   "Capacite": 30
+  },
+  {
+   "EmplacementID": "F-F02-N02-E03",
+   "Zone": "F",
+   "Rayonnage": "F02",
+   "Niveau": "N02",
+   "Position": "E03",
+   "Capacite": 30
+  },
+  {
+   "EmplacementID": "F-F02-N02-E04",
+   "Zone": "F",
+   "Rayonnage": "F02",
+   "Niveau": "N02",
+   "Position": "E04",
+   "Capacite": 30
+  },
+  {
+   "EmplacementID": "F-F02-N03-E01",
+   "Zone": "F",
+   "Rayonnage": "F02",
+   "Niveau": "N03",
+   "Position": "E01",
+   "Capacite": 30
+  },
+  {
+   "EmplacementID": "F-F02-N03-E02",
+   "Zone": "F",
+   "Rayonnage": "F02",
+   "Niveau": "N03",
+   "Position": "E02",
+   "Capacite": 30
+  },
+  {
+   "EmplacementID": "F-F02-N03-E03",
+   "Zone": "F",
+   "Rayonnage": "F02",
+   "Niveau": "N03",
+   "Position": "E03",
+   "Capacite": 30
+  },
+  {
+   "EmplacementID": "F-F02-N03-E04",
+   "Zone": "F",
+   "Rayonnage": "F02",
+   "Niveau": "N03",
+   "Position": "E04",
+   "Capacite": 30
+  },
+  {
+   "EmplacementID": "F-F02-N04-E01",
+   "Zone": "F",
+   "Rayonnage": "F02",
+   "Niveau": "N04",
+   "Position": "E01",
+   "Capacite": 30
+  },
+  {
+   "EmplacementID": "F-F02-N04-E02",
+   "Zone": "F",
+   "Rayonnage": "F02",
+   "Niveau": "N04",
+   "Position": "E02",
+   "Capacite": 30
+  },
+  {
+   "EmplacementID": "F-F02-N04-E03",
+   "Zone": "F",
+   "Rayonnage": "F02",
+   "Niveau": "N04",
+   "Position": "E03",
+   "Capacite": 30
+  },
+  {
+   "EmplacementID": "F-F02-N04-E04",
+   "Zone": "F",
+   "Rayonnage": "F02",
+   "Niveau": "N04",
+   "Position": "E04",
+   "Capacite": 30
+  },
+  {
+   "EmplacementID": "F-F02-N05-E01",
+   "Zone": "F",
+   "Rayonnage": "F02",
+   "Niveau": "N05",
+   "Position": "E01",
+   "Capacite": 30
+  },
+  {
+   "EmplacementID": "F-F02-N05-E02",
+   "Zone": "F",
+   "Rayonnage": "F02",
+   "Niveau": "N05",
+   "Position": "E02",
+   "Capacite": 30
+  },
+  {
+   "EmplacementID": "F-F02-N05-E03",
+   "Zone": "F",
+   "Rayonnage": "F02",
+   "Niveau": "N05",
+   "Position": "E03",
+   "Capacite": 30
+  },
+  {
+   "EmplacementID": "F-F02-N05-E04",
+   "Zone": "F",
+   "Rayonnage": "F02",
+   "Niveau": "N05",
+   "Position": "E04",
+   "Capacite": 30
+  }
+ ],
+ "stocks": [
+  {
+   "StockID": "S-ART-0001-A-A02-N01-E03",
+   "ArticleID": "ART-0001",
+   "EmplacementID": "A-A02-N01-E03",
+   "Quantite": 10,
+   "Version": 1,
+   "DateModification": "2026-04-02T10:02:00.000Z"
+  },
+  {
+   "StockID": "S-ART-0002-A-A01-N01-E04",
+   "ArticleID": "ART-0002",
+   "EmplacementID": "A-A01-N01-E04",
+   "Quantite": 6,
+   "Version": 1,
+   "DateModification": "2026-04-03T12:06:00.000Z"
+  },
+  {
+   "StockID": "S-ART-0002-A-A02-N02-E02",
+   "ArticleID": "ART-0002",
+   "EmplacementID": "A-A02-N02-E02",
+   "Quantite": 13,
+   "Version": 1,
+   "DateModification": "2026-04-04T14:48:00.000Z"
+  },
+  {
+   "StockID": "S-ART-0003-B-B02-N05-E03",
+   "ArticleID": "ART-0003",
+   "EmplacementID": "B-B02-N05-E03",
+   "Quantite": 18,
+   "Version": 3,
+   "DateModification": "2026-10-10T07:27:00.000Z"
+  },
+  {
+   "StockID": "S-ART-0004-B-B01-N02-E02",
+   "ArticleID": "ART-0004",
+   "EmplacementID": "B-B01-N02-E02",
+   "Quantite": 19,
+   "Version": 2,
+   "DateModification": "2026-09-25T11:27:00.000Z"
+  },
+  {
+   "StockID": "S-ART-0005-C-C01-N03-E03",
+   "ArticleID": "ART-0005",
+   "EmplacementID": "C-C01-N03-E03",
+   "Quantite": 7,
+   "Version": 1,
+   "DateModification": "2026-04-07T11:20:00.000Z"
+  },
+  {
+   "StockID": "S-ART-0006-C-C02-N03-E03",
+   "ArticleID": "ART-0006",
+   "EmplacementID": "C-C02-N03-E03",
+   "Quantite": 1,
+   "Version": 1,
+   "DateModification": "2026-04-08T06:29:00.000Z"
+  },
+  {
+   "StockID": "S-ART-0007-C-C02-N02-E02",
+   "ArticleID": "ART-0007",
+   "EmplacementID": "C-C02-N02-E02",
+   "Quantite": 2,
+   "Version": 1,
+   "DateModification": "2026-04-09T06:49:00.000Z"
+  },
+  {
+   "StockID": "S-ART-0007-C-C02-N04-E04",
+   "ArticleID": "ART-0007",
+   "EmplacementID": "C-C02-N04-E04",
+   "Quantite": 2,
+   "Version": 1,
+   "DateModification": "2026-04-10T09:34:00.000Z"
+  },
+  {
+   "StockID": "S-ART-0009-D-D01-N04-E02",
+   "ArticleID": "ART-0009",
+   "EmplacementID": "D-D01-N04-E02",
+   "Quantite": 12,
+   "Version": 1,
+   "DateModification": "2026-04-11T14:17:00.000Z"
+  },
+  {
+   "StockID": "S-ART-0010-E-E02-N03-E03",
+   "ArticleID": "ART-0010",
+   "EmplacementID": "E-E02-N03-E03",
+   "Quantite": 1,
+   "Version": 2,
+   "DateModification": "2026-10-03T14:17:00.000Z"
+  },
+  {
+   "StockID": "S-ART-0011-E-E02-N02-E04",
+   "ArticleID": "ART-0011",
+   "EmplacementID": "E-E02-N02-E04",
+   "Quantite": 3,
+   "Version": 1,
+   "DateModification": "2026-04-13T14:39:00.000Z"
+  },
+  {
+   "StockID": "S-ART-0012-E-E01-N03-E02",
+   "ArticleID": "ART-0012",
+   "EmplacementID": "E-E01-N03-E02",
+   "Quantite": 5,
+   "Version": 1,
+   "DateModification": "2026-04-15T06:48:00.000Z"
+  },
+  {
+   "StockID": "S-ART-0012-E-E01-N02-E03",
+   "ArticleID": "ART-0012",
+   "EmplacementID": "E-E01-N02-E03",
+   "Quantite": 4,
+   "Version": 1,
+   "DateModification": "2026-04-16T06:43:00.000Z"
+  },
+  {
+   "StockID": "S-ART-0013-F-F01-N05-E04",
+   "ArticleID": "ART-0013",
+   "EmplacementID": "F-F01-N05-E04",
+   "Quantite": 14,
+   "Version": 2,
+   "DateModification": "2026-08-25T06:41:00.000Z"
+  },
+  {
+   "StockID": "S-ART-0014-D-D01-N05-E02",
+   "ArticleID": "ART-0014",
+   "EmplacementID": "D-D01-N05-E02",
+   "Quantite": 26,
+   "Version": 1,
+   "DateModification": "2026-04-17T08:13:00.000Z"
+  },
+  {
+   "StockID": "S-ART-0015-F-F01-N03-E01",
+   "ArticleID": "ART-0015",
+   "EmplacementID": "F-F01-N03-E01",
+   "Quantite": 6,
+   "Version": 1,
+   "DateModification": "2026-04-18T12:14:00.000Z"
+  },
+  {
+   "StockID": "S-ART-0016-A-A02-N05-E04",
+   "ArticleID": "ART-0016",
+   "EmplacementID": "A-A02-N05-E04",
+   "Quantite": 15,
+   "Version": 2,
+   "DateModification": "2026-08-25T13:31:00.000Z"
+  },
+  {
+   "StockID": "S-ART-0017-A-A02-N03-E03",
+   "ArticleID": "ART-0017",
+   "EmplacementID": "A-A02-N03-E03",
+   "Quantite": 12,
+   "Version": 2,
+   "DateModification": "2026-10-05T07:25:00.000Z"
+  },
+  {
+   "StockID": "S-ART-0017-A-A01-N04-E03",
+   "ArticleID": "ART-0017",
+   "EmplacementID": "A-A01-N04-E03",
+   "Quantite": 3,
+   "Version": 1,
+   "DateModification": "2026-04-21T12:42:00.000Z"
+  },
+  {
+   "StockID": "S-ART-0018-B-B02-N03-E01",
+   "ArticleID": "ART-0018",
+   "EmplacementID": "B-B02-N03-E01",
+   "Quantite": 2,
+   "Version": 1,
+   "DateModification": "2026-04-22T15:03:00.000Z"
+  },
+  {
+   "StockID": "S-ART-0019-B-B02-N05-E04",
+   "ArticleID": "ART-0019",
+   "EmplacementID": "B-B02-N05-E04",
+   "Quantite": 79,
+   "Version": 2,
+   "DateModification": "2026-08-26T09:44:00.000Z"
+  },
+  {
+   "StockID": "S-ART-0020-C-C01-N05-E04",
+   "ArticleID": "ART-0020",
+   "EmplacementID": "C-C01-N05-E04",
+   "Quantite": 4,
+   "Version": 2,
+   "DateModification": "2026-08-27T11:25:00.000Z"
+  },
+  {
+   "StockID": "S-ART-0021-C-C02-N04-E01",
+   "ArticleID": "ART-0021",
+   "EmplacementID": "C-C02-N04-E01",
+   "Quantite": 2,
+   "Version": 3,
+   "DateModification": "2026-09-26T07:55:00.000Z"
+  },
+  {
+   "StockID": "S-ART-0022-C-C02-N03-E04",
+   "ArticleID": "ART-0022",
+   "EmplacementID": "C-C02-N03-E04",
+   "Quantite": 3,
+   "Version": 1,
+   "DateModification": "2026-04-26T13:39:00.000Z"
+  },
+  {
+   "StockID": "S-ART-0022-C-C02-N01-E04",
+   "ArticleID": "ART-0022",
+   "EmplacementID": "C-C02-N01-E04",
+   "Quantite": 3,
+   "Version": 1,
+   "DateModification": "2026-04-27T14:13:00.000Z"
+  },
+  {
+   "StockID": "S-ART-0023-D-D01-N03-E01",
+   "ArticleID": "ART-0023",
+   "EmplacementID": "D-D01-N03-E01",
+   "Quantite": 38,
+   "Version": 1,
+   "DateModification": "2026-04-28T08:51:00.000Z"
+  },
+  {
+   "StockID": "S-ART-0024-D-D02-N03-E01",
+   "ArticleID": "ART-0024",
+   "EmplacementID": "D-D02-N03-E01",
+   "Quantite": 15,
+   "Version": 2,
+   "DateModification": "2026-08-29T10:27:00.000Z"
+  },
+  {
+   "StockID": "S-ART-0025-E-E02-N04-E01",
+   "ArticleID": "ART-0025",
+   "EmplacementID": "E-E02-N04-E01",
+   "Quantite": 6,
+   "Version": 1,
+   "DateModification": "2026-04-30T09:15:00.000Z"
+  },
+  {
+   "StockID": "S-ART-0026-E-E01-N03-E04",
+   "ArticleID": "ART-0026",
+   "EmplacementID": "E-E01-N03-E04",
+   "Quantite": 4,
+   "Version": 2,
+   "DateModification": "2026-08-30T09:20:00.000Z"
+  },
+  {
+   "StockID": "S-ART-0027-E-E01-N04-E02",
+   "ArticleID": "ART-0027",
+   "EmplacementID": "E-E01-N04-E02",
+   "Quantite": 3,
+   "Version": 1,
+   "DateModification": "2026-05-03T07:30:00.000Z"
+  },
+  {
+   "StockID": "S-ART-0027-E-E02-N04-E04",
+   "ArticleID": "ART-0027",
+   "EmplacementID": "E-E02-N04-E04",
+   "Quantite": 4,
+   "Version": 1,
+   "DateModification": "2026-05-04T07:08:00.000Z"
+  },
+  {
+   "StockID": "S-ART-0029-D-D01-N02-E03",
+   "ArticleID": "ART-0029",
+   "EmplacementID": "D-D01-N02-E03",
+   "Quantite": 42,
+   "Version": 2,
+   "DateModification": "2026-08-31T15:53:00.000Z"
+  },
+  {
+   "StockID": "S-ART-0030-F-F01-N01-E02",
+   "ArticleID": "ART-0030",
+   "EmplacementID": "F-F01-N01-E02",
+   "Quantite": 1,
+   "Version": 1,
+   "DateModification": "2026-05-06T14:59:00.000Z"
+  },
+  {
+   "StockID": "S-ART-0031-A-A01-N04-E04",
+   "ArticleID": "ART-0031",
+   "EmplacementID": "A-A01-N04-E04",
+   "Quantite": 11,
+   "Version": 3,
+   "DateModification": "2026-10-06T07:20:00.000Z"
+  },
+  {
+   "StockID": "S-ART-0032-A-A02-N05-E03",
+   "ArticleID": "ART-0032",
+   "EmplacementID": "A-A02-N05-E03",
+   "Quantite": 10,
+   "Version": 1,
+   "DateModification": "2026-05-08T13:25:00.000Z"
+  },
+  {
+   "StockID": "S-ART-0032-A-A02-N04-E01",
+   "ArticleID": "ART-0032",
+   "EmplacementID": "A-A02-N04-E01",
+   "Quantite": 10,
+   "Version": 1,
+   "DateModification": "2026-05-09T13:24:00.000Z"
+  },
+  {
+   "StockID": "S-ART-0033-B-B02-N01-E01",
+   "ArticleID": "ART-0033",
+   "EmplacementID": "B-B02-N01-E01",
+   "Quantite": 11,
+   "Version": 1,
+   "DateModification": "2026-05-10T11:00:00.000Z"
+  },
+  {
+   "StockID": "S-ART-0034-B-B01-N04-E04",
+   "ArticleID": "ART-0034",
+   "EmplacementID": "B-B01-N04-E04",
+   "Quantite": 29,
+   "Version": 2,
+   "DateModification": "2026-09-02T13:39:00.000Z"
+  },
+  {
+   "StockID": "S-ART-0035-C-C01-N02-E04",
+   "ArticleID": "ART-0035",
+   "EmplacementID": "C-C01-N02-E04",
+   "Quantite": 2,
+   "Version": 1,
+   "DateModification": "2026-05-12T10:10:00.000Z"
+  },
+  {
+   "StockID": "S-ART-0036-C-C01-N01-E01",
+   "ArticleID": "ART-0036",
+   "EmplacementID": "C-C01-N01-E01",
+   "Quantite": 5,
+   "Version": 1,
+   "DateModification": "2026-05-12T14:39:00.000Z"
+  },
+  {
+   "StockID": "S-ART-0037-C-C02-N02-E04",
+   "ArticleID": "ART-0037",
+   "EmplacementID": "C-C02-N02-E04",
+   "Quantite": 2,
+   "Version": 1,
+   "DateModification": "2026-05-14T06:39:00.000Z"
+  },
+  {
+   "StockID": "S-ART-0037-C-C01-N05-E03",
+   "ArticleID": "ART-0037",
+   "EmplacementID": "C-C01-N05-E03",
+   "Quantite": 2,
+   "Version": 1,
+   "DateModification": "2026-05-15T06:43:00.000Z"
+  },
+  {
+   "StockID": "S-ART-0038-D-D01-N03-E02",
+   "ArticleID": "ART-0038",
+   "EmplacementID": "D-D01-N03-E02",
+   "Quantite": 25,
+   "Version": 2,
+   "DateModification": "2026-09-26T15:44:00.000Z"
+  },
+  {
+   "StockID": "S-ART-0039-D-D01-N04-E03",
+   "ArticleID": "ART-0039",
+   "EmplacementID": "D-D01-N04-E03",
+   "Quantite": 18,
+   "Version": 2,
+   "DateModification": "2026-09-03T11:25:00.000Z"
+  },
+  {
+   "StockID": "S-ART-0040-E-E01-N05-E02",
+   "ArticleID": "ART-0040",
+   "EmplacementID": "E-E01-N05-E02",
+   "Quantite": 12,
+   "Version": 2,
+   "DateModification": "2026-09-04T15:37:00.000Z"
+  },
+  {
+   "StockID": "S-ART-0041-E-E02-N01-E01",
+   "ArticleID": "ART-0041",
+   "EmplacementID": "E-E02-N01-E01",
+   "Quantite": 6,
+   "Version": 1,
+   "DateModification": "2026-05-19T09:36:00.000Z"
+  },
+  {
+   "StockID": "S-ART-0042-E-E01-N01-E04",
+   "ArticleID": "ART-0042",
+   "EmplacementID": "E-E01-N01-E04",
+   "Quantite": 1,
+   "Version": 1,
+   "DateModification": "2026-05-19T14:06:00.000Z"
+  },
+  {
+   "StockID": "S-ART-0043-F-F01-N05-E03",
+   "ArticleID": "ART-0043",
+   "EmplacementID": "F-F01-N05-E03",
+   "Quantite": 16,
+   "Version": 1,
+   "DateModification": "2026-05-21T06:42:00.000Z"
+  },
+  {
+   "StockID": "S-ART-0044-D-D01-N01-E02",
+   "ArticleID": "ART-0044",
+   "EmplacementID": "D-D01-N01-E02",
+   "Quantite": 29,
+   "Version": 2,
+   "DateModification": "2026-09-06T10:59:00.000Z"
+  },
+  {
+   "StockID": "S-ART-0045-F-F01-N04-E04",
+   "ArticleID": "ART-0045",
+   "EmplacementID": "F-F01-N04-E04",
+   "Quantite": 3,
+   "Version": 2,
+   "DateModification": "2026-10-07T11:53:00.000Z"
+  },
+  {
+   "StockID": "S-ART-0046-A-A01-N03-E04",
+   "ArticleID": "ART-0046",
+   "EmplacementID": "A-A01-N03-E04",
+   "Quantite": 24,
+   "Version": 1,
+   "DateModification": "2026-05-23T10:03:00.000Z"
+  },
+  {
+   "StockID": "S-ART-0047-A-A02-N04-E03",
+   "ArticleID": "ART-0047",
+   "EmplacementID": "A-A02-N04-E03",
+   "Quantite": 14,
+   "Version": 1,
+   "DateModification": "2026-05-24T09:15:00.000Z"
+  },
+  {
+   "StockID": "S-ART-0047-A-A01-N02-E01",
+   "ArticleID": "ART-0047",
+   "EmplacementID": "A-A01-N02-E01",
+   "Quantite": 7,
+   "Version": 1,
+   "DateModification": "2026-05-25T12:52:00.000Z"
+  },
+  {
+   "StockID": "S-ART-0049-B-B01-N03-E01",
+   "ArticleID": "ART-0049",
+   "EmplacementID": "B-B01-N03-E01",
+   "Quantite": 71,
+   "Version": 1,
+   "DateModification": "2026-05-27T09:47:00.000Z"
+  },
+  {
+   "StockID": "S-ART-0050-C-C01-N01-E03",
+   "ArticleID": "ART-0050",
+   "EmplacementID": "C-C01-N01-E03",
+   "Quantite": 6,
+   "Version": 2,
+   "DateModification": "2026-09-08T14:02:00.000Z"
+  },
+  {
+   "StockID": "S-ART-0051-C-C02-N01-E03",
+   "ArticleID": "ART-0051",
+   "EmplacementID": "C-C02-N01-E03",
+   "Quantite": 4,
+   "Version": 1,
+   "DateModification": "2026-05-29T10:33:00.000Z"
+  },
+  {
+   "StockID": "S-ART-0052-C-C02-N01-E01",
+   "ArticleID": "ART-0052",
+   "EmplacementID": "C-C02-N01-E01",
+   "Quantite": 3,
+   "Version": 1,
+   "DateModification": "2026-05-30T10:27:00.000Z"
+  },
+  {
+   "StockID": "S-ART-0052-C-C01-N04-E04",
+   "ArticleID": "ART-0052",
+   "EmplacementID": "C-C01-N04-E04",
+   "Quantite": 4,
+   "Version": 1,
+   "DateModification": "2026-05-30T15:54:00.000Z"
+  },
+  {
+   "StockID": "S-ART-0053-D-D01-N02-E04",
+   "ArticleID": "ART-0053",
+   "EmplacementID": "D-D01-N02-E04",
+   "Quantite": 87,
+   "Version": 1,
+   "DateModification": "2026-05-31T12:40:00.000Z"
+  },
+  {
+   "StockID": "S-ART-0054-D-D01-N05-E01",
+   "ArticleID": "ART-0054",
+   "EmplacementID": "D-D01-N05-E01",
+   "Quantite": 2,
+   "Version": 1,
+   "DateModification": "2026-06-01T09:16:00.000Z"
+  },
+  {
+   "StockID": "S-ART-0055-E-E01-N01-E02",
+   "ArticleID": "ART-0055",
+   "EmplacementID": "E-E01-N01-E02",
+   "Quantite": 3,
+   "Version": 2,
+   "DateModification": "2026-09-28T08:50:00.000Z"
+  },
+  {
+   "StockID": "S-ART-0056-E-E01-N05-E01",
+   "ArticleID": "ART-0056",
+   "EmplacementID": "E-E01-N05-E01",
+   "Quantite": 4,
+   "Version": 1,
+   "DateModification": "2026-06-03T15:33:00.000Z"
+  },
+  {
+   "StockID": "S-ART-0057-E-E02-N04-E03",
+   "ArticleID": "ART-0057",
+   "EmplacementID": "E-E02-N04-E03",
+   "Quantite": 3,
+   "Version": 1,
+   "DateModification": "2026-06-04T15:11:00.000Z"
+  },
+  {
+   "StockID": "S-ART-0057-E-E02-N03-E02",
+   "ArticleID": "ART-0057",
+   "EmplacementID": "E-E02-N03-E02",
+   "Quantite": 1,
+   "Version": 1,
+   "DateModification": "2026-06-06T09:24:00.000Z"
+  },
+  {
+   "StockID": "S-ART-0058-F-F01-N04-E03",
+   "ArticleID": "ART-0058",
+   "EmplacementID": "F-F01-N04-E03",
+   "Quantite": 14,
+   "Version": 1,
+   "DateModification": "2026-06-07T15:04:00.000Z"
+  },
+  {
+   "StockID": "S-ART-0059-D-D01-N01-E01",
+   "ArticleID": "ART-0059",
+   "EmplacementID": "D-D01-N01-E01",
+   "Quantite": 45,
+   "Version": 2,
+   "DateModification": "2026-10-08T13:25:00.000Z"
+  },
+  {
+   "StockID": "S-ART-0060-F-F02-N02-E03",
+   "ArticleID": "ART-0060",
+   "EmplacementID": "F-F02-N02-E03",
+   "Quantite": 3,
+   "Version": 1,
+   "DateModification": "2026-06-10T13:36:00.000Z"
+  },
+  {
+   "StockID": "S-ART-0061-A-A01-N03-E03",
+   "ArticleID": "ART-0061",
+   "EmplacementID": "A-A01-N03-E03",
+   "Quantite": 12,
+   "Version": 2,
+   "DateModification": "2026-09-09T12:38:00.000Z"
+  },
+  {
+   "StockID": "S-ART-0062-A-A01-N02-E03",
+   "ArticleID": "ART-0062",
+   "EmplacementID": "A-A01-N02-E03",
+   "Quantite": 13,
+   "Version": 1,
+   "DateModification": "2026-06-12T09:47:00.000Z"
+  },
+  {
+   "StockID": "S-ART-0062-A-A01-N03-E01",
+   "ArticleID": "ART-0062",
+   "EmplacementID": "A-A01-N03-E01",
+   "Quantite": 3,
+   "Version": 1,
+   "DateModification": "2026-06-13T14:39:00.000Z"
+  },
+  {
+   "StockID": "S-ART-0063-B-B02-N02-E03",
+   "ArticleID": "ART-0063",
+   "EmplacementID": "B-B02-N02-E03",
+   "Quantite": 15,
+   "Version": 2,
+   "DateModification": "2026-09-10T13:33:00.000Z"
+  },
+  {
+   "StockID": "S-ART-0064-B-B02-N01-E04",
+   "ArticleID": "ART-0064",
+   "EmplacementID": "B-B02-N01-E04",
+   "Quantite": 24,
+   "Version": 1,
+   "DateModification": "2026-06-16T14:27:00.000Z"
+  },
+  {
+   "StockID": "S-ART-0065-C-C01-N03-E01",
+   "ArticleID": "ART-0065",
+   "EmplacementID": "C-C01-N03-E01",
+   "Quantite": 3,
+   "Version": 1,
+   "DateModification": "2026-06-17T15:27:00.000Z"
+  },
+  {
+   "StockID": "S-ART-0066-C-C02-N02-E01",
+   "ArticleID": "ART-0066",
+   "EmplacementID": "C-C02-N02-E01",
+   "Quantite": 1,
+   "Version": 1,
+   "DateModification": "2026-06-18T11:35:00.000Z"
+  },
+  {
+   "StockID": "S-ART-0067-C-C02-N04-E02",
+   "ArticleID": "ART-0067",
+   "EmplacementID": "C-C02-N04-E02",
+   "Quantite": 4,
+   "Version": 1,
+   "DateModification": "2026-06-19T09:20:00.000Z"
+  },
+  {
+   "StockID": "S-ART-0067-C-C01-N04-E03",
+   "ArticleID": "ART-0067",
+   "EmplacementID": "C-C01-N04-E03",
+   "Quantite": 3,
+   "Version": 1,
+   "DateModification": "2026-06-20T06:52:00.000Z"
+  },
+  {
+   "StockID": "S-ART-0069-D-D02-N01-E04",
+   "ArticleID": "ART-0069",
+   "EmplacementID": "D-D02-N01-E04",
+   "Quantite": 38,
+   "Version": 2,
+   "DateModification": "2026-09-12T13:05:00.000Z"
+  },
+  {
+   "StockID": "S-ART-0070-E-E01-N05-E03",
+   "ArticleID": "ART-0070",
+   "EmplacementID": "E-E01-N05-E03",
+   "Quantite": 7,
+   "Version": 1,
+   "DateModification": "2026-06-23T06:23:00.000Z"
+  },
+  {
+   "StockID": "S-ART-0071-E-E01-N03-E01",
+   "ArticleID": "ART-0071",
+   "EmplacementID": "E-E01-N03-E01",
+   "Quantite": 2,
+   "Version": 1,
+   "DateModification": "2026-06-24T10:55:00.000Z"
+  },
+  {
+   "StockID": "S-ART-0072-E-E02-N03-E04",
+   "ArticleID": "ART-0072",
+   "EmplacementID": "E-E02-N03-E04",
+   "Quantite": 2,
+   "Version": 2,
+   "DateModification": "2026-09-28T15:16:00.000Z"
+  },
+  {
+   "StockID": "S-ART-0072-E-E02-N03-E01",
+   "ArticleID": "ART-0072",
+   "EmplacementID": "E-E02-N03-E01",
+   "Quantite": 2,
+   "Version": 1,
+   "DateModification": "2026-06-27T08:53:00.000Z"
+  },
+  {
+   "StockID": "S-ART-0073-F-F01-N04-E01",
+   "ArticleID": "ART-0073",
+   "EmplacementID": "F-F01-N04-E01",
+   "Quantite": 11,
+   "Version": 1,
+   "DateModification": "2026-06-28T07:52:00.000Z"
+  },
+  {
+   "StockID": "S-ART-0074-D-D02-N01-E03",
+   "ArticleID": "ART-0074",
+   "EmplacementID": "D-D02-N01-E03",
+   "Quantite": 28,
+   "Version": 1,
+   "DateModification": "2026-06-29T06:36:00.000Z"
+  },
+  {
+   "StockID": "S-ART-0075-F-F02-N04-E03",
+   "ArticleID": "ART-0075",
+   "EmplacementID": "F-F02-N04-E03",
+   "Quantite": 4,
+   "Version": 1,
+   "DateModification": "2026-06-29T13:56:00.000Z"
+  },
+  {
+   "StockID": "S-ART-0076-A-A02-N02-E04",
+   "ArticleID": "ART-0076",
+   "EmplacementID": "A-A02-N02-E04",
+   "Quantite": 20,
+   "Version": 1,
+   "DateModification": "2026-06-30T08:24:00.000Z"
+  },
+  {
+   "StockID": "S-ART-0077-A-A02-N01-E01",
+   "ArticleID": "ART-0077",
+   "EmplacementID": "A-A02-N01-E01",
+   "Quantite": 10,
+   "Version": 1,
+   "DateModification": "2026-06-30T14:39:00.000Z"
+  },
+  {
+   "StockID": "S-ART-0077-A-A02-N04-E02",
+   "ArticleID": "ART-0077",
+   "EmplacementID": "A-A02-N04-E02",
+   "Quantite": 16,
+   "Version": 1,
+   "DateModification": "2026-07-02T08:53:00.000Z"
+  },
+  {
+   "StockID": "S-ART-0078-B-B02-N03-E03",
+   "ArticleID": "ART-0078",
+   "EmplacementID": "B-B02-N03-E03",
+   "Quantite": 3,
+   "Version": 1,
+   "DateModification": "2026-07-03T12:58:00.000Z"
+  },
+  {
+   "StockID": "S-ART-0079-B-B01-N03-E04",
+   "ArticleID": "ART-0079",
+   "EmplacementID": "B-B01-N03-E04",
+   "Quantite": 25,
+   "Version": 1,
+   "DateModification": "2026-07-05T06:40:00.000Z"
+  },
+  {
+   "StockID": "S-ART-0080-C-C02-N03-E01",
+   "ArticleID": "ART-0080",
+   "EmplacementID": "C-C02-N03-E01",
+   "Quantite": 7,
+   "Version": 1,
+   "DateModification": "2026-07-06T08:17:00.000Z"
+  },
+  {
+   "StockID": "S-ART-0081-C-C02-N05-E04",
+   "ArticleID": "ART-0081",
+   "EmplacementID": "C-C02-N05-E04",
+   "Quantite": 5,
+   "Version": 1,
+   "DateModification": "2026-07-07T12:46:00.000Z"
+  },
+  {
+   "StockID": "S-ART-0082-C-C01-N03-E02",
+   "ArticleID": "ART-0082",
+   "EmplacementID": "C-C01-N03-E02",
+   "Quantite": 2,
+   "Version": 1,
+   "DateModification": "2026-07-09T07:40:00.000Z"
+  },
+  {
+   "StockID": "S-ART-0082-C-C01-N02-E01",
+   "ArticleID": "ART-0082",
+   "EmplacementID": "C-C01-N02-E01",
+   "Quantite": 2,
+   "Version": 1,
+   "DateModification": "2026-07-10T13:13:00.000Z"
+  },
+  {
+   "StockID": "S-ART-0083-D-D02-N01-E01",
+   "ArticleID": "ART-0083",
+   "EmplacementID": "D-D02-N01-E01",
+   "Quantite": 73,
+   "Version": 1,
+   "DateModification": "2026-07-12T07:15:00.000Z"
+  },
+  {
+   "StockID": "S-ART-0084-D-D02-N04-E03",
+   "ArticleID": "ART-0084",
+   "EmplacementID": "D-D02-N04-E03",
+   "Quantite": 36,
+   "Version": 2,
+   "DateModification": "2026-09-13T09:39:00.000Z"
+  },
+  {
+   "StockID": "S-ART-0085-E-E02-N02-E03",
+   "ArticleID": "ART-0085",
+   "EmplacementID": "E-E02-N02-E03",
+   "Quantite": 4,
+   "Version": 1,
+   "DateModification": "2026-07-14T09:22:00.000Z"
+  },
+  {
+   "StockID": "S-ART-0086-E-E01-N04-E03",
+   "ArticleID": "ART-0086",
+   "EmplacementID": "E-E01-N04-E03",
+   "Quantite": 4,
+   "Version": 2,
+   "DateModification": "2026-09-14T10:43:00.000Z"
+  },
+  {
+   "StockID": "S-ART-0087-E-E01-N01-E03",
+   "ArticleID": "ART-0087",
+   "EmplacementID": "E-E01-N01-E03",
+   "Quantite": 3,
+   "Version": 1,
+   "DateModification": "2026-07-16T14:08:00.000Z"
+  },
+  {
+   "StockID": "S-ART-0087-E-E02-N01-E03",
+   "ArticleID": "ART-0087",
+   "EmplacementID": "E-E02-N01-E03",
+   "Quantite": 3,
+   "Version": 1,
+   "DateModification": "2026-07-17T11:09:00.000Z"
+  },
+  {
+   "StockID": "S-ART-0089-D-D02-N01-E02",
+   "ArticleID": "ART-0089",
+   "EmplacementID": "D-D02-N01-E02",
+   "Quantite": 28,
+   "Version": 3,
+   "DateModification": "2026-09-29T15:51:00.000Z"
+  },
+  {
+   "StockID": "S-ART-0090-F-F01-N05-E01",
+   "ArticleID": "ART-0090",
+   "EmplacementID": "F-F01-N05-E01",
+   "Quantite": 1,
+   "Version": 1,
+   "DateModification": "2026-07-20T14:20:00.000Z"
+  },
+  {
+   "StockID": "S-ART-0091-A-A01-N02-E04",
+   "ArticleID": "ART-0091",
+   "EmplacementID": "A-A01-N02-E04",
+   "Quantite": 6,
+   "Version": 1,
+   "DateModification": "2026-07-22T09:34:00.000Z"
+  },
+  {
+   "StockID": "S-ART-0092-A-A02-N03-E04",
+   "ArticleID": "ART-0092",
+   "EmplacementID": "A-A02-N03-E04",
+   "Quantite": 10,
+   "Version": 1,
+   "DateModification": "2026-07-22T14:43:00.000Z"
+  },
+  {
+   "StockID": "S-ART-0092-A-A02-N01-E02",
+   "ArticleID": "ART-0092",
+   "EmplacementID": "A-A02-N01-E02",
+   "Quantite": 14,
+   "Version": 1,
+   "DateModification": "2026-07-23T14:37:00.000Z"
+  },
+  {
+   "StockID": "S-ART-0093-B-B02-N05-E01",
+   "ArticleID": "ART-0093",
+   "EmplacementID": "B-B02-N05-E01",
+   "Quantite": 4,
+   "Version": 1,
+   "DateModification": "2026-07-24T10:19:00.000Z"
+  },
+  {
+   "StockID": "S-ART-0094-B-B02-N04-E01",
+   "ArticleID": "ART-0094",
+   "EmplacementID": "B-B02-N04-E01",
+   "Quantite": 51,
+   "Version": 2,
+   "DateModification": "2026-09-17T08:58:00.000Z"
+  },
+  {
+   "StockID": "S-ART-0095-C-C02-N05-E01",
+   "ArticleID": "ART-0095",
+   "EmplacementID": "C-C02-N05-E01",
+   "Quantite": 6,
+   "Version": 2,
+   "DateModification": "2026-09-18T07:16:00.000Z"
+  },
+  {
+   "StockID": "S-ART-0096-C-C02-N03-E02",
+   "ArticleID": "ART-0096",
+   "EmplacementID": "C-C02-N03-E02",
+   "Quantite": 5,
+   "Version": 1,
+   "DateModification": "2026-07-27T08:19:00.000Z"
+  },
+  {
+   "StockID": "S-ART-0097-C-C01-N01-E04",
+   "ArticleID": "ART-0097",
+   "EmplacementID": "C-C01-N01-E04",
+   "Quantite": 2,
+   "Version": 1,
+   "DateModification": "2026-07-28T11:59:00.000Z"
+  },
+  {
+   "StockID": "S-ART-0097-C-C01-N05-E02",
+   "ArticleID": "ART-0097",
+   "EmplacementID": "C-C01-N05-E02",
+   "Quantite": 2,
+   "Version": 1,
+   "DateModification": "2026-07-30T07:02:00.000Z"
+  },
+  {
+   "StockID": "S-ART-0098-D-D01-N04-E04",
+   "ArticleID": "ART-0098",
+   "EmplacementID": "D-D01-N04-E04",
+   "Quantite": 41,
+   "Version": 1,
+   "DateModification": "2026-07-30T13:39:00.000Z"
+  },
+  {
+   "StockID": "S-ART-0099-D-D01-N01-E04",
+   "ArticleID": "ART-0099",
+   "EmplacementID": "D-D01-N01-E04",
+   "Quantite": 28,
+   "Version": 1,
+   "DateModification": "2026-07-31T15:02:00.000Z"
+  },
+  {
+   "StockID": "S-ART-0100-E-E01-N04-E04",
+   "ArticleID": "ART-0100",
+   "EmplacementID": "E-E01-N04-E04",
+   "Quantite": 6,
+   "Version": 1,
+   "DateModification": "2026-08-01T15:00:00.000Z"
+  },
+  {
+   "StockID": "S-ART-0101-E-E02-N05-E03",
+   "ArticleID": "ART-0101",
+   "EmplacementID": "E-E02-N05-E03",
+   "Quantite": 7,
+   "Version": 1,
+   "DateModification": "2026-08-03T09:39:00.000Z"
+  },
+  {
+   "StockID": "S-ART-0102-E-E01-N04-E01",
+   "ArticleID": "ART-0102",
+   "EmplacementID": "E-E01-N04-E01",
+   "Quantite": 1,
+   "Version": 1,
+   "DateModification": "2026-08-03T15:36:00.000Z"
+  },
+  {
+   "StockID": "S-ART-0103-F-F01-N03-E02",
+   "ArticleID": "ART-0103",
+   "EmplacementID": "F-F01-N03-E02",
+   "Quantite": 27,
+   "Version": 2,
+   "DateModification": "2026-09-18T14:03:00.000Z"
+  },
+  {
+   "StockID": "S-ART-0104-D-D02-N02-E04",
+   "ArticleID": "ART-0104",
+   "EmplacementID": "D-D02-N02-E04",
+   "Quantite": 17,
+   "Version": 1,
+   "DateModification": "2026-08-06T07:51:00.000Z"
+  },
+  {
+   "StockID": "S-ART-0105-F-F02-N03-E01",
+   "ArticleID": "ART-0105",
+   "EmplacementID": "F-F02-N03-E01",
+   "Quantite": 3,
+   "Version": 2,
+   "DateModification": "2026-09-19T08:19:00.000Z"
+  },
+  {
+   "StockID": "S-ART-0106-A-A02-N03-E02",
+   "ArticleID": "ART-0106",
+   "EmplacementID": "A-A02-N03-E02",
+   "Quantite": 4,
+   "Version": 3,
+   "DateModification": "2026-10-01T09:28:00.000Z"
+  },
+  {
+   "StockID": "S-ART-0107-A-A02-N02-E01",
+   "ArticleID": "ART-0107",
+   "EmplacementID": "A-A02-N02-E01",
+   "Quantite": 12,
+   "Version": 1,
+   "DateModification": "2026-08-09T10:04:00.000Z"
+  },
+  {
+   "StockID": "S-ART-0107-A-A02-N05-E02",
+   "ArticleID": "ART-0107",
+   "EmplacementID": "A-A02-N05-E02",
+   "Quantite": 4,
+   "Version": 1,
+   "DateModification": "2026-08-10T06:17:00.000Z"
+  },
+  {
+   "StockID": "S-ART-0109-B-B02-N04-E02",
+   "ArticleID": "ART-0109",
+   "EmplacementID": "B-B02-N04-E02",
+   "Quantite": 40,
+   "Version": 2,
+   "DateModification": "2026-09-21T07:41:00.000Z"
+  },
+  {
+   "StockID": "S-ART-0110-C-C02-N02-E03",
+   "ArticleID": "ART-0110",
+   "EmplacementID": "C-C02-N02-E03",
+   "Quantite": 4,
+   "Version": 1,
+   "DateModification": "2026-08-12T06:03:00.000Z"
+  },
+  {
+   "StockID": "S-ART-0111-C-C01-N03-E04",
+   "ArticleID": "ART-0111",
+   "EmplacementID": "C-C01-N03-E04",
+   "Quantite": 2,
+   "Version": 1,
+   "DateModification": "2026-08-12T11:58:00.000Z"
+  },
+  {
+   "StockID": "S-ART-0112-C-C01-N01-E02",
+   "ArticleID": "ART-0112",
+   "EmplacementID": "C-C01-N01-E02",
+   "Quantite": 3,
+   "Version": 1,
+   "DateModification": "2026-08-13T11:40:00.000Z"
+  },
+  {
+   "StockID": "S-ART-0112-C-C01-N02-E03",
+   "ArticleID": "ART-0112",
+   "EmplacementID": "C-C01-N02-E03",
+   "Quantite": 1,
+   "Version": 1,
+   "DateModification": "2026-08-14T15:49:00.000Z"
+  },
+  {
+   "StockID": "S-ART-0113-D-D02-N02-E03",
+   "ArticleID": "ART-0113",
+   "EmplacementID": "D-D02-N02-E03",
+   "Quantite": 25,
+   "Version": 1,
+   "DateModification": "2026-08-16T09:26:00.000Z"
+  },
+  {
+   "StockID": "S-ART-0114-D-D01-N01-E03",
+   "ArticleID": "ART-0114",
+   "EmplacementID": "D-D01-N01-E03",
+   "Quantite": 4,
+   "Version": 1,
+   "DateModification": "2026-08-16T15:33:00.000Z"
+  },
+  {
+   "StockID": "S-ART-0115-E-E01-N05-E04",
+   "ArticleID": "ART-0115",
+   "EmplacementID": "E-E01-N05-E04",
+   "Quantite": 4,
+   "Version": 1,
+   "DateModification": "2026-08-17T11:24:00.000Z"
+  },
+  {
+   "StockID": "S-ART-0116-E-E01-N02-E04",
+   "ArticleID": "ART-0116",
+   "EmplacementID": "E-E01-N02-E04",
+   "Quantite": 3,
+   "Version": 2,
+   "DateModification": "2026-09-21T15:19:00.000Z"
+  },
+  {
+   "StockID": "S-ART-0117-E-E01-N03-E03",
+   "ArticleID": "ART-0117",
+   "EmplacementID": "E-E01-N03-E03",
+   "Quantite": 2,
+   "Version": 1,
+   "DateModification": "2026-08-20T08:36:00.000Z"
+  },
+  {
+   "StockID": "S-ART-0117-E-E02-N05-E01",
+   "ArticleID": "ART-0117",
+   "EmplacementID": "E-E02-N05-E01",
+   "Quantite": 3,
+   "Version": 1,
+   "DateModification": "2026-08-20T13:59:00.000Z"
+  },
+  {
+   "StockID": "S-ART-0118-F-F01-N01-E03",
+   "ArticleID": "ART-0118",
+   "EmplacementID": "F-F01-N01-E03",
+   "Quantite": 22,
+   "Version": 2,
+   "DateModification": "2026-09-22T15:19:00.000Z"
+  },
+  {
+   "StockID": "S-ART-0119-D-D02-N05-E03",
+   "ArticleID": "ART-0119",
+   "EmplacementID": "D-D02-N05-E03",
+   "Quantite": 17,
+   "Version": 2,
+   "DateModification": "2026-09-23T15:22:00.000Z"
+  },
+  {
+   "StockID": "S-ART-0120-F-F02-N01-E04",
+   "ArticleID": "ART-0120",
+   "EmplacementID": "F-F02-N01-E04",
+   "Quantite": 3,
+   "Version": 2,
+   "DateModification": "2026-09-24T14:50:00.000Z"
+  },
+  {
+   "StockID": "S-ART-0004-B-B01-N03-E03",
+   "ArticleID": "ART-0004",
+   "EmplacementID": "B-B01-N03-E03",
+   "Quantite": 19,
+   "Version": 1,
+   "DateModification": "2026-09-25T11:27:00.000Z"
+  },
+  {
+   "StockID": "S-ART-0021-C-C02-N04-E03",
+   "ArticleID": "ART-0021",
+   "EmplacementID": "C-C02-N04-E03",
+   "Quantite": 2,
+   "Version": 1,
+   "DateModification": "2026-09-26T07:55:00.000Z"
+  },
+  {
+   "StockID": "S-ART-0038-D-D01-N03-E04",
+   "ArticleID": "ART-0038",
+   "EmplacementID": "D-D01-N03-E04",
+   "Quantite": 25,
+   "Version": 1,
+   "DateModification": "2026-09-26T15:44:00.000Z"
+  },
+  {
+   "StockID": "S-ART-0055-E-E02-N01-E04",
+   "ArticleID": "ART-0055",
+   "EmplacementID": "E-E02-N01-E04",
+   "Quantite": 3,
+   "Version": 1,
+   "DateModification": "2026-09-28T08:50:00.000Z"
+  },
+  {
+   "StockID": "S-ART-0072-E-E01-N02-E02",
+   "ArticleID": "ART-0072",
+   "EmplacementID": "E-E01-N02-E02",
+   "Quantite": 2,
+   "Version": 1,
+   "DateModification": "2026-09-28T15:16:00.000Z"
+  },
+  {
+   "StockID": "S-ART-0089-D-D02-N04-E01",
+   "ArticleID": "ART-0089",
+   "EmplacementID": "D-D02-N04-E01",
+   "Quantite": 28,
+   "Version": 1,
+   "DateModification": "2026-09-29T15:51:00.000Z"
+  },
+  {
+   "StockID": "S-ART-0106-A-A02-N02-E03",
+   "ArticleID": "ART-0106",
+   "EmplacementID": "A-A02-N02-E03",
+   "Quantite": 3,
+   "Version": 1,
+   "DateModification": "2026-10-01T09:28:00.000Z"
+  }
+ ],
+ "mouvements": [
+  {
+   "MouvementID": "31eaaaf5-920c-4e2f-a205-048402e772d5",
+   "DateHeure": "2026-04-02T10:02:00.000Z",
+   "Type": "ENTREE",
+   "ArticleID": "ART-0001",
+   "EmplacementSource": null,
+   "EmplacementDestination": "A-A02-N01-E03",
+   "Quantite": 10,
+   "Utilisateur": "s.bernard",
+   "Motif": "Inventaire initial",
+   "Destination": "",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "08cb7a9e-8542-44da-88d5-c049364f1341",
+   "DateHeure": "2026-04-03T12:06:00.000Z",
+   "Type": "ENTREE",
+   "ArticleID": "ART-0002",
+   "EmplacementSource": null,
+   "EmplacementDestination": "A-A01-N01-E04",
+   "Quantite": 6,
+   "Utilisateur": "s.bernard",
+   "Motif": "Inventaire initial",
+   "Destination": "",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "a36b7c5b-eb06-45b4-996c-5571fc616fb4",
+   "DateHeure": "2026-04-04T14:48:00.000Z",
+   "Type": "ENTREE",
+   "ArticleID": "ART-0002",
+   "EmplacementSource": null,
+   "EmplacementDestination": "A-A02-N02-E02",
+   "Quantite": 13,
+   "Utilisateur": "m.petit",
+   "Motif": "Réception commande",
+   "Destination": "",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "d477ac22-8bd7-4217-9b4e-c826dcd70643",
+   "DateHeure": "2026-04-05T11:00:00.000Z",
+   "Type": "ENTREE",
+   "ArticleID": "ART-0003",
+   "EmplacementSource": null,
+   "EmplacementDestination": "B-B02-N05-E03",
+   "Quantite": 18,
+   "Utilisateur": "a.durand",
+   "Motif": "Inventaire initial",
+   "Destination": "",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "696b2cfb-6dec-4085-8b87-579208fe412a",
+   "DateHeure": "2026-04-06T13:20:00.000Z",
+   "Type": "ENTREE",
+   "ArticleID": "ART-0004",
+   "EmplacementSource": null,
+   "EmplacementDestination": "B-B01-N02-E02",
+   "Quantite": 38,
+   "Utilisateur": "s.bernard",
+   "Motif": "Inventaire initial",
+   "Destination": "",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "cd96faa5-721d-42e7-b22e-a12577b53e9e",
+   "DateHeure": "2026-04-07T11:20:00.000Z",
+   "Type": "ENTREE",
+   "ArticleID": "ART-0005",
+   "EmplacementSource": null,
+   "EmplacementDestination": "C-C01-N03-E03",
+   "Quantite": 7,
+   "Utilisateur": "m.petit",
+   "Motif": "Inventaire initial",
+   "Destination": "",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "4738cdb0-d000-4924-bd7b-3ed38f653179",
+   "DateHeure": "2026-04-08T06:29:00.000Z",
+   "Type": "ENTREE",
+   "ArticleID": "ART-0006",
+   "EmplacementSource": null,
+   "EmplacementDestination": "C-C02-N03-E03",
+   "Quantite": 1,
+   "Utilisateur": "m.petit",
+   "Motif": "Inventaire initial",
+   "Destination": "",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "5496ab41-fe6a-42ba-a92f-1946aa51ef52",
+   "DateHeure": "2026-04-09T06:49:00.000Z",
+   "Type": "ENTREE",
+   "ArticleID": "ART-0007",
+   "EmplacementSource": null,
+   "EmplacementDestination": "C-C02-N02-E02",
+   "Quantite": 2,
+   "Utilisateur": "m.petit",
+   "Motif": "Inventaire initial",
+   "Destination": "",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "634d1541-e2b0-456d-9d1f-fa24c1832fb5",
+   "DateHeure": "2026-04-10T09:34:00.000Z",
+   "Type": "ENTREE",
+   "ArticleID": "ART-0007",
+   "EmplacementSource": null,
+   "EmplacementDestination": "C-C02-N04-E04",
+   "Quantite": 2,
+   "Utilisateur": "s.bernard",
+   "Motif": "Réception commande",
+   "Destination": "",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "2e7ce476-7f3b-40cc-a10c-6227e8c38f2b",
+   "DateHeure": "2026-04-10T13:57:00.000Z",
+   "Type": "ENTREE",
+   "ArticleID": "ART-0008",
+   "EmplacementSource": null,
+   "EmplacementDestination": "D-D02-N05-E02",
+   "Quantite": 31,
+   "Utilisateur": "s.bernard",
+   "Motif": "Inventaire initial",
+   "Destination": "",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "654ce6cb-e8bd-4167-848d-96ca95b609ae",
+   "DateHeure": "2026-04-11T14:17:00.000Z",
+   "Type": "ENTREE",
+   "ArticleID": "ART-0009",
+   "EmplacementSource": null,
+   "EmplacementDestination": "D-D01-N04-E02",
+   "Quantite": 12,
+   "Utilisateur": "m.petit",
+   "Motif": "Inventaire initial",
+   "Destination": "",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "f06d534e-2272-4908-80c8-76a854ed577e",
+   "DateHeure": "2026-04-13T10:05:00.000Z",
+   "Type": "ENTREE",
+   "ArticleID": "ART-0010",
+   "EmplacementSource": null,
+   "EmplacementDestination": "E-E02-N03-E03",
+   "Quantite": 3,
+   "Utilisateur": "a.durand",
+   "Motif": "Inventaire initial",
+   "Destination": "",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "b643997e-27b8-42dc-ae9c-37f4fe6ffc93",
+   "DateHeure": "2026-04-13T14:39:00.000Z",
+   "Type": "ENTREE",
+   "ArticleID": "ART-0011",
+   "EmplacementSource": null,
+   "EmplacementDestination": "E-E02-N02-E04",
+   "Quantite": 3,
+   "Utilisateur": "j.martin",
+   "Motif": "Inventaire initial",
+   "Destination": "",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "7d7bed0d-ea7d-4fdb-bd0e-9c311013fbf6",
+   "DateHeure": "2026-04-15T06:48:00.000Z",
+   "Type": "ENTREE",
+   "ArticleID": "ART-0012",
+   "EmplacementSource": null,
+   "EmplacementDestination": "E-E01-N03-E02",
+   "Quantite": 5,
+   "Utilisateur": "j.martin",
+   "Motif": "Inventaire initial",
+   "Destination": "",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "fc471288-976d-47c4-9b8b-02677b203422",
+   "DateHeure": "2026-04-16T06:43:00.000Z",
+   "Type": "ENTREE",
+   "ArticleID": "ART-0012",
+   "EmplacementSource": null,
+   "EmplacementDestination": "E-E01-N02-E03",
+   "Quantite": 4,
+   "Utilisateur": "a.durand",
+   "Motif": "Réception commande",
+   "Destination": "",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "b86866c4-8bfb-4aa8-bfd1-94d83707cb17",
+   "DateHeure": "2026-04-16T10:48:00.000Z",
+   "Type": "ENTREE",
+   "ArticleID": "ART-0013",
+   "EmplacementSource": null,
+   "EmplacementDestination": "F-F01-N05-E04",
+   "Quantite": 16,
+   "Utilisateur": "a.durand",
+   "Motif": "Inventaire initial",
+   "Destination": "",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "aae35a3e-5a71-47e5-9680-3424449ab7c4",
+   "DateHeure": "2026-04-17T08:13:00.000Z",
+   "Type": "ENTREE",
+   "ArticleID": "ART-0014",
+   "EmplacementSource": null,
+   "EmplacementDestination": "D-D01-N05-E02",
+   "Quantite": 26,
+   "Utilisateur": "m.petit",
+   "Motif": "Inventaire initial",
+   "Destination": "",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "e4f6ec27-edf1-40ed-bc8a-f723ea26ff2e",
+   "DateHeure": "2026-04-18T12:14:00.000Z",
+   "Type": "ENTREE",
+   "ArticleID": "ART-0015",
+   "EmplacementSource": null,
+   "EmplacementDestination": "F-F01-N03-E01",
+   "Quantite": 6,
+   "Utilisateur": "s.bernard",
+   "Motif": "Inventaire initial",
+   "Destination": "",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "1ea190ae-0897-41b1-a13c-7b2043580ac0",
+   "DateHeure": "2026-04-19T06:25:00.000Z",
+   "Type": "ENTREE",
+   "ArticleID": "ART-0016",
+   "EmplacementSource": null,
+   "EmplacementDestination": "A-A02-N05-E04",
+   "Quantite": 17,
+   "Utilisateur": "a.durand",
+   "Motif": "Inventaire initial",
+   "Destination": "",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "5b0f9386-d26f-4cd6-be14-3f72539fed3f",
+   "DateHeure": "2026-04-20T08:16:00.000Z",
+   "Type": "ENTREE",
+   "ArticleID": "ART-0017",
+   "EmplacementSource": null,
+   "EmplacementDestination": "A-A02-N03-E03",
+   "Quantite": 15,
+   "Utilisateur": "s.bernard",
+   "Motif": "Inventaire initial",
+   "Destination": "",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "efb3f834-89a9-46b4-bd19-82aa5c7f5dd4",
+   "DateHeure": "2026-04-21T12:42:00.000Z",
+   "Type": "ENTREE",
+   "ArticleID": "ART-0017",
+   "EmplacementSource": null,
+   "EmplacementDestination": "A-A01-N04-E03",
+   "Quantite": 3,
+   "Utilisateur": "m.petit",
+   "Motif": "Réception commande",
+   "Destination": "",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "f977705f-ec56-4df2-9d3a-a0fa12365a37",
+   "DateHeure": "2026-04-22T15:03:00.000Z",
+   "Type": "ENTREE",
+   "ArticleID": "ART-0018",
+   "EmplacementSource": null,
+   "EmplacementDestination": "B-B02-N03-E01",
+   "Quantite": 2,
+   "Utilisateur": "s.bernard",
+   "Motif": "Inventaire initial",
+   "Destination": "",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "bb32a2c9-5404-4171-8e00-4e8ac862025e",
+   "DateHeure": "2026-04-23T12:59:00.000Z",
+   "Type": "ENTREE",
+   "ArticleID": "ART-0019",
+   "EmplacementSource": null,
+   "EmplacementDestination": "B-B02-N05-E04",
+   "Quantite": 87,
+   "Utilisateur": "j.martin",
+   "Motif": "Inventaire initial",
+   "Destination": "",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "c48ea207-31ef-45f8-856f-50b4a86351aa",
+   "DateHeure": "2026-04-25T07:54:00.000Z",
+   "Type": "ENTREE",
+   "ArticleID": "ART-0020",
+   "EmplacementSource": null,
+   "EmplacementDestination": "C-C01-N05-E04",
+   "Quantite": 6,
+   "Utilisateur": "m.petit",
+   "Motif": "Inventaire initial",
+   "Destination": "",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "0dc4bb89-6602-4817-9e61-7e311da4e42e",
+   "DateHeure": "2026-04-25T15:33:00.000Z",
+   "Type": "ENTREE",
+   "ArticleID": "ART-0021",
+   "EmplacementSource": null,
+   "EmplacementDestination": "C-C02-N04-E01",
+   "Quantite": 5,
+   "Utilisateur": "a.durand",
+   "Motif": "Inventaire initial",
+   "Destination": "",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "8fa5c6c6-34b5-4a9b-9c3c-136e11d2d05d",
+   "DateHeure": "2026-04-26T13:39:00.000Z",
+   "Type": "ENTREE",
+   "ArticleID": "ART-0022",
+   "EmplacementSource": null,
+   "EmplacementDestination": "C-C02-N03-E04",
+   "Quantite": 3,
+   "Utilisateur": "a.durand",
+   "Motif": "Inventaire initial",
+   "Destination": "",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "aa5a2dee-b9e2-4a98-8214-6aa29e3851f2",
+   "DateHeure": "2026-04-27T14:13:00.000Z",
+   "Type": "ENTREE",
+   "ArticleID": "ART-0022",
+   "EmplacementSource": null,
+   "EmplacementDestination": "C-C02-N01-E04",
+   "Quantite": 3,
+   "Utilisateur": "j.martin",
+   "Motif": "Réception commande",
+   "Destination": "",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "4abd28ad-116e-4cd3-943b-9a9437045532",
+   "DateHeure": "2026-04-28T08:51:00.000Z",
+   "Type": "ENTREE",
+   "ArticleID": "ART-0023",
+   "EmplacementSource": null,
+   "EmplacementDestination": "D-D01-N03-E01",
+   "Quantite": 38,
+   "Utilisateur": "m.petit",
+   "Motif": "Inventaire initial",
+   "Destination": "",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "9e726d49-b12b-45ef-ae25-45a9b1d98210",
+   "DateHeure": "2026-04-29T14:06:00.000Z",
+   "Type": "ENTREE",
+   "ArticleID": "ART-0024",
+   "EmplacementSource": null,
+   "EmplacementDestination": "D-D02-N03-E01",
+   "Quantite": 18,
+   "Utilisateur": "j.martin",
+   "Motif": "Inventaire initial",
+   "Destination": "",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "ccabee19-2d59-4dc9-a3ae-592c42a40899",
+   "DateHeure": "2026-04-30T09:15:00.000Z",
+   "Type": "ENTREE",
+   "ArticleID": "ART-0025",
+   "EmplacementSource": null,
+   "EmplacementDestination": "E-E02-N04-E01",
+   "Quantite": 6,
+   "Utilisateur": "a.durand",
+   "Motif": "Inventaire initial",
+   "Destination": "",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "c64f11c7-e8a9-45f3-81ec-83f8aeab10a3",
+   "DateHeure": "2026-05-01T12:08:00.000Z",
+   "Type": "ENTREE",
+   "ArticleID": "ART-0026",
+   "EmplacementSource": null,
+   "EmplacementDestination": "E-E01-N03-E04",
+   "Quantite": 6,
+   "Utilisateur": "m.petit",
+   "Motif": "Inventaire initial",
+   "Destination": "",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "85cab45e-9a97-44b9-bcf0-4bbde0ff5905",
+   "DateHeure": "2026-05-03T07:30:00.000Z",
+   "Type": "ENTREE",
+   "ArticleID": "ART-0027",
+   "EmplacementSource": null,
+   "EmplacementDestination": "E-E01-N04-E02",
+   "Quantite": 3,
+   "Utilisateur": "a.durand",
+   "Motif": "Inventaire initial",
+   "Destination": "",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "0695c71e-024b-4731-a057-34be5c1cf706",
+   "DateHeure": "2026-05-04T07:08:00.000Z",
+   "Type": "ENTREE",
+   "ArticleID": "ART-0027",
+   "EmplacementSource": null,
+   "EmplacementDestination": "E-E02-N04-E04",
+   "Quantite": 4,
+   "Utilisateur": "s.bernard",
+   "Motif": "Réception commande",
+   "Destination": "",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "876b3b0e-4e11-4364-a3dd-fafc96675797",
+   "DateHeure": "2026-05-04T13:35:00.000Z",
+   "Type": "ENTREE",
+   "ArticleID": "ART-0028",
+   "EmplacementSource": null,
+   "EmplacementDestination": "F-F02-N01-E01",
+   "Quantite": 7,
+   "Utilisateur": "m.petit",
+   "Motif": "Inventaire initial",
+   "Destination": "",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "a72b7852-5078-49e0-bab5-d9f895204d23",
+   "DateHeure": "2026-05-05T13:31:00.000Z",
+   "Type": "ENTREE",
+   "ArticleID": "ART-0029",
+   "EmplacementSource": null,
+   "EmplacementDestination": "D-D01-N02-E03",
+   "Quantite": 68,
+   "Utilisateur": "s.bernard",
+   "Motif": "Inventaire initial",
+   "Destination": "",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "0f6cf8a7-5e61-4f59-88bf-d644266f7c42",
+   "DateHeure": "2026-05-06T14:59:00.000Z",
+   "Type": "ENTREE",
+   "ArticleID": "ART-0030",
+   "EmplacementSource": null,
+   "EmplacementDestination": "F-F01-N01-E02",
+   "Quantite": 1,
+   "Utilisateur": "j.martin",
+   "Motif": "Inventaire initial",
+   "Destination": "",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "51878600-e0a4-41cd-b01d-a1f1f6c2c805",
+   "DateHeure": "2026-05-08T08:35:00.000Z",
+   "Type": "ENTREE",
+   "ArticleID": "ART-0031",
+   "EmplacementSource": null,
+   "EmplacementDestination": "A-A01-N04-E04",
+   "Quantite": 16,
+   "Utilisateur": "m.petit",
+   "Motif": "Inventaire initial",
+   "Destination": "",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "e418b3ea-b7b4-4a99-8916-44a5f0d81294",
+   "DateHeure": "2026-05-08T13:25:00.000Z",
+   "Type": "ENTREE",
+   "ArticleID": "ART-0032",
+   "EmplacementSource": null,
+   "EmplacementDestination": "A-A02-N05-E03",
+   "Quantite": 10,
+   "Utilisateur": "j.martin",
+   "Motif": "Inventaire initial",
+   "Destination": "",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "f764a0cc-ba46-4317-8438-89e4c629d552",
+   "DateHeure": "2026-05-09T13:24:00.000Z",
+   "Type": "ENTREE",
+   "ArticleID": "ART-0032",
+   "EmplacementSource": null,
+   "EmplacementDestination": "A-A02-N04-E01",
+   "Quantite": 10,
+   "Utilisateur": "j.martin",
+   "Motif": "Réception commande",
+   "Destination": "",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "ef2b3756-db98-4ac0-af8d-83b8a3224a36",
+   "DateHeure": "2026-05-10T11:00:00.000Z",
+   "Type": "ENTREE",
+   "ArticleID": "ART-0033",
+   "EmplacementSource": null,
+   "EmplacementDestination": "B-B02-N01-E01",
+   "Quantite": 11,
+   "Utilisateur": "s.bernard",
+   "Motif": "Inventaire initial",
+   "Destination": "",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "801f76b6-3d9f-44f0-ae71-0924fc43f8d7",
+   "DateHeure": "2026-05-11T08:41:00.000Z",
+   "Type": "ENTREE",
+   "ArticleID": "ART-0034",
+   "EmplacementSource": null,
+   "EmplacementDestination": "B-B01-N04-E04",
+   "Quantite": 39,
+   "Utilisateur": "a.durand",
+   "Motif": "Inventaire initial",
+   "Destination": "",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "2393cef0-7153-47ce-9a88-17a0f600b53c",
+   "DateHeure": "2026-05-12T10:10:00.000Z",
+   "Type": "ENTREE",
+   "ArticleID": "ART-0035",
+   "EmplacementSource": null,
+   "EmplacementDestination": "C-C01-N02-E04",
+   "Quantite": 2,
+   "Utilisateur": "j.martin",
+   "Motif": "Inventaire initial",
+   "Destination": "",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "ea6ff5ba-673f-489e-8302-53ddef211ded",
+   "DateHeure": "2026-05-12T14:39:00.000Z",
+   "Type": "ENTREE",
+   "ArticleID": "ART-0036",
+   "EmplacementSource": null,
+   "EmplacementDestination": "C-C01-N01-E01",
+   "Quantite": 5,
+   "Utilisateur": "j.martin",
+   "Motif": "Inventaire initial",
+   "Destination": "",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "1c136364-5332-4719-a0a0-576c0c842e07",
+   "DateHeure": "2026-05-14T06:39:00.000Z",
+   "Type": "ENTREE",
+   "ArticleID": "ART-0037",
+   "EmplacementSource": null,
+   "EmplacementDestination": "C-C02-N02-E04",
+   "Quantite": 2,
+   "Utilisateur": "s.bernard",
+   "Motif": "Inventaire initial",
+   "Destination": "",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "b360cac0-3647-4e42-9241-d2a4184471d2",
+   "DateHeure": "2026-05-15T06:43:00.000Z",
+   "Type": "ENTREE",
+   "ArticleID": "ART-0037",
+   "EmplacementSource": null,
+   "EmplacementDestination": "C-C01-N05-E03",
+   "Quantite": 2,
+   "Utilisateur": "j.martin",
+   "Motif": "Réception commande",
+   "Destination": "",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "d868411d-bb92-49f5-8c67-5cccaa4949fc",
+   "DateHeure": "2026-05-16T10:41:00.000Z",
+   "Type": "ENTREE",
+   "ArticleID": "ART-0038",
+   "EmplacementSource": null,
+   "EmplacementDestination": "D-D01-N03-E02",
+   "Quantite": 50,
+   "Utilisateur": "s.bernard",
+   "Motif": "Inventaire initial",
+   "Destination": "",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "356bc7ea-583b-49da-963c-c646b40d8137",
+   "DateHeure": "2026-05-17T07:21:00.000Z",
+   "Type": "ENTREE",
+   "ArticleID": "ART-0039",
+   "EmplacementSource": null,
+   "EmplacementDestination": "D-D01-N04-E03",
+   "Quantite": 20,
+   "Utilisateur": "m.petit",
+   "Motif": "Inventaire initial",
+   "Destination": "",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "f1b1c419-8767-4bc8-a0c4-0c8e6c9584aa",
+   "DateHeure": "2026-05-18T06:12:00.000Z",
+   "Type": "ENTREE",
+   "ArticleID": "ART-0040",
+   "EmplacementSource": null,
+   "EmplacementDestination": "E-E01-N05-E02",
+   "Quantite": 13,
+   "Utilisateur": "j.martin",
+   "Motif": "Inventaire initial",
+   "Destination": "",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "fb08792b-6914-441d-a511-314746d31776",
+   "DateHeure": "2026-05-19T09:36:00.000Z",
+   "Type": "ENTREE",
+   "ArticleID": "ART-0041",
+   "EmplacementSource": null,
+   "EmplacementDestination": "E-E02-N01-E01",
+   "Quantite": 6,
+   "Utilisateur": "a.durand",
+   "Motif": "Inventaire initial",
+   "Destination": "",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "1f540b97-ca77-41f0-b9c5-57158df089bf",
+   "DateHeure": "2026-05-19T14:06:00.000Z",
+   "Type": "ENTREE",
+   "ArticleID": "ART-0042",
+   "EmplacementSource": null,
+   "EmplacementDestination": "E-E01-N01-E04",
+   "Quantite": 1,
+   "Utilisateur": "j.martin",
+   "Motif": "Inventaire initial",
+   "Destination": "",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "994d3e17-da7c-480c-9151-1048ebefc68e",
+   "DateHeure": "2026-05-21T06:42:00.000Z",
+   "Type": "ENTREE",
+   "ArticleID": "ART-0043",
+   "EmplacementSource": null,
+   "EmplacementDestination": "F-F01-N05-E03",
+   "Quantite": 16,
+   "Utilisateur": "a.durand",
+   "Motif": "Inventaire initial",
+   "Destination": "",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "f81647d0-ccde-4fd4-8822-b4736808d895",
+   "DateHeure": "2026-05-22T06:11:00.000Z",
+   "Type": "ENTREE",
+   "ArticleID": "ART-0044",
+   "EmplacementSource": null,
+   "EmplacementDestination": "D-D01-N01-E02",
+   "Quantite": 31,
+   "Utilisateur": "j.martin",
+   "Motif": "Inventaire initial",
+   "Destination": "",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "7e34be4f-b311-4214-b007-f3dafc18266f",
+   "DateHeure": "2026-05-22T14:04:00.000Z",
+   "Type": "ENTREE",
+   "ArticleID": "ART-0045",
+   "EmplacementSource": null,
+   "EmplacementDestination": "F-F01-N04-E04",
+   "Quantite": 6,
+   "Utilisateur": "m.petit",
+   "Motif": "Inventaire initial",
+   "Destination": "",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "69a9248d-99f0-4bdc-9561-4491f6320cb4",
+   "DateHeure": "2026-05-23T10:03:00.000Z",
+   "Type": "ENTREE",
+   "ArticleID": "ART-0046",
+   "EmplacementSource": null,
+   "EmplacementDestination": "A-A01-N03-E04",
+   "Quantite": 24,
+   "Utilisateur": "m.petit",
+   "Motif": "Inventaire initial",
+   "Destination": "",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "7bccf2a7-d94e-4a04-9e5f-da49ab7577d8",
+   "DateHeure": "2026-05-24T09:15:00.000Z",
+   "Type": "ENTREE",
+   "ArticleID": "ART-0047",
+   "EmplacementSource": null,
+   "EmplacementDestination": "A-A02-N04-E03",
+   "Quantite": 14,
+   "Utilisateur": "m.petit",
+   "Motif": "Inventaire initial",
+   "Destination": "",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "d09045d2-7e9f-4a2f-afb6-b1ee7eda3955",
+   "DateHeure": "2026-05-25T12:52:00.000Z",
+   "Type": "ENTREE",
+   "ArticleID": "ART-0047",
+   "EmplacementSource": null,
+   "EmplacementDestination": "A-A01-N02-E01",
+   "Quantite": 7,
+   "Utilisateur": "j.martin",
+   "Motif": "Réception commande",
+   "Destination": "",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "4734923e-5c8f-464a-9c81-0832815d183a",
+   "DateHeure": "2026-05-26T11:54:00.000Z",
+   "Type": "ENTREE",
+   "ArticleID": "ART-0048",
+   "EmplacementSource": null,
+   "EmplacementDestination": "B-B01-N05-E03",
+   "Quantite": 9,
+   "Utilisateur": "s.bernard",
+   "Motif": "Inventaire initial",
+   "Destination": "",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "4a5eb155-e0c6-4f59-83e0-392fd6e92a04",
+   "DateHeure": "2026-05-27T09:47:00.000Z",
+   "Type": "ENTREE",
+   "ArticleID": "ART-0049",
+   "EmplacementSource": null,
+   "EmplacementDestination": "B-B01-N03-E01",
+   "Quantite": 71,
+   "Utilisateur": "s.bernard",
+   "Motif": "Inventaire initial",
+   "Destination": "",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "74e43de4-c781-494c-8949-fdcf0d047411",
+   "DateHeure": "2026-05-28T12:18:00.000Z",
+   "Type": "ENTREE",
+   "ArticleID": "ART-0050",
+   "EmplacementSource": null,
+   "EmplacementDestination": "C-C01-N01-E03",
+   "Quantite": 8,
+   "Utilisateur": "a.durand",
+   "Motif": "Inventaire initial",
+   "Destination": "",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "88ea2ed4-9967-44a4-88a5-85f0715bfd43",
+   "DateHeure": "2026-05-29T10:33:00.000Z",
+   "Type": "ENTREE",
+   "ArticleID": "ART-0051",
+   "EmplacementSource": null,
+   "EmplacementDestination": "C-C02-N01-E03",
+   "Quantite": 4,
+   "Utilisateur": "j.martin",
+   "Motif": "Inventaire initial",
+   "Destination": "",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "ec6517a3-e469-4122-aa92-8c497b197fd0",
+   "DateHeure": "2026-05-30T10:27:00.000Z",
+   "Type": "ENTREE",
+   "ArticleID": "ART-0052",
+   "EmplacementSource": null,
+   "EmplacementDestination": "C-C02-N01-E01",
+   "Quantite": 3,
+   "Utilisateur": "j.martin",
+   "Motif": "Inventaire initial",
+   "Destination": "",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "195d3147-1382-4ec7-a362-4e27f4eac62b",
+   "DateHeure": "2026-05-30T15:54:00.000Z",
+   "Type": "ENTREE",
+   "ArticleID": "ART-0052",
+   "EmplacementSource": null,
+   "EmplacementDestination": "C-C01-N04-E04",
+   "Quantite": 4,
+   "Utilisateur": "m.petit",
+   "Motif": "Réception commande",
+   "Destination": "",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "b8428592-d72e-49f5-9453-713c0d6c5c38",
+   "DateHeure": "2026-05-31T12:40:00.000Z",
+   "Type": "ENTREE",
+   "ArticleID": "ART-0053",
+   "EmplacementSource": null,
+   "EmplacementDestination": "D-D01-N02-E04",
+   "Quantite": 87,
+   "Utilisateur": "j.martin",
+   "Motif": "Inventaire initial",
+   "Destination": "",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "81e190cb-0ebd-4d7b-8c41-92eb7407ec65",
+   "DateHeure": "2026-06-01T09:16:00.000Z",
+   "Type": "ENTREE",
+   "ArticleID": "ART-0054",
+   "EmplacementSource": null,
+   "EmplacementDestination": "D-D01-N05-E01",
+   "Quantite": 2,
+   "Utilisateur": "m.petit",
+   "Motif": "Inventaire initial",
+   "Destination": "",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "4a702b41-dd95-4365-ad09-d2ebab131669",
+   "DateHeure": "2026-06-02T15:03:00.000Z",
+   "Type": "ENTREE",
+   "ArticleID": "ART-0055",
+   "EmplacementSource": null,
+   "EmplacementDestination": "E-E01-N01-E02",
+   "Quantite": 6,
+   "Utilisateur": "a.durand",
+   "Motif": "Inventaire initial",
+   "Destination": "",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "e00f889a-899e-4683-bbcf-dbbab073c319",
+   "DateHeure": "2026-06-03T15:33:00.000Z",
+   "Type": "ENTREE",
+   "ArticleID": "ART-0056",
+   "EmplacementSource": null,
+   "EmplacementDestination": "E-E01-N05-E01",
+   "Quantite": 4,
+   "Utilisateur": "s.bernard",
+   "Motif": "Inventaire initial",
+   "Destination": "",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "93a3e9fc-145f-462e-84cd-a5b9a7216ef8",
+   "DateHeure": "2026-06-04T15:11:00.000Z",
+   "Type": "ENTREE",
+   "ArticleID": "ART-0057",
+   "EmplacementSource": null,
+   "EmplacementDestination": "E-E02-N04-E03",
+   "Quantite": 3,
+   "Utilisateur": "j.martin",
+   "Motif": "Inventaire initial",
+   "Destination": "",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "7147842a-1e57-4c7e-bb39-3a637e72d83d",
+   "DateHeure": "2026-06-06T09:24:00.000Z",
+   "Type": "ENTREE",
+   "ArticleID": "ART-0057",
+   "EmplacementSource": null,
+   "EmplacementDestination": "E-E02-N03-E02",
+   "Quantite": 1,
+   "Utilisateur": "m.petit",
+   "Motif": "Réception commande",
+   "Destination": "",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "1e1fbe91-25b5-4809-87e3-cedb66657f34",
+   "DateHeure": "2026-06-07T15:04:00.000Z",
+   "Type": "ENTREE",
+   "ArticleID": "ART-0058",
+   "EmplacementSource": null,
+   "EmplacementDestination": "F-F01-N04-E03",
+   "Quantite": 14,
+   "Utilisateur": "a.durand",
+   "Motif": "Inventaire initial",
+   "Destination": "",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "f7c76249-82d1-4285-b545-ad34bbde89fa",
+   "DateHeure": "2026-06-09T10:15:00.000Z",
+   "Type": "ENTREE",
+   "ArticleID": "ART-0059",
+   "EmplacementSource": null,
+   "EmplacementDestination": "D-D01-N01-E01",
+   "Quantite": 48,
+   "Utilisateur": "m.petit",
+   "Motif": "Inventaire initial",
+   "Destination": "",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "7132b14a-c5c8-490d-a13d-3c87542fe12f",
+   "DateHeure": "2026-06-10T13:36:00.000Z",
+   "Type": "ENTREE",
+   "ArticleID": "ART-0060",
+   "EmplacementSource": null,
+   "EmplacementDestination": "F-F02-N02-E03",
+   "Quantite": 3,
+   "Utilisateur": "a.durand",
+   "Motif": "Inventaire initial",
+   "Destination": "",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "b9f2c705-f8c3-4d75-a192-ffbb1b1f6760",
+   "DateHeure": "2026-06-11T15:13:00.000Z",
+   "Type": "ENTREE",
+   "ArticleID": "ART-0061",
+   "EmplacementSource": null,
+   "EmplacementDestination": "A-A01-N03-E03",
+   "Quantite": 14,
+   "Utilisateur": "a.durand",
+   "Motif": "Inventaire initial",
+   "Destination": "",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "07a8fcf4-89ae-4769-a48e-7172012da6d5",
+   "DateHeure": "2026-06-12T09:47:00.000Z",
+   "Type": "ENTREE",
+   "ArticleID": "ART-0062",
+   "EmplacementSource": null,
+   "EmplacementDestination": "A-A01-N02-E03",
+   "Quantite": 13,
+   "Utilisateur": "m.petit",
+   "Motif": "Inventaire initial",
+   "Destination": "",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "b8f745c0-c7ad-4b7f-ad58-b7a99193e200",
+   "DateHeure": "2026-06-13T14:39:00.000Z",
+   "Type": "ENTREE",
+   "ArticleID": "ART-0062",
+   "EmplacementSource": null,
+   "EmplacementDestination": "A-A01-N03-E01",
+   "Quantite": 3,
+   "Utilisateur": "s.bernard",
+   "Motif": "Réception commande",
+   "Destination": "",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "8bd59e6e-b59e-4750-8d55-bb6598ae8144",
+   "DateHeure": "2026-06-15T10:30:00.000Z",
+   "Type": "ENTREE",
+   "ArticleID": "ART-0063",
+   "EmplacementSource": null,
+   "EmplacementDestination": "B-B02-N02-E03",
+   "Quantite": 20,
+   "Utilisateur": "m.petit",
+   "Motif": "Inventaire initial",
+   "Destination": "",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "0048bf7f-9e47-40c7-888f-0d523904e3c1",
+   "DateHeure": "2026-06-16T14:27:00.000Z",
+   "Type": "ENTREE",
+   "ArticleID": "ART-0064",
+   "EmplacementSource": null,
+   "EmplacementDestination": "B-B02-N01-E04",
+   "Quantite": 24,
+   "Utilisateur": "a.durand",
+   "Motif": "Inventaire initial",
+   "Destination": "",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "d4d9c3a7-bce3-43ed-9e63-26dd90b82f45",
+   "DateHeure": "2026-06-17T15:27:00.000Z",
+   "Type": "ENTREE",
+   "ArticleID": "ART-0065",
+   "EmplacementSource": null,
+   "EmplacementDestination": "C-C01-N03-E01",
+   "Quantite": 3,
+   "Utilisateur": "a.durand",
+   "Motif": "Inventaire initial",
+   "Destination": "",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "d6680cbf-3ddb-4073-8bfb-85c452cd97be",
+   "DateHeure": "2026-06-18T11:35:00.000Z",
+   "Type": "ENTREE",
+   "ArticleID": "ART-0066",
+   "EmplacementSource": null,
+   "EmplacementDestination": "C-C02-N02-E01",
+   "Quantite": 1,
+   "Utilisateur": "s.bernard",
+   "Motif": "Inventaire initial",
+   "Destination": "",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "81eb1114-90f7-4a93-b4cf-e0d726fa96cc",
+   "DateHeure": "2026-06-19T09:20:00.000Z",
+   "Type": "ENTREE",
+   "ArticleID": "ART-0067",
+   "EmplacementSource": null,
+   "EmplacementDestination": "C-C02-N04-E02",
+   "Quantite": 4,
+   "Utilisateur": "j.martin",
+   "Motif": "Inventaire initial",
+   "Destination": "",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "51f8a4d9-7c1e-4527-b2a7-5ddc8caa61b8",
+   "DateHeure": "2026-06-20T06:52:00.000Z",
+   "Type": "ENTREE",
+   "ArticleID": "ART-0067",
+   "EmplacementSource": null,
+   "EmplacementDestination": "C-C01-N04-E03",
+   "Quantite": 3,
+   "Utilisateur": "j.martin",
+   "Motif": "Réception commande",
+   "Destination": "",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "9d0b7ce9-251b-49be-8f8c-88c368c2f332",
+   "DateHeure": "2026-06-21T07:39:00.000Z",
+   "Type": "ENTREE",
+   "ArticleID": "ART-0068",
+   "EmplacementSource": null,
+   "EmplacementDestination": "D-D01-N02-E02",
+   "Quantite": 34,
+   "Utilisateur": "m.petit",
+   "Motif": "Inventaire initial",
+   "Destination": "",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "248d7ebc-6d76-4b98-be96-a7c96ba5db1e",
+   "DateHeure": "2026-06-22T10:41:00.000Z",
+   "Type": "ENTREE",
+   "ArticleID": "ART-0069",
+   "EmplacementSource": null,
+   "EmplacementDestination": "D-D02-N01-E04",
+   "Quantite": 57,
+   "Utilisateur": "m.petit",
+   "Motif": "Inventaire initial",
+   "Destination": "",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "7b34b94f-5b2f-410a-bbeb-305257578bc7",
+   "DateHeure": "2026-06-23T06:23:00.000Z",
+   "Type": "ENTREE",
+   "ArticleID": "ART-0070",
+   "EmplacementSource": null,
+   "EmplacementDestination": "E-E01-N05-E03",
+   "Quantite": 7,
+   "Utilisateur": "a.durand",
+   "Motif": "Inventaire initial",
+   "Destination": "",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "5cb4b999-2bdc-4a41-9d1f-4e55ae428469",
+   "DateHeure": "2026-06-24T10:55:00.000Z",
+   "Type": "ENTREE",
+   "ArticleID": "ART-0071",
+   "EmplacementSource": null,
+   "EmplacementDestination": "E-E01-N03-E01",
+   "Quantite": 2,
+   "Utilisateur": "s.bernard",
+   "Motif": "Inventaire initial",
+   "Destination": "",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "cc841201-e78a-4c80-882b-ca64bcdbcfac",
+   "DateHeure": "2026-06-25T14:33:00.000Z",
+   "Type": "ENTREE",
+   "ArticleID": "ART-0072",
+   "EmplacementSource": null,
+   "EmplacementDestination": "E-E02-N03-E04",
+   "Quantite": 4,
+   "Utilisateur": "m.petit",
+   "Motif": "Inventaire initial",
+   "Destination": "",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "afc8cf34-6675-49dc-a638-e6e5d7b66888",
+   "DateHeure": "2026-06-27T08:53:00.000Z",
+   "Type": "ENTREE",
+   "ArticleID": "ART-0072",
+   "EmplacementSource": null,
+   "EmplacementDestination": "E-E02-N03-E01",
+   "Quantite": 2,
+   "Utilisateur": "j.martin",
+   "Motif": "Réception commande",
+   "Destination": "",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "941d6e93-9951-4bcd-9899-8345012c208d",
+   "DateHeure": "2026-06-28T07:52:00.000Z",
+   "Type": "ENTREE",
+   "ArticleID": "ART-0073",
+   "EmplacementSource": null,
+   "EmplacementDestination": "F-F01-N04-E01",
+   "Quantite": 11,
+   "Utilisateur": "m.petit",
+   "Motif": "Inventaire initial",
+   "Destination": "",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "16f12c42-0a3a-42a7-ad69-a386a30d282b",
+   "DateHeure": "2026-06-29T06:36:00.000Z",
+   "Type": "ENTREE",
+   "ArticleID": "ART-0074",
+   "EmplacementSource": null,
+   "EmplacementDestination": "D-D02-N01-E03",
+   "Quantite": 28,
+   "Utilisateur": "a.durand",
+   "Motif": "Inventaire initial",
+   "Destination": "",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "187aeb0d-5bb2-487c-b1d9-9dc365f8f762",
+   "DateHeure": "2026-06-29T13:56:00.000Z",
+   "Type": "ENTREE",
+   "ArticleID": "ART-0075",
+   "EmplacementSource": null,
+   "EmplacementDestination": "F-F02-N04-E03",
+   "Quantite": 4,
+   "Utilisateur": "m.petit",
+   "Motif": "Inventaire initial",
+   "Destination": "",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "7b983c4f-60f6-4755-a815-aadb529cc905",
+   "DateHeure": "2026-06-30T08:24:00.000Z",
+   "Type": "ENTREE",
+   "ArticleID": "ART-0076",
+   "EmplacementSource": null,
+   "EmplacementDestination": "A-A02-N02-E04",
+   "Quantite": 20,
+   "Utilisateur": "a.durand",
+   "Motif": "Inventaire initial",
+   "Destination": "",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "9d37d867-3949-401a-b190-d6b65ed6d356",
+   "DateHeure": "2026-06-30T14:39:00.000Z",
+   "Type": "ENTREE",
+   "ArticleID": "ART-0077",
+   "EmplacementSource": null,
+   "EmplacementDestination": "A-A02-N01-E01",
+   "Quantite": 10,
+   "Utilisateur": "m.petit",
+   "Motif": "Inventaire initial",
+   "Destination": "",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "cad6bcf9-be54-4793-afec-516a80ce821d",
+   "DateHeure": "2026-07-02T08:53:00.000Z",
+   "Type": "ENTREE",
+   "ArticleID": "ART-0077",
+   "EmplacementSource": null,
+   "EmplacementDestination": "A-A02-N04-E02",
+   "Quantite": 16,
+   "Utilisateur": "j.martin",
+   "Motif": "Réception commande",
+   "Destination": "",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "5f3e3503-14b4-4339-9ded-c1cc1bb6dd24",
+   "DateHeure": "2026-07-03T12:58:00.000Z",
+   "Type": "ENTREE",
+   "ArticleID": "ART-0078",
+   "EmplacementSource": null,
+   "EmplacementDestination": "B-B02-N03-E03",
+   "Quantite": 3,
+   "Utilisateur": "s.bernard",
+   "Motif": "Inventaire initial",
+   "Destination": "",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "c3c3dd44-509e-4c78-84bd-5a4bc65f3b96",
+   "DateHeure": "2026-07-05T06:40:00.000Z",
+   "Type": "ENTREE",
+   "ArticleID": "ART-0079",
+   "EmplacementSource": null,
+   "EmplacementDestination": "B-B01-N03-E04",
+   "Quantite": 25,
+   "Utilisateur": "m.petit",
+   "Motif": "Inventaire initial",
+   "Destination": "",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "84c4d862-11bc-49e4-9bd2-09907f3b395b",
+   "DateHeure": "2026-07-06T08:17:00.000Z",
+   "Type": "ENTREE",
+   "ArticleID": "ART-0080",
+   "EmplacementSource": null,
+   "EmplacementDestination": "C-C02-N03-E01",
+   "Quantite": 7,
+   "Utilisateur": "j.martin",
+   "Motif": "Inventaire initial",
+   "Destination": "",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "895e6403-9f05-4cd3-a40d-a74505c557ab",
+   "DateHeure": "2026-07-07T12:46:00.000Z",
+   "Type": "ENTREE",
+   "ArticleID": "ART-0081",
+   "EmplacementSource": null,
+   "EmplacementDestination": "C-C02-N05-E04",
+   "Quantite": 5,
+   "Utilisateur": "m.petit",
+   "Motif": "Inventaire initial",
+   "Destination": "",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "df52d5da-058f-463f-b6aa-e6c733dc41f7",
+   "DateHeure": "2026-07-09T07:40:00.000Z",
+   "Type": "ENTREE",
+   "ArticleID": "ART-0082",
+   "EmplacementSource": null,
+   "EmplacementDestination": "C-C01-N03-E02",
+   "Quantite": 2,
+   "Utilisateur": "m.petit",
+   "Motif": "Inventaire initial",
+   "Destination": "",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "629a7935-f3bb-4371-ae7e-f755b257783c",
+   "DateHeure": "2026-07-10T13:13:00.000Z",
+   "Type": "ENTREE",
+   "ArticleID": "ART-0082",
+   "EmplacementSource": null,
+   "EmplacementDestination": "C-C01-N02-E01",
+   "Quantite": 2,
+   "Utilisateur": "a.durand",
+   "Motif": "Réception commande",
+   "Destination": "",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "fb2a4af3-6016-4c3e-aced-b10d0acdf8b0",
+   "DateHeure": "2026-07-12T07:15:00.000Z",
+   "Type": "ENTREE",
+   "ArticleID": "ART-0083",
+   "EmplacementSource": null,
+   "EmplacementDestination": "D-D02-N01-E01",
+   "Quantite": 73,
+   "Utilisateur": "j.martin",
+   "Motif": "Inventaire initial",
+   "Destination": "",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "a098d78b-4464-48f3-8f43-517dd66a2b12",
+   "DateHeure": "2026-07-13T07:26:00.000Z",
+   "Type": "ENTREE",
+   "ArticleID": "ART-0084",
+   "EmplacementSource": null,
+   "EmplacementDestination": "D-D02-N04-E03",
+   "Quantite": 38,
+   "Utilisateur": "a.durand",
+   "Motif": "Inventaire initial",
+   "Destination": "",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "873ae616-f317-45c1-9902-7130060558c2",
+   "DateHeure": "2026-07-14T09:22:00.000Z",
+   "Type": "ENTREE",
+   "ArticleID": "ART-0085",
+   "EmplacementSource": null,
+   "EmplacementDestination": "E-E02-N02-E03",
+   "Quantite": 4,
+   "Utilisateur": "s.bernard",
+   "Motif": "Inventaire initial",
+   "Destination": "",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "0ce378ed-3085-450d-b34a-b52af4465f19",
+   "DateHeure": "2026-07-15T12:09:00.000Z",
+   "Type": "ENTREE",
+   "ArticleID": "ART-0086",
+   "EmplacementSource": null,
+   "EmplacementDestination": "E-E01-N04-E03",
+   "Quantite": 5,
+   "Utilisateur": "m.petit",
+   "Motif": "Inventaire initial",
+   "Destination": "",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "b5924dc9-f1a9-4b3c-9102-33d7197c08a6",
+   "DateHeure": "2026-07-16T14:08:00.000Z",
+   "Type": "ENTREE",
+   "ArticleID": "ART-0087",
+   "EmplacementSource": null,
+   "EmplacementDestination": "E-E01-N01-E03",
+   "Quantite": 3,
+   "Utilisateur": "m.petit",
+   "Motif": "Inventaire initial",
+   "Destination": "",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "4393868d-d506-47a0-8645-0bfc6d228e79",
+   "DateHeure": "2026-07-17T11:09:00.000Z",
+   "Type": "ENTREE",
+   "ArticleID": "ART-0087",
+   "EmplacementSource": null,
+   "EmplacementDestination": "E-E02-N01-E03",
+   "Quantite": 3,
+   "Utilisateur": "a.durand",
+   "Motif": "Réception commande",
+   "Destination": "",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "b437a196-9419-4c5b-981b-4544cc6e2d18",
+   "DateHeure": "2026-07-18T12:23:00.000Z",
+   "Type": "ENTREE",
+   "ArticleID": "ART-0088",
+   "EmplacementSource": null,
+   "EmplacementDestination": "F-F02-N02-E04",
+   "Quantite": 16,
+   "Utilisateur": "a.durand",
+   "Motif": "Inventaire initial",
+   "Destination": "",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "1c071a8f-7664-4b2b-8f55-8faa58720bf3",
+   "DateHeure": "2026-07-19T14:50:00.000Z",
+   "Type": "ENTREE",
+   "ArticleID": "ART-0089",
+   "EmplacementSource": null,
+   "EmplacementDestination": "D-D02-N01-E02",
+   "Quantite": 58,
+   "Utilisateur": "s.bernard",
+   "Motif": "Inventaire initial",
+   "Destination": "",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "8405e550-51b0-497a-b213-26680b41257b",
+   "DateHeure": "2026-07-20T14:20:00.000Z",
+   "Type": "ENTREE",
+   "ArticleID": "ART-0090",
+   "EmplacementSource": null,
+   "EmplacementDestination": "F-F01-N05-E01",
+   "Quantite": 1,
+   "Utilisateur": "s.bernard",
+   "Motif": "Inventaire initial",
+   "Destination": "",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "26c82514-4ce0-4291-ba13-a0f3b5fb8a64",
+   "DateHeure": "2026-07-22T09:34:00.000Z",
+   "Type": "ENTREE",
+   "ArticleID": "ART-0091",
+   "EmplacementSource": null,
+   "EmplacementDestination": "A-A01-N02-E04",
+   "Quantite": 6,
+   "Utilisateur": "j.martin",
+   "Motif": "Inventaire initial",
+   "Destination": "",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "51c59bde-747b-46a6-b012-431313d4acab",
+   "DateHeure": "2026-07-22T14:43:00.000Z",
+   "Type": "ENTREE",
+   "ArticleID": "ART-0092",
+   "EmplacementSource": null,
+   "EmplacementDestination": "A-A02-N03-E04",
+   "Quantite": 10,
+   "Utilisateur": "a.durand",
+   "Motif": "Inventaire initial",
+   "Destination": "",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "c2d987f7-f4c3-4927-8223-347ca25387b7",
+   "DateHeure": "2026-07-23T14:37:00.000Z",
+   "Type": "ENTREE",
+   "ArticleID": "ART-0092",
+   "EmplacementSource": null,
+   "EmplacementDestination": "A-A02-N01-E02",
+   "Quantite": 14,
+   "Utilisateur": "s.bernard",
+   "Motif": "Réception commande",
+   "Destination": "",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "7535a815-38b5-41ae-832a-3d2115d54395",
+   "DateHeure": "2026-07-24T10:19:00.000Z",
+   "Type": "ENTREE",
+   "ArticleID": "ART-0093",
+   "EmplacementSource": null,
+   "EmplacementDestination": "B-B02-N05-E01",
+   "Quantite": 4,
+   "Utilisateur": "s.bernard",
+   "Motif": "Inventaire initial",
+   "Destination": "",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "3c4ffac5-da29-4dbe-8e41-62838393c2f2",
+   "DateHeure": "2026-07-25T06:43:00.000Z",
+   "Type": "ENTREE",
+   "ArticleID": "ART-0094",
+   "EmplacementSource": null,
+   "EmplacementDestination": "B-B02-N04-E01",
+   "Quantite": 61,
+   "Utilisateur": "j.martin",
+   "Motif": "Inventaire initial",
+   "Destination": "",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "598bd684-82ae-4de6-887b-8da8eba14b85",
+   "DateHeure": "2026-07-26T08:05:00.000Z",
+   "Type": "ENTREE",
+   "ArticleID": "ART-0095",
+   "EmplacementSource": null,
+   "EmplacementDestination": "C-C02-N05-E01",
+   "Quantite": 7,
+   "Utilisateur": "a.durand",
+   "Motif": "Inventaire initial",
+   "Destination": "",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "d5baca5b-45a9-47fe-920d-76b69c72417f",
+   "DateHeure": "2026-07-27T08:19:00.000Z",
+   "Type": "ENTREE",
+   "ArticleID": "ART-0096",
+   "EmplacementSource": null,
+   "EmplacementDestination": "C-C02-N03-E02",
+   "Quantite": 5,
+   "Utilisateur": "j.martin",
+   "Motif": "Inventaire initial",
+   "Destination": "",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "58442a29-7e55-4c27-bc5e-0fbbf1f61964",
+   "DateHeure": "2026-07-28T11:59:00.000Z",
+   "Type": "ENTREE",
+   "ArticleID": "ART-0097",
+   "EmplacementSource": null,
+   "EmplacementDestination": "C-C01-N01-E04",
+   "Quantite": 2,
+   "Utilisateur": "s.bernard",
+   "Motif": "Inventaire initial",
+   "Destination": "",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "fb68705c-8c2f-4a14-8eb6-592293a6fae4",
+   "DateHeure": "2026-07-30T07:02:00.000Z",
+   "Type": "ENTREE",
+   "ArticleID": "ART-0097",
+   "EmplacementSource": null,
+   "EmplacementDestination": "C-C01-N05-E02",
+   "Quantite": 2,
+   "Utilisateur": "s.bernard",
+   "Motif": "Réception commande",
+   "Destination": "",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "263ea25a-fe9b-4001-ab6d-c7181c0bf593",
+   "DateHeure": "2026-07-30T13:39:00.000Z",
+   "Type": "ENTREE",
+   "ArticleID": "ART-0098",
+   "EmplacementSource": null,
+   "EmplacementDestination": "D-D01-N04-E04",
+   "Quantite": 41,
+   "Utilisateur": "a.durand",
+   "Motif": "Inventaire initial",
+   "Destination": "",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "a1b44532-4757-432a-a28f-50c38d0096ca",
+   "DateHeure": "2026-07-31T15:02:00.000Z",
+   "Type": "ENTREE",
+   "ArticleID": "ART-0099",
+   "EmplacementSource": null,
+   "EmplacementDestination": "D-D01-N01-E04",
+   "Quantite": 28,
+   "Utilisateur": "a.durand",
+   "Motif": "Inventaire initial",
+   "Destination": "",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "4095a749-3242-4c60-938c-9b65066625e2",
+   "DateHeure": "2026-08-01T15:00:00.000Z",
+   "Type": "ENTREE",
+   "ArticleID": "ART-0100",
+   "EmplacementSource": null,
+   "EmplacementDestination": "E-E01-N04-E04",
+   "Quantite": 6,
+   "Utilisateur": "m.petit",
+   "Motif": "Inventaire initial",
+   "Destination": "",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "685060f0-a54b-484b-9d9d-60b201abefa3",
+   "DateHeure": "2026-08-03T09:39:00.000Z",
+   "Type": "ENTREE",
+   "ArticleID": "ART-0101",
+   "EmplacementSource": null,
+   "EmplacementDestination": "E-E02-N05-E03",
+   "Quantite": 7,
+   "Utilisateur": "j.martin",
+   "Motif": "Inventaire initial",
+   "Destination": "",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "42cece54-8ad9-4ee3-af81-ac01085dcaa0",
+   "DateHeure": "2026-08-03T15:36:00.000Z",
+   "Type": "ENTREE",
+   "ArticleID": "ART-0102",
+   "EmplacementSource": null,
+   "EmplacementDestination": "E-E01-N04-E01",
+   "Quantite": 1,
+   "Utilisateur": "j.martin",
+   "Motif": "Inventaire initial",
+   "Destination": "",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "cc9b2255-3c8e-4613-98f3-35acf7b43ed3",
+   "DateHeure": "2026-08-04T15:25:00.000Z",
+   "Type": "ENTREE",
+   "ArticleID": "ART-0103",
+   "EmplacementSource": null,
+   "EmplacementDestination": "F-F01-N03-E02",
+   "Quantite": 28,
+   "Utilisateur": "a.durand",
+   "Motif": "Inventaire initial",
+   "Destination": "",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "b50f2d1f-94d7-416a-902b-e919c8cd2e62",
+   "DateHeure": "2026-08-06T07:51:00.000Z",
+   "Type": "ENTREE",
+   "ArticleID": "ART-0104",
+   "EmplacementSource": null,
+   "EmplacementDestination": "D-D02-N02-E04",
+   "Quantite": 17,
+   "Utilisateur": "m.petit",
+   "Motif": "Inventaire initial",
+   "Destination": "",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "8fc8aff8-beec-4f50-a8f8-fb2574e1db64",
+   "DateHeure": "2026-08-07T06:41:00.000Z",
+   "Type": "ENTREE",
+   "ArticleID": "ART-0105",
+   "EmplacementSource": null,
+   "EmplacementDestination": "F-F02-N03-E01",
+   "Quantite": 4,
+   "Utilisateur": "s.bernard",
+   "Motif": "Inventaire initial",
+   "Destination": "",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "a6cf6089-c2f9-4810-9129-6738c1c12b1f",
+   "DateHeure": "2026-08-07T14:49:00.000Z",
+   "Type": "ENTREE",
+   "ArticleID": "ART-0106",
+   "EmplacementSource": null,
+   "EmplacementDestination": "A-A02-N03-E02",
+   "Quantite": 9,
+   "Utilisateur": "a.durand",
+   "Motif": "Inventaire initial",
+   "Destination": "",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "e381d868-102c-48dd-98ca-9ba380e05e16",
+   "DateHeure": "2026-08-09T10:04:00.000Z",
+   "Type": "ENTREE",
+   "ArticleID": "ART-0107",
+   "EmplacementSource": null,
+   "EmplacementDestination": "A-A02-N02-E01",
+   "Quantite": 12,
+   "Utilisateur": "a.durand",
+   "Motif": "Inventaire initial",
+   "Destination": "",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "2673e2fa-15d3-4dd1-a838-c9893aa7e738",
+   "DateHeure": "2026-08-10T06:17:00.000Z",
+   "Type": "ENTREE",
+   "ArticleID": "ART-0107",
+   "EmplacementSource": null,
+   "EmplacementDestination": "A-A02-N05-E02",
+   "Quantite": 4,
+   "Utilisateur": "a.durand",
+   "Motif": "Réception commande",
+   "Destination": "",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "4bc3698e-cd85-4450-8105-b84124723592",
+   "DateHeure": "2026-08-10T14:31:00.000Z",
+   "Type": "ENTREE",
+   "ArticleID": "ART-0108",
+   "EmplacementSource": null,
+   "EmplacementDestination": "B-B01-N03-E02",
+   "Quantite": 18,
+   "Utilisateur": "j.martin",
+   "Motif": "Inventaire initial",
+   "Destination": "",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "6eb5f271-6ec8-49bd-b1da-7fcc1066504e",
+   "DateHeure": "2026-08-11T11:19:00.000Z",
+   "Type": "ENTREE",
+   "ArticleID": "ART-0109",
+   "EmplacementSource": null,
+   "EmplacementDestination": "B-B02-N04-E02",
+   "Quantite": 46,
+   "Utilisateur": "a.durand",
+   "Motif": "Inventaire initial",
+   "Destination": "",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "71e91698-bec4-4622-8544-28c3c75acbc8",
+   "DateHeure": "2026-08-12T06:03:00.000Z",
+   "Type": "ENTREE",
+   "ArticleID": "ART-0110",
+   "EmplacementSource": null,
+   "EmplacementDestination": "C-C02-N02-E03",
+   "Quantite": 4,
+   "Utilisateur": "j.martin",
+   "Motif": "Inventaire initial",
+   "Destination": "",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "5f3266a2-2475-4d45-a1da-a58782841da0",
+   "DateHeure": "2026-08-12T11:58:00.000Z",
+   "Type": "ENTREE",
+   "ArticleID": "ART-0111",
+   "EmplacementSource": null,
+   "EmplacementDestination": "C-C01-N03-E04",
+   "Quantite": 2,
+   "Utilisateur": "a.durand",
+   "Motif": "Inventaire initial",
+   "Destination": "",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "d7bd9fe2-c522-411b-a946-e6ca4511eb64",
+   "DateHeure": "2026-08-13T11:40:00.000Z",
+   "Type": "ENTREE",
+   "ArticleID": "ART-0112",
+   "EmplacementSource": null,
+   "EmplacementDestination": "C-C01-N01-E02",
+   "Quantite": 3,
+   "Utilisateur": "a.durand",
+   "Motif": "Inventaire initial",
+   "Destination": "",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "fbebd149-247c-4f1a-857a-8556a1b08865",
+   "DateHeure": "2026-08-14T15:49:00.000Z",
+   "Type": "ENTREE",
+   "ArticleID": "ART-0112",
+   "EmplacementSource": null,
+   "EmplacementDestination": "C-C01-N02-E03",
+   "Quantite": 1,
+   "Utilisateur": "j.martin",
+   "Motif": "Réception commande",
+   "Destination": "",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "f77dcb65-d3c2-4edb-b1e0-7ba1145cf082",
+   "DateHeure": "2026-08-16T09:26:00.000Z",
+   "Type": "ENTREE",
+   "ArticleID": "ART-0113",
+   "EmplacementSource": null,
+   "EmplacementDestination": "D-D02-N02-E03",
+   "Quantite": 25,
+   "Utilisateur": "s.bernard",
+   "Motif": "Inventaire initial",
+   "Destination": "",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "5465fcfd-8fec-4f53-9484-ed251d820826",
+   "DateHeure": "2026-08-16T15:33:00.000Z",
+   "Type": "ENTREE",
+   "ArticleID": "ART-0114",
+   "EmplacementSource": null,
+   "EmplacementDestination": "D-D01-N01-E03",
+   "Quantite": 4,
+   "Utilisateur": "a.durand",
+   "Motif": "Inventaire initial",
+   "Destination": "",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "ae8a93ed-87aa-441b-93b2-3fbef30f9683",
+   "DateHeure": "2026-08-17T11:24:00.000Z",
+   "Type": "ENTREE",
+   "ArticleID": "ART-0115",
+   "EmplacementSource": null,
+   "EmplacementDestination": "E-E01-N05-E04",
+   "Quantite": 4,
+   "Utilisateur": "j.martin",
+   "Motif": "Inventaire initial",
+   "Destination": "",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "05eab739-8571-49bd-9a39-4d6e8c73c815",
+   "DateHeure": "2026-08-18T13:33:00.000Z",
+   "Type": "ENTREE",
+   "ArticleID": "ART-0116",
+   "EmplacementSource": null,
+   "EmplacementDestination": "E-E01-N02-E04",
+   "Quantite": 4,
+   "Utilisateur": "m.petit",
+   "Motif": "Inventaire initial",
+   "Destination": "",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "26700848-c9b6-483a-a3ac-80f3ca75ff3f",
+   "DateHeure": "2026-08-20T08:36:00.000Z",
+   "Type": "ENTREE",
+   "ArticleID": "ART-0117",
+   "EmplacementSource": null,
+   "EmplacementDestination": "E-E01-N03-E03",
+   "Quantite": 2,
+   "Utilisateur": "s.bernard",
+   "Motif": "Inventaire initial",
+   "Destination": "",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "6f41aed2-df92-4170-9c7c-111466307027",
+   "DateHeure": "2026-08-20T13:59:00.000Z",
+   "Type": "ENTREE",
+   "ArticleID": "ART-0117",
+   "EmplacementSource": null,
+   "EmplacementDestination": "E-E02-N05-E01",
+   "Quantite": 3,
+   "Utilisateur": "a.durand",
+   "Motif": "Réception commande",
+   "Destination": "",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "5b77035b-0ccf-46e1-b69b-1bf3ffb21be0",
+   "DateHeure": "2026-08-21T10:47:00.000Z",
+   "Type": "ENTREE",
+   "ArticleID": "ART-0118",
+   "EmplacementSource": null,
+   "EmplacementDestination": "F-F01-N01-E03",
+   "Quantite": 28,
+   "Utilisateur": "j.martin",
+   "Motif": "Inventaire initial",
+   "Destination": "",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "a7566275-a3a1-41b1-a6d8-a59b9728f933",
+   "DateHeure": "2026-08-22T12:37:00.000Z",
+   "Type": "ENTREE",
+   "ArticleID": "ART-0119",
+   "EmplacementSource": null,
+   "EmplacementDestination": "D-D02-N05-E03",
+   "Quantite": 20,
+   "Utilisateur": "m.petit",
+   "Motif": "Inventaire initial",
+   "Destination": "",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "c9167124-6142-4904-9d7c-c1047ebd4e4c",
+   "DateHeure": "2026-08-23T12:08:00.000Z",
+   "Type": "ENTREE",
+   "ArticleID": "ART-0120",
+   "EmplacementSource": null,
+   "EmplacementDestination": "F-F02-N01-E04",
+   "Quantite": 5,
+   "Utilisateur": "m.petit",
+   "Motif": "Inventaire initial",
+   "Destination": "",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "fd7cc28c-d4e1-462f-bfd6-62c3d21c6ff7",
+   "DateHeure": "2026-08-24T10:15:00.000Z",
+   "Type": "SORTIE",
+   "ArticleID": "ART-0008",
+   "EmplacementSource": "D-D02-N05-E02",
+   "EmplacementDestination": null,
+   "Quantite": 31,
+   "Utilisateur": "j.martin",
+   "Motif": "Dépannage",
+   "Destination": "Atelier maintenance Ouest",
+   "Commentaire": "Dernières pièces"
+  },
+  {
+   "MouvementID": "86923af0-e178-4d0d-a170-1fd9c1507daa",
+   "DateHeure": "2026-08-25T06:41:00.000Z",
+   "Type": "SORTIE",
+   "ArticleID": "ART-0013",
+   "EmplacementSource": "F-F01-N05-E04",
+   "EmplacementDestination": null,
+   "Quantite": 2,
+   "Utilisateur": "j.martin",
+   "Motif": "Maintenance préventive",
+   "Destination": "Centrale Les Arcs — tranche 2",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "4f8f0e9d-9ca9-477a-84e5-254b9541734b",
+   "DateHeure": "2026-08-25T13:31:00.000Z",
+   "Type": "SORTIE",
+   "ArticleID": "ART-0016",
+   "EmplacementSource": "A-A02-N05-E04",
+   "EmplacementDestination": null,
+   "Quantite": 2,
+   "Utilisateur": "s.bernard",
+   "Motif": "Dépannage",
+   "Destination": "Atelier maintenance Ouest",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "2beccaa8-2679-4b91-b1ed-118459e41435",
+   "DateHeure": "2026-08-26T09:44:00.000Z",
+   "Type": "SORTIE",
+   "ArticleID": "ART-0019",
+   "EmplacementSource": "B-B02-N05-E04",
+   "EmplacementDestination": null,
+   "Quantite": 8,
+   "Utilisateur": "m.petit",
+   "Motif": "Travaux neufs",
+   "Destination": "Atelier maintenance Ouest",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "5f3253c8-e667-4cb6-8c8d-7ee948b37a15",
+   "DateHeure": "2026-08-27T11:25:00.000Z",
+   "Type": "SORTIE",
+   "ArticleID": "ART-0020",
+   "EmplacementSource": "C-C01-N05-E04",
+   "EmplacementDestination": null,
+   "Quantite": 2,
+   "Utilisateur": "a.durand",
+   "Motif": "Maintenance préventive",
+   "Destination": "Sous-station Nord",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "75425d64-905f-4503-b719-f79fa8e0b884",
+   "DateHeure": "2026-08-29T06:20:00.000Z",
+   "Type": "SORTIE",
+   "ArticleID": "ART-0021",
+   "EmplacementSource": "C-C02-N04-E01",
+   "EmplacementDestination": null,
+   "Quantite": 1,
+   "Utilisateur": "m.petit",
+   "Motif": "Dépannage",
+   "Destination": "Centrale Les Arcs — tranche 2",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "1ecc9bfb-56f5-451d-9ce6-d65f0519d486",
+   "DateHeure": "2026-08-29T10:27:00.000Z",
+   "Type": "SORTIE",
+   "ArticleID": "ART-0024",
+   "EmplacementSource": "D-D02-N03-E01",
+   "EmplacementDestination": null,
+   "Quantite": 3,
+   "Utilisateur": "s.bernard",
+   "Motif": "Maintenance préventive",
+   "Destination": "Centrale Les Arcs — tranche 2",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "f815f908-1dba-47e4-b703-7eb118b662fd",
+   "DateHeure": "2026-08-30T09:20:00.000Z",
+   "Type": "SORTIE",
+   "ArticleID": "ART-0026",
+   "EmplacementSource": "E-E01-N03-E04",
+   "EmplacementDestination": null,
+   "Quantite": 2,
+   "Utilisateur": "j.martin",
+   "Motif": "Maintenance préventive",
+   "Destination": "Centrale Les Arcs — tranche 2",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "435aa953-6ffb-4876-8f81-674a6158046a",
+   "DateHeure": "2026-08-31T06:02:00.000Z",
+   "Type": "SORTIE",
+   "ArticleID": "ART-0028",
+   "EmplacementSource": "F-F02-N01-E01",
+   "EmplacementDestination": null,
+   "Quantite": 7,
+   "Utilisateur": "j.martin",
+   "Motif": "Dépannage",
+   "Destination": "Poste source Valmont",
+   "Commentaire": "Dernières pièces"
+  },
+  {
+   "MouvementID": "5fd17464-62b7-4398-8e7f-22b6f83eef16",
+   "DateHeure": "2026-08-31T15:53:00.000Z",
+   "Type": "SORTIE",
+   "ArticleID": "ART-0029",
+   "EmplacementSource": "D-D01-N02-E03",
+   "EmplacementDestination": null,
+   "Quantite": 26,
+   "Utilisateur": "m.petit",
+   "Motif": "Dépannage",
+   "Destination": "Atelier maintenance Ouest",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "0cc017c2-a85f-4e28-a4c5-ac7fe937a2db",
+   "DateHeure": "2026-09-01T11:46:00.000Z",
+   "Type": "SORTIE",
+   "ArticleID": "ART-0031",
+   "EmplacementSource": "A-A01-N04-E04",
+   "EmplacementDestination": null,
+   "Quantite": 2,
+   "Utilisateur": "a.durand",
+   "Motif": "Maintenance préventive",
+   "Destination": "Sous-station Nord",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "3888406d-ff54-4859-9441-114f5d184d71",
+   "DateHeure": "2026-09-02T13:39:00.000Z",
+   "Type": "SORTIE",
+   "ArticleID": "ART-0034",
+   "EmplacementSource": "B-B01-N04-E04",
+   "EmplacementDestination": null,
+   "Quantite": 10,
+   "Utilisateur": "a.durand",
+   "Motif": "Maintenance préventive",
+   "Destination": "Sous-station Nord",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "f17e7465-a834-415e-928e-0c88f1f7676d",
+   "DateHeure": "2026-09-03T11:25:00.000Z",
+   "Type": "SORTIE",
+   "ArticleID": "ART-0039",
+   "EmplacementSource": "D-D01-N04-E03",
+   "EmplacementDestination": null,
+   "Quantite": 2,
+   "Utilisateur": "s.bernard",
+   "Motif": "Dépannage",
+   "Destination": "Sous-station Nord",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "482a6dce-cdf8-4c50-8b0e-c08aeed5b4c1",
+   "DateHeure": "2026-09-04T15:37:00.000Z",
+   "Type": "SORTIE",
+   "ArticleID": "ART-0040",
+   "EmplacementSource": "E-E01-N05-E02",
+   "EmplacementDestination": null,
+   "Quantite": 1,
+   "Utilisateur": "s.bernard",
+   "Motif": "Travaux neufs",
+   "Destination": "Poste source Valmont",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "491379b7-a4f8-4575-9b29-6c4399c1ec4a",
+   "DateHeure": "2026-09-06T10:59:00.000Z",
+   "Type": "SORTIE",
+   "ArticleID": "ART-0044",
+   "EmplacementSource": "D-D01-N01-E02",
+   "EmplacementDestination": null,
+   "Quantite": 2,
+   "Utilisateur": "j.martin",
+   "Motif": "Travaux neufs",
+   "Destination": "Poste source Valmont",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "41f6980c-983f-4b0f-a647-d6527abaeaa3",
+   "DateHeure": "2026-09-07T15:22:00.000Z",
+   "Type": "SORTIE",
+   "ArticleID": "ART-0048",
+   "EmplacementSource": "B-B01-N05-E03",
+   "EmplacementDestination": null,
+   "Quantite": 9,
+   "Utilisateur": "a.durand",
+   "Motif": "Dépannage",
+   "Destination": "Poste source Valmont",
+   "Commentaire": "Dernières pièces"
+  },
+  {
+   "MouvementID": "133e0fe9-0d3d-4e3a-a092-7d7aa8eea851",
+   "DateHeure": "2026-09-08T14:02:00.000Z",
+   "Type": "SORTIE",
+   "ArticleID": "ART-0050",
+   "EmplacementSource": "C-C01-N01-E03",
+   "EmplacementDestination": null,
+   "Quantite": 2,
+   "Utilisateur": "s.bernard",
+   "Motif": "Travaux neufs",
+   "Destination": "Poste source Valmont",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "46cb3104-cc9f-413c-8f38-1ac7c98eafb1",
+   "DateHeure": "2026-09-09T12:38:00.000Z",
+   "Type": "SORTIE",
+   "ArticleID": "ART-0061",
+   "EmplacementSource": "A-A01-N03-E03",
+   "EmplacementDestination": null,
+   "Quantite": 2,
+   "Utilisateur": "a.durand",
+   "Motif": "Travaux neufs",
+   "Destination": "Centrale Les Arcs — tranche 2",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "0f12e732-caf2-4550-99c5-78569b939fcf",
+   "DateHeure": "2026-09-10T13:33:00.000Z",
+   "Type": "SORTIE",
+   "ArticleID": "ART-0063",
+   "EmplacementSource": "B-B02-N02-E03",
+   "EmplacementDestination": null,
+   "Quantite": 5,
+   "Utilisateur": "s.bernard",
+   "Motif": "Maintenance préventive",
+   "Destination": "Atelier maintenance Ouest",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "56752f85-d0b0-4d2d-a561-c02f5cac06b7",
+   "DateHeure": "2026-09-11T15:44:00.000Z",
+   "Type": "SORTIE",
+   "ArticleID": "ART-0068",
+   "EmplacementSource": "D-D01-N02-E02",
+   "EmplacementDestination": null,
+   "Quantite": 34,
+   "Utilisateur": "j.martin",
+   "Motif": "Dépannage",
+   "Destination": "Atelier maintenance Ouest",
+   "Commentaire": "Dernières pièces"
+  },
+  {
+   "MouvementID": "4d486c7e-48e8-42ad-8744-fc701045645b",
+   "DateHeure": "2026-09-12T13:05:00.000Z",
+   "Type": "SORTIE",
+   "ArticleID": "ART-0069",
+   "EmplacementSource": "D-D02-N01-E04",
+   "EmplacementDestination": null,
+   "Quantite": 19,
+   "Utilisateur": "m.petit",
+   "Motif": "Maintenance préventive",
+   "Destination": "Poste source Valmont",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "c7f9930f-4219-4805-9c4d-299bec3aee2a",
+   "DateHeure": "2026-09-13T09:39:00.000Z",
+   "Type": "SORTIE",
+   "ArticleID": "ART-0084",
+   "EmplacementSource": "D-D02-N04-E03",
+   "EmplacementDestination": null,
+   "Quantite": 2,
+   "Utilisateur": "m.petit",
+   "Motif": "Travaux neufs",
+   "Destination": "Centrale Les Arcs — tranche 2",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "bda9cae0-6d39-41f8-b56f-0d82ac67a4b5",
+   "DateHeure": "2026-09-14T10:43:00.000Z",
+   "Type": "SORTIE",
+   "ArticleID": "ART-0086",
+   "EmplacementSource": "E-E01-N04-E03",
+   "EmplacementDestination": null,
+   "Quantite": 1,
+   "Utilisateur": "a.durand",
+   "Motif": "Maintenance préventive",
+   "Destination": "Sous-station Nord",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "39fce7e0-e031-40d5-bcff-e0e85eddc67b",
+   "DateHeure": "2026-09-15T10:42:00.000Z",
+   "Type": "SORTIE",
+   "ArticleID": "ART-0088",
+   "EmplacementSource": "F-F02-N02-E04",
+   "EmplacementDestination": null,
+   "Quantite": 16,
+   "Utilisateur": "j.martin",
+   "Motif": "Dépannage",
+   "Destination": "Centrale Les Arcs — tranche 2",
+   "Commentaire": "Dernières pièces"
+  },
+  {
+   "MouvementID": "9f2467d7-8fbc-4f2e-9960-aed9d710919d",
+   "DateHeure": "2026-09-16T06:57:00.000Z",
+   "Type": "SORTIE",
+   "ArticleID": "ART-0089",
+   "EmplacementSource": "D-D02-N01-E02",
+   "EmplacementDestination": null,
+   "Quantite": 2,
+   "Utilisateur": "j.martin",
+   "Motif": "Dépannage",
+   "Destination": "Atelier maintenance Ouest",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "59595ca2-0309-4f18-97b0-1df269bba3a7",
+   "DateHeure": "2026-09-17T08:58:00.000Z",
+   "Type": "SORTIE",
+   "ArticleID": "ART-0094",
+   "EmplacementSource": "B-B02-N04-E01",
+   "EmplacementDestination": null,
+   "Quantite": 10,
+   "Utilisateur": "a.durand",
+   "Motif": "Maintenance préventive",
+   "Destination": "Centrale Les Arcs — tranche 2",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "71cab523-157b-4052-a669-c0968d3d8c31",
+   "DateHeure": "2026-09-18T07:16:00.000Z",
+   "Type": "SORTIE",
+   "ArticleID": "ART-0095",
+   "EmplacementSource": "C-C02-N05-E01",
+   "EmplacementDestination": null,
+   "Quantite": 1,
+   "Utilisateur": "s.bernard",
+   "Motif": "Travaux neufs",
+   "Destination": "Sous-station Nord",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "7462dc27-5169-4edb-9772-9602cf82b5cb",
+   "DateHeure": "2026-09-18T14:03:00.000Z",
+   "Type": "SORTIE",
+   "ArticleID": "ART-0103",
+   "EmplacementSource": "F-F01-N03-E02",
+   "EmplacementDestination": null,
+   "Quantite": 1,
+   "Utilisateur": "m.petit",
+   "Motif": "Travaux neufs",
+   "Destination": "Centrale Les Arcs — tranche 2",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "88bb4837-5006-49a7-a29c-b65235e374ed",
+   "DateHeure": "2026-09-19T08:19:00.000Z",
+   "Type": "SORTIE",
+   "ArticleID": "ART-0105",
+   "EmplacementSource": "F-F02-N03-E01",
+   "EmplacementDestination": null,
+   "Quantite": 1,
+   "Utilisateur": "m.petit",
+   "Motif": "Maintenance préventive",
+   "Destination": "Atelier maintenance Ouest",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "207f2129-1cf6-4f06-8895-929d173a54db",
+   "DateHeure": "2026-09-19T15:24:00.000Z",
+   "Type": "SORTIE",
+   "ArticleID": "ART-0106",
+   "EmplacementSource": "A-A02-N03-E02",
+   "EmplacementDestination": null,
+   "Quantite": 2,
+   "Utilisateur": "s.bernard",
+   "Motif": "Dépannage",
+   "Destination": "Sous-station Nord",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "fb51ef03-b2cf-4236-8b77-de151c0131d8",
+   "DateHeure": "2026-09-20T10:10:00.000Z",
+   "Type": "SORTIE",
+   "ArticleID": "ART-0108",
+   "EmplacementSource": "B-B01-N03-E02",
+   "EmplacementDestination": null,
+   "Quantite": 18,
+   "Utilisateur": "a.durand",
+   "Motif": "Dépannage",
+   "Destination": "Atelier maintenance Ouest",
+   "Commentaire": "Dernières pièces"
+  },
+  {
+   "MouvementID": "242c6d4f-c6aa-48b2-a75f-1bfae62830a4",
+   "DateHeure": "2026-09-21T07:41:00.000Z",
+   "Type": "SORTIE",
+   "ArticleID": "ART-0109",
+   "EmplacementSource": "B-B02-N04-E02",
+   "EmplacementDestination": null,
+   "Quantite": 6,
+   "Utilisateur": "a.durand",
+   "Motif": "Dépannage",
+   "Destination": "Poste source Valmont",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "6bc628fe-be14-4054-b77d-ea7ed012b690",
+   "DateHeure": "2026-09-21T15:19:00.000Z",
+   "Type": "SORTIE",
+   "ArticleID": "ART-0116",
+   "EmplacementSource": "E-E01-N02-E04",
+   "EmplacementDestination": null,
+   "Quantite": 1,
+   "Utilisateur": "j.martin",
+   "Motif": "Travaux neufs",
+   "Destination": "Poste source Valmont",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "c300877e-8210-49b1-bd16-45f833239d5f",
+   "DateHeure": "2026-09-22T15:19:00.000Z",
+   "Type": "SORTIE",
+   "ArticleID": "ART-0118",
+   "EmplacementSource": "F-F01-N01-E03",
+   "EmplacementDestination": null,
+   "Quantite": 6,
+   "Utilisateur": "a.durand",
+   "Motif": "Travaux neufs",
+   "Destination": "Poste source Valmont",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "f0c5c816-305c-47a0-8e77-efd396ccc541",
+   "DateHeure": "2026-09-23T15:22:00.000Z",
+   "Type": "SORTIE",
+   "ArticleID": "ART-0119",
+   "EmplacementSource": "D-D02-N05-E03",
+   "EmplacementDestination": null,
+   "Quantite": 3,
+   "Utilisateur": "j.martin",
+   "Motif": "Travaux neufs",
+   "Destination": "Atelier maintenance Ouest",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "39041c27-2c91-464c-9b92-a7a3f95c5e8a",
+   "DateHeure": "2026-09-24T14:50:00.000Z",
+   "Type": "SORTIE",
+   "ArticleID": "ART-0120",
+   "EmplacementSource": "F-F02-N01-E04",
+   "EmplacementDestination": null,
+   "Quantite": 2,
+   "Utilisateur": "s.bernard",
+   "Motif": "Dépannage",
+   "Destination": "Sous-station Nord",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "4122ebcf-b3e7-4840-8858-51d3d28a13d5",
+   "DateHeure": "2026-09-25T11:27:00.000Z",
+   "Type": "TRANSFERT",
+   "ArticleID": "ART-0004",
+   "EmplacementSource": "B-B01-N02-E02",
+   "EmplacementDestination": "B-B01-N03-E03",
+   "Quantite": 19,
+   "Utilisateur": "a.durand",
+   "Motif": "Réorganisation",
+   "Destination": "",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "c7556e48-08b8-49a4-9ec3-6f50e0d4048b",
+   "DateHeure": "2026-09-26T07:55:00.000Z",
+   "Type": "TRANSFERT",
+   "ArticleID": "ART-0021",
+   "EmplacementSource": "C-C02-N04-E01",
+   "EmplacementDestination": "C-C02-N04-E03",
+   "Quantite": 2,
+   "Utilisateur": "s.bernard",
+   "Motif": "Réorganisation",
+   "Destination": "",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "faa6f9c1-6690-43f7-94e7-7f9dcd406a2f",
+   "DateHeure": "2026-09-26T15:44:00.000Z",
+   "Type": "TRANSFERT",
+   "ArticleID": "ART-0038",
+   "EmplacementSource": "D-D01-N03-E02",
+   "EmplacementDestination": "D-D01-N03-E04",
+   "Quantite": 25,
+   "Utilisateur": "s.bernard",
+   "Motif": "Réorganisation",
+   "Destination": "",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "71e19177-16af-4fbd-b51f-6f47c7aafd5c",
+   "DateHeure": "2026-09-28T08:50:00.000Z",
+   "Type": "TRANSFERT",
+   "ArticleID": "ART-0055",
+   "EmplacementSource": "E-E01-N01-E02",
+   "EmplacementDestination": "E-E02-N01-E04",
+   "Quantite": 3,
+   "Utilisateur": "s.bernard",
+   "Motif": "Réorganisation",
+   "Destination": "",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "030004c7-161e-49fd-83fd-067e48cefaac",
+   "DateHeure": "2026-09-28T15:16:00.000Z",
+   "Type": "TRANSFERT",
+   "ArticleID": "ART-0072",
+   "EmplacementSource": "E-E02-N03-E04",
+   "EmplacementDestination": "E-E01-N02-E02",
+   "Quantite": 2,
+   "Utilisateur": "j.martin",
+   "Motif": "Réorganisation",
+   "Destination": "",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "43168e19-144f-4e1a-b8d7-63782c86a1f1",
+   "DateHeure": "2026-09-29T15:51:00.000Z",
+   "Type": "TRANSFERT",
+   "ArticleID": "ART-0089",
+   "EmplacementSource": "D-D02-N01-E02",
+   "EmplacementDestination": "D-D02-N04-E01",
+   "Quantite": 28,
+   "Utilisateur": "a.durand",
+   "Motif": "Réorganisation",
+   "Destination": "",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "c5786b1e-0671-4793-8513-ec5488de5f20",
+   "DateHeure": "2026-10-01T09:28:00.000Z",
+   "Type": "TRANSFERT",
+   "ArticleID": "ART-0106",
+   "EmplacementSource": "A-A02-N03-E02",
+   "EmplacementDestination": "A-A02-N02-E03",
+   "Quantite": 3,
+   "Utilisateur": "s.bernard",
+   "Motif": "Réorganisation",
+   "Destination": "",
+   "Commentaire": ""
+  },
+  {
+   "MouvementID": "5bbb0b82-ab38-46d5-aed1-0907127f5d10",
+   "DateHeure": "2026-10-02T10:22:00.000Z",
+   "Type": "STANDBY_DEPART",
+   "ArticleID": "ART-0003",
+   "EmplacementSource": "B-B02-N05-E03",
+   "EmplacementDestination": null,
+   "Quantite": 3,
+   "Utilisateur": "m.petit",
+   "Motif": "Au cas où",
+   "Destination": "Poste source Valmont",
+   "Commentaire": "",
+   "StandbyID": "SB-2858f5b4-d2ab-49b7-925e-ea23f211cbad"
+  },
+  {
+   "MouvementID": "a8f2ad42-42f5-42b2-af24-c5ed74ed3860",
+   "DateHeure": "2026-10-03T14:17:00.000Z",
+   "Type": "STANDBY_DEPART",
+   "ArticleID": "ART-0010",
+   "EmplacementSource": "E-E02-N03-E03",
+   "EmplacementDestination": null,
+   "Quantite": 2,
+   "Utilisateur": "s.bernard",
+   "Motif": "Au cas où",
+   "Destination": "Atelier maintenance Ouest",
+   "Commentaire": "",
+   "StandbyID": "SB-5a19ca98-ae79-4a20-8e11-88fd6f98fd5a"
+  },
+  {
+   "MouvementID": "48824b15-d713-41ca-8ff6-36053bd5429b",
+   "DateHeure": "2026-10-05T07:25:00.000Z",
+   "Type": "STANDBY_DEPART",
+   "ArticleID": "ART-0017",
+   "EmplacementSource": "A-A02-N03-E03",
+   "EmplacementDestination": null,
+   "Quantite": 3,
+   "Utilisateur": "a.durand",
+   "Motif": "Au cas où",
+   "Destination": "Poste source Valmont",
+   "Commentaire": "",
+   "StandbyID": "SB-8fa442e3-a2ac-401c-a744-6e81f9599f48"
+  },
+  {
+   "MouvementID": "d520bcb5-660a-4170-99c9-60a04715552a",
+   "DateHeure": "2026-10-06T07:20:00.000Z",
+   "Type": "STANDBY_DEPART",
+   "ArticleID": "ART-0031",
+   "EmplacementSource": "A-A01-N04-E04",
+   "EmplacementDestination": null,
+   "Quantite": 3,
+   "Utilisateur": "s.bernard",
+   "Motif": "Au cas où",
+   "Destination": "Centrale Les Arcs — tranche 2",
+   "Commentaire": "",
+   "StandbyID": "SB-8625cae6-7d47-4423-965c-0dd1c646e2a9"
+  },
+  {
+   "MouvementID": "c7d5a702-92c6-4a44-ad86-764f44469364",
+   "DateHeure": "2026-10-07T11:53:00.000Z",
+   "Type": "STANDBY_DEPART",
+   "ArticleID": "ART-0045",
+   "EmplacementSource": "F-F01-N04-E04",
+   "EmplacementDestination": null,
+   "Quantite": 3,
+   "Utilisateur": "s.bernard",
+   "Motif": "Au cas où",
+   "Destination": "Centrale Les Arcs — tranche 2",
+   "Commentaire": "",
+   "StandbyID": "SB-16c5c079-0f2b-4b8f-9caf-200941b82fb8"
+  },
+  {
+   "MouvementID": "f10f0294-f43d-4836-b9f7-1a28c9388a6e",
+   "DateHeure": "2026-10-08T13:25:00.000Z",
+   "Type": "STANDBY_DEPART",
+   "ArticleID": "ART-0059",
+   "EmplacementSource": "D-D01-N01-E01",
+   "EmplacementDestination": null,
+   "Quantite": 3,
+   "Utilisateur": "a.durand",
+   "Motif": "Au cas où",
+   "Destination": "Poste source Valmont",
+   "Commentaire": "",
+   "StandbyID": "SB-b98787b7-1896-45ac-8457-a03f31e9860f"
+  },
+  {
+   "MouvementID": "8a953c99-dd14-4a1f-ab10-f6ec9f820770",
+   "DateHeure": "2026-10-10T07:27:00.000Z",
+   "Type": "STANDBY_RETOUR",
+   "ArticleID": "ART-0003",
+   "EmplacementSource": null,
+   "EmplacementDestination": "B-B02-N05-E03",
+   "Quantite": 3,
+   "Utilisateur": "s.bernard",
+   "Motif": "Non utilisé",
+   "Destination": "Poste source Valmont",
+   "Commentaire": "",
+   "StandbyID": "SB-2858f5b4-d2ab-49b7-925e-ea23f211cbad"
+  },
+  {
+   "MouvementID": "004fe3c1-8348-4903-8859-42ac04870784",
+   "DateHeure": "2026-10-11T11:50:00.000Z",
+   "Type": "STANDBY_CONSOMME",
+   "ArticleID": "ART-0010",
+   "EmplacementSource": null,
+   "EmplacementDestination": null,
+   "Quantite": 2,
+   "Utilisateur": "s.bernard",
+   "Motif": "Utilisé sur chantier",
+   "Destination": "Atelier maintenance Ouest",
+   "Commentaire": "",
+   "StandbyID": "SB-5a19ca98-ae79-4a20-8e11-88fd6f98fd5a"
+  }
+ ],
+ "standbys": [
+  {
+   "StandbyID": "SB-2858f5b4-d2ab-49b7-925e-ea23f211cbad",
+   "ArticleID": "ART-0003",
+   "EmplacementOrigine": "B-B02-N05-E03",
+   "Quantite": 3,
+   "Chantier": "Poste source Valmont",
+   "Utilisateur": "m.petit",
+   "DateSortie": "2026-10-02T10:22:00.000Z",
+   "DateRetour": "2026-10-10T07:27:00.000Z",
+   "Statut": "clos",
+   "QuantiteRetournee": 3,
+   "QuantiteConsommee": 0
+  },
+  {
+   "StandbyID": "SB-5a19ca98-ae79-4a20-8e11-88fd6f98fd5a",
+   "ArticleID": "ART-0010",
+   "EmplacementOrigine": "E-E02-N03-E03",
+   "Quantite": 2,
+   "Chantier": "Atelier maintenance Ouest",
+   "Utilisateur": "s.bernard",
+   "DateSortie": "2026-10-03T14:17:00.000Z",
+   "DateRetour": "2026-10-11T11:50:00.000Z",
+   "Statut": "clos",
+   "QuantiteRetournee": 0,
+   "QuantiteConsommee": 2
+  },
+  {
+   "StandbyID": "SB-8fa442e3-a2ac-401c-a744-6e81f9599f48",
+   "ArticleID": "ART-0017",
+   "EmplacementOrigine": "A-A02-N03-E03",
+   "Quantite": 3,
+   "Chantier": "Poste source Valmont",
+   "Utilisateur": "a.durand",
+   "DateSortie": "2026-10-05T07:25:00.000Z",
+   "DateRetour": null,
+   "Statut": "ouvert",
+   "QuantiteRetournee": 0,
+   "QuantiteConsommee": 0
+  },
+  {
+   "StandbyID": "SB-8625cae6-7d47-4423-965c-0dd1c646e2a9",
+   "ArticleID": "ART-0031",
+   "EmplacementOrigine": "A-A01-N04-E04",
+   "Quantite": 3,
+   "Chantier": "Centrale Les Arcs — tranche 2",
+   "Utilisateur": "s.bernard",
+   "DateSortie": "2026-10-06T07:20:00.000Z",
+   "DateRetour": null,
+   "Statut": "ouvert",
+   "QuantiteRetournee": 0,
+   "QuantiteConsommee": 0
+  },
+  {
+   "StandbyID": "SB-16c5c079-0f2b-4b8f-9caf-200941b82fb8",
+   "ArticleID": "ART-0045",
+   "EmplacementOrigine": "F-F01-N04-E04",
+   "Quantite": 3,
+   "Chantier": "Centrale Les Arcs — tranche 2",
+   "Utilisateur": "s.bernard",
+   "DateSortie": "2026-10-07T11:53:00.000Z",
+   "DateRetour": null,
+   "Statut": "ouvert",
+   "QuantiteRetournee": 0,
+   "QuantiteConsommee": 0
+  },
+  {
+   "StandbyID": "SB-b98787b7-1896-45ac-8457-a03f31e9860f",
+   "ArticleID": "ART-0059",
+   "EmplacementOrigine": "D-D01-N01-E01",
+   "Quantite": 3,
+   "Chantier": "Poste source Valmont",
+   "Utilisateur": "a.durand",
+   "DateSortie": "2026-10-08T13:25:00.000Z",
+   "DateRetour": null,
+   "Statut": "ouvert",
+   "QuantiteRetournee": 0,
+   "QuantiteConsommee": 0
+  }
+ ]
+}

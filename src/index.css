@@ -1,0 +1,27 @@
+@import '@fontsource-variable/inter/wght.css';
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html, body, #root { height: 100%; }
+body { margin: 0; font-size: 13px; overflow: hidden; }
+
+@layer components {
+  .btn { @apply inline-flex items-center justify-center gap-1.5 rounded px-2.5 py-1.5 text-xs font-medium transition-colors disabled:opacity-40 disabled:cursor-not-allowed; }
+  .btn-primaire { @apply btn bg-securite text-acier-950 hover:bg-yellow-400; }
+  .btn-secondaire { @apply btn bg-acier-700 text-acier-100 hover:bg-acier-600; }
+  .btn-fantome { @apply btn text-acier-300 hover:bg-acier-800 hover:text-acier-100; }
+  .champ { @apply w-full rounded border border-acier-600 bg-acier-900 px-2 py-1.5 text-sm text-acier-100 placeholder:text-acier-500 focus:border-securite focus:outline-none; }
+  .etiquette { @apply mb-1 block text-[11px] font-medium uppercase tracking-wide text-acier-400; }
+  .carte { @apply rounded-md border border-acier-700 bg-acier-850; }
+  .titre-section { @apply text-[11px] font-semibold uppercase tracking-wider text-acier-400; }
+  .table-std { @apply w-full border-collapse text-left text-xs; }
+  .table-std th { @apply sticky top-0 z-10 border-b border-acier-700 bg-acier-850 px-2 py-1.5 font-semibold text-acier-300; }
+  .table-std td { @apply border-b border-acier-800 px-2 py-1.5 align-top; }
+  .table-std tbody tr:hover { @apply bg-acier-800/60; }
+  .pastille { @apply inline-flex items-center rounded px-1.5 py-0.5 text-[10px] font-semibold uppercase tracking-wide; }
+}
+
+::-webkit-scrollbar { width: 10px; height: 10px; }
+::-webkit-scrollbar-thumb { background: #34404e; border-radius: 5px; border: 2px solid #11151b; }
+::-webkit-scrollbar-track { background: transparent; }
