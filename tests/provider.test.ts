@@ -77,3 +77,21 @@ describe('Jeu de démonstration', () => {
     expect(s.stocks.every((x) => x.Quantite > 0)).toBe(true);
   });
 });
+
+describe('LocalDemoProvider.remplacerDonnees', () => {
+  it('remplace tout, ou rien si la sauvegarde échoue', async () => {
+    const store = memoryStore();
+    const p = new LocalDemoProvider({ demo: magasinVide, store });
+    await p.init();
+    const avant = p.getSnapshot();
+    store.set = async () => {
+      throw new Error('quota dépassé');
+    };
+    await expect(p.remplacerDonnees(demo as Snapshot)).rejects.toThrow(/quota/);
+    expect(p.getSnapshot()).toBe(avant);
+    const q = new LocalDemoProvider({ demo: magasinVide, store: memoryStore() });
+    await q.init();
+    await q.remplacerDonnees(demo as Snapshot);
+    expect(q.getSnapshot().articles).toHaveLength(120);
+  });
+});

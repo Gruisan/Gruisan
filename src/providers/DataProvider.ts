@@ -27,5 +27,7 @@ export interface DataProvider {
   /** Sauvegarde complète au format JSON (alternative/secours à la persistance du navigateur). */
   exporterJson(): string;
   importerJson(json: string): Promise<Snapshot>;
+  /** Remplace toutes les données (import Excel validé). Tout ou rien. */
+  remplacerDonnees(s: Snapshot): Promise<Snapshot>;
   statut(): StatutDonnees;
 }

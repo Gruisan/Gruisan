@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "description": "Correspondance champ interne -> en-tête de colonne Excel. Modifier les valeurs (à droite) pour s'aligner sur les listes SharePoint / Power Apps. Les en-têtes sont comparés sans tenir compte de la casse, des accents ni des espaces en trop.",
+  "tables": {
+    "articles": {
+      "feuille": "ARTICLES",
+      "colonnes": {
+        "ArticleID": "ArticleID",
+        "Reference": "Reference",
+        "Designation": "Designation",
+        "Categorie": "Categorie",
+        "Constructeur": "Constructeur",
+        "Description": "Description",
+        "StockMinimum": "StockMinimum",
+        "StockMaximum": "StockMaximum",
+        "Unite": "Unite",
+        "Statut": "Statut"
+      }
+    },
+    "emplacements": {
+      "feuille": "EMPLACEMENTS",
+      "colonnes": {
+        "EmplacementID": "EmplacementID",
+        "Zone": "Zone",
+        "Rayonnage": "Rayonnage",
+        "Niveau": "Niveau",
+        "Position": "Position",
+        "Capacite": "Capacite"
+      }
+    },
+    "stocks": {
+      "feuille": "STOCKS",
+      "colonnes": {
+        "StockID": "StockID",
+        "ArticleID": "ArticleID",
+        "EmplacementID": "EmplacementID",
+        "Quantite": "Quantite",
+        "Version": "Version",
+        "DateModification": "DateModification"
+      }
+    },
+    "mouvements": {
+      "feuille": "MOUVEMENTS",
+      "colonnes": {
+        "MouvementID": "MouvementID",
+        "DateHeure": "DateHeure",
+        "Type": "Type",
+        "ArticleID": "ArticleID",
+        "EmplacementSource": "EmplacementSource",
+        "EmplacementDestination": "EmplacementDestination",
+        "Quantite": "Quantite",
+        "Utilisateur": "Utilisateur",
+        "Motif": "Motif",
+        "Destination": "Destination",
+        "Commentaire": "Commentaire",
+        "StandbyID": "StandbyID",
+        "Ecart": "Ecart"
+      }
+    },
+    "standbys": {
+      "feuille": "STANDBY",
+      "colonnes": {
+        "StandbyID": "StandbyID",
+        "ArticleID": "ArticleID",
+        "EmplacementOrigine": "EmplacementOrigine",
+        "Quantite": "Quantite",
+        "Chantier": "Chantier",
+        "Utilisateur": "Utilisateur",
+        "DateSortie": "DateSortie",
+        "DateRetour": "DateRetour",
+        "Statut": "Statut",
+        "QuantiteRetournee": "QuantiteRetournee",
+        "QuantiteConsommee": "QuantiteConsommee"
+      }
+    }
+  },
+  "options": {
+    "rejetsBloquants": false
+  }
+}

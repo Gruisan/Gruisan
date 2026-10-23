@@ -5,6 +5,7 @@ import { mkdirSync, readFileSync, rmSync } from 'node:fs';
 import { resolve } from 'node:path';
 import { pathToFileURL } from 'node:url';
 import { chromium } from 'playwright-core';
+import * as XLSX from 'xlsx';
 
 const exe = process.env.CHROMIUM ?? '/opt/pw-browsers/chromium-1194/chrome-linux/chrome';
 const fichier = resolve('dist/magasin3d.html');
@@ -175,8 +176,55 @@ for (let i = 0; i < 5; i++) {
   fps2.push(await page.evaluate(() => window.__magasinFps));
 }
 console.log(`FPS mesurés (1920×1080, vue iso, rotation continue) : ${fps2.join(', ')}`);
+await page.evaluate(() => clearInterval(window.__rot));
+
+// ---------- Phase 2 : export / import Excel ----------
+await page.selectOption('select[aria-label="Rôle simulé"]', 'administrateur');
+await page.click('nav >> text=Paramètres');
+const [dl] = await Promise.all([page.waitForEvent('download'), page.click('[data-testid="btn-export-excel"]')]);
+const cheminExport = `${sorties}/export-navigateur.xlsx`;
+await dl.saveAs(cheminExport);
+const wbExport = XLSX.read(readFileSync(cheminExport), { type: 'buffer' });
+const nbMvtExport = XLSX.utils.sheet_to_json(wbExport.Sheets.MOUVEMENTS).length;
+verifier('Export Excel téléchargé depuis file://', nbMvtExport === apres, `${dl.suggestedFilename()} — feuilles ${wbExport.SheetNames.join(', ')} — ${nbMvtExport} mouvements`);
+
+await page.click('[data-testid="btn-import-excel"]');
+await page.setInputFiles('[data-testid="fichier-excel"]', resolve('tests/fixtures/inventaire_modifie_openpyxl.xlsx'));
+await page.waitForSelector('[data-testid="verdict-import"]');
+const verdict = await page.textContent('[data-testid="verdict-import"]');
+const rejetsUi = await page.textContent('[data-testid="rejets-import"]');
+verifier('Import : référence inconnue rejetée et listée', /1 ligne\(s\) rejetée/.test(verdict) && /REF-INCONNUE-42/.test(rejetsUi) && /Référence inconnue/.test(rejetsUi), verdict.trim());
+await page.screenshot({ path: `${sorties}/10-rapport-import.png` });
+await page.click('[data-testid="btn-confirmer-import"]');
+await page.waitForSelector('[data-testid="import-termine"]');
+await page.click('[data-testid="import-excel"] >> button:has-text("Fermer")');
+const apresImport = await nbMouvementsAffiches(page);
+verifier('Import appliqué (données du classeur)', apresImport === demo.mouvements.length, `${apresImport} mouvements`);
+
+// Import bloqué : feuille obligatoire absente → aucune écriture.
+await page.click('nav >> text=Paramètres');
+await page.click('[data-testid="btn-import-excel"]');
+const wbBloque = XLSX.read(readFileSync('data/INVENTAIRE_MAGASIN_DEMO.xlsx'), { type: 'buffer' });
+delete wbBloque.Sheets.ARTICLES;
+wbBloque.SheetNames = wbBloque.SheetNames.filter((n) => n !== 'ARTICLES');
+await page.setInputFiles('[data-testid="fichier-excel"]', { name: 'sans-articles.xlsx', mimeType: 'application/octet-stream', buffer: XLSX.write(wbBloque, { type: 'buffer', bookType: 'xlsx' }) });
+await page.waitForSelector('[data-testid="verdict-import"]');
+const verdictBloque = await page.textContent('[data-testid="verdict-import"]');
+const btnDesactive = await page.isDisabled('[data-testid="btn-confirmer-import"]');
+verifier('Import bloquant : confirmation impossible', /Import bloqué/.test(verdictBloque) && btnDesactive, verdictBloque.trim());
+await page.screenshot({ path: `${sorties}/11-import-bloque.png` });
+
 verifier('Session 2 : aucune requête réseau', requetes.length === 0, requetes.slice(0, 5).join(', '));
 verifier('Session 2 : aucune erreur JavaScript', erreurs.length === 0, erreurs.slice(0, 3).join(' | '));
+await ctx.close();
+
+// ---------- Session 3 : l'import est persistant ----------
+({ ctx, page, requetes, erreurs } = await ouvrir());
+const s3 = await nbMouvementsAffiches(page);
+await page.click('nav >> text=Inventaire');
+const inconnue = await page.locator('text=REF-INCONNUE-42').count();
+verifier('Après réouverture : données importées conservées', s3 === demo.mouvements.length && inconnue === 0, `${s3} mouvements`);
+verifier('Session 3 : aucune requête réseau / erreur', requetes.length === 0 && erreurs.length === 0, [...requetes, ...erreurs].slice(0, 3).join(' | '));
 await ctx.close();
 rmSync(profil, { recursive: true, force: true });
 

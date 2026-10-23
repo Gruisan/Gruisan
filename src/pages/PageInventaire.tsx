@@ -2,6 +2,7 @@ import { useMemo, useState } from 'react';
 import { etatArticle, type EtatArticle } from '../domain/indexes';
 import { peut } from '../domain/roles';
 import { useStore } from '../store/useStore';
+import { exporterExcel } from '../ui/excelUi';
 import { nombre } from '../ui/format';
 
 const ETAT: Record<EtatArticle, { libelle: string; classe: string }> = {
@@ -52,6 +53,9 @@ export function PageInventaire() {
           <option value="ok">OK</option>
         </select>
         <span className="ml-auto text-xs text-acier-400">{nombre(lignes.length)} référence(s)</span>
+        <button className="btn-secondaire" onClick={() => exporterExcel()} data-testid="inventaire-export-excel">
+          Exporter Excel
+        </button>
       </div>
       <div className="carte min-h-0 flex-1 overflow-auto">
         <table className="table-std">

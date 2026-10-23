@@ -112,9 +112,14 @@ export class LocalDemoProvider implements DataProvider {
   }
 
   importerJson(json: string): Promise<Snapshot> {
+    const brut = JSON.parse(json);
+    return this.remplacerDonnees(validerSnapshot(brut?.format === 'magasin3d-sauvegarde' ? brut.donnees : brut));
+  }
+
+  remplacerDonnees(s: Snapshot): Promise<Snapshot> {
     return this.enFile(async () => {
-      const brut = JSON.parse(json);
-      const s = validerSnapshot(brut?.format === 'magasin3d-sauvegarde' ? brut.donnees : brut);
+      validerSnapshot(s);
+      // Persisté d'abord : en cas d'échec, les données en mémoire restent inchangées.
       await this.sauver(s);
       this.snapshot = s;
       return s;

@@ -4,6 +4,8 @@
 import { create } from 'zustand';
 import { construireIndex, type Index } from '../domain/indexes';
 import type { Layout } from '../domain/layout';
+import { validerMapping, type MappingImport } from '../domain/excel';
+import mappingParDefaut from '../../config/import-mapping.json';
 import type { ApplyResult, MouvementInput, Snapshot, TypeMouvement } from '../domain/types';
 import { emptySnapshot } from '../domain/engine';
 import type { DataProvider, StatutDonnees } from '../providers/DataProvider';
@@ -66,6 +68,8 @@ interface AppState {
   afficherFps: boolean;
   /** Qualité graphique : 'haute' (anticrénelage, densité ≤ 1,5) ou 'eco' (GPU faibles). */
   qualite: 'haute' | 'eco';
+  /** Mapping des colonnes Excel (config/import-mapping.json, modifiable dans Paramètres). */
+  mapping: MappingImport;
 
   init(provider: DataProvider, layout: Layout): Promise<void>;
   appliquer(input: MouvementInput): Promise<ApplyResult>;
@@ -81,6 +85,8 @@ interface AppState {
   setRole(r: Role): void;
   setAfficherFps(v: boolean): void;
   setQualite(q: 'haute' | 'eco'): void;
+  /** null : revient au mapping livré. Lève une erreur si le mapping est invalide. */
+  setMapping(m: MappingImport | null): void;
 }
 
 let compteurEvenement = 0;
@@ -94,6 +100,18 @@ function lirePref<T>(k: string, defaut: T): T {
     return defaut;
   }
 }
+export const MAPPING_PAR_DEFAUT = validerMapping(mappingParDefaut);
+
+function lireMapping(): MappingImport {
+  const m = lirePref<MappingImport | null>('mapping', null);
+  if (!m) return MAPPING_PAR_DEFAUT;
+  try {
+    return validerMapping(m);
+  } catch {
+    return MAPPING_PAR_DEFAUT;
+  }
+}
+
 function ecrirePref(k: string, v: unknown) {
   try {
     localStorage.setItem(`magasin3d:pref:${k}`, JSON.stringify(v));
@@ -123,6 +141,7 @@ export const useStore = create<AppState>((set, get) => ({
   role: lirePref<Role>('role', 'magasinier'),
   afficherFps: lirePref('fps', false),
   qualite: lirePref<'haute' | 'eco'>('qualite', 'haute'),
+  mapping: lireMapping(),
 
   async init(provider, layout) {
     try {
@@ -195,6 +214,11 @@ export const useStore = create<AppState>((set, get) => ({
   setQualite(qualite) {
     ecrirePref('qualite', qualite);
     set({ qualite });
+  },
+  setMapping(m) {
+    const mapping = m ? validerMapping(m) : MAPPING_PAR_DEFAUT;
+    ecrirePref('mapping', m ? mapping : null);
+    set({ mapping });
   },
 }));
 
